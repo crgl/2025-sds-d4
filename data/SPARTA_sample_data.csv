@@ -1,0 +1,1055 @@
+Sample ID,Participant ID,Days from Dose 1,AUC,Sex,Race,Infection Pre-Vaccine,Age,Vaccine Type,High Performers,Low Performers
+W4531,SPARTA-006,-15,5.0,Female,White,No,37,Pfizer,True,False
+Y2355,SPARTA-006,10,520.263566318974,Female,White,No,37,Pfizer,True,False
+I9194,SPARTA-006,41,2664.2572395605443,Female,White,No,37,Pfizer,True,False
+A6310,SPARTA-006,69,1377.894377551448,Female,White,No,37,Pfizer,True,False
+P4766,SPARTA-006,98,640.0448699687329,Female,White,No,37,Pfizer,True,False
+Y0282,SPARTA-006,125,914.8976742288318,Female,White,No,37,Pfizer,True,False
+M2586,SPARTA-006,152,435.47400858343,Female,White,No,37,Pfizer,True,False
+M8633,SPARTA-006,182,174.58202844453442,Female,White,No,37,Pfizer,True,False
+T7605,SPARTA-006,206,301.59137573177736,Female,White,No,37,Pfizer,True,False
+M1273,SPARTA-006,239,84.58822874980511,Female,White,No,37,Pfizer,True,False
+S4858,SPARTA-006,265,96.01260389824286,Female,White,No,37,Pfizer,True,False
+W1112,SPARTA-006,295,11695.456943550073,Female,White,No,37,Pfizer,True,False
+A9121,SPARTA-006,321,25738.575564591225,Female,White,No,37,Pfizer,True,False
+D3164,SPARTA-006,378,11321.549300106217,Female,White,No,37,Pfizer,True,False
+Z6288,SPARTA-006,433,5655.448500106145,Female,White,No,37,Pfizer,True,False
+F4749,SPARTA-006,493,2689.9726125715583,Female,White,No,37,Pfizer,True,False
+F2528,SPARTA-006,517,7706.267845547108,Female,White,No,37,Pfizer,True,False
+I8194,SPARTA-006,545,5177.601599682649,Female,White,No,37,Pfizer,True,False
+G9858,SPARTA-006,594,2716.144015511305,Female,White,No,37,Pfizer,True,False
+Q2488,SPARTA-006,630,5301.599830017376,Female,White,No,37,Pfizer,True,False
+U2511,SPARTA-006,685,2121.965429419596,Female,White,No,37,Pfizer,True,False
+I1097,SPARTA-023,-12,5.0,Female,White,No,49,Moderna,True,False
+J5158,SPARTA-023,158,440.1834094406427,Female,White,No,49,Moderna,True,False
+V5562,SPARTA-023,296,4193.6022501219695,Female,White,No,49,Moderna,True,False
+S6004,SPARTA-023,324,3544.835813212328,Female,White,No,49,Moderna,True,False
+D1984,SPARTA-023,352,3659.833841933597,Female,White,No,49,Moderna,True,False
+U2100,SPARTA-023,378,2565.698100190601,Female,White,No,49,Moderna,True,False
+X1724,SPARTA-023,411,4075.340926374644,Female,White,No,49,Moderna,True,False
+Q7701,SPARTA-023,464,3191.088150468405,Female,White,No,49,Moderna,True,False
+C1565,SPARTA-023,520,976.5211351640664,Female,White,No,49,Moderna,True,False
+D3179,SPARTA-023,549,2705.1338740367864,Female,White,No,49,Moderna,True,False
+C3893,SPARTA-023,604,2724.144997384897,Female,White,No,49,Moderna,True,False
+U4949,SPARTA-023,631,1274.926623071353,Female,White,No,49,Moderna,True,False
+F4685,SPARTA-023,662,2788.4325016027037,Female,White,No,49,Moderna,True,False
+F1085,SPARTA-023,688,1470.245951702775,Female,White,No,49,Moderna,True,False
+K3414,SPARTA-032,-1,5.0,Female,Black or African American,No,40,Pfizer,True,False
+C7184,SPARTA-032,29,10276.974381610264,Female,Black or African American,No,40,Pfizer,True,False
+D5160,SPARTA-032,53,5438.751815243312,Female,Black or African American,No,40,Pfizer,True,False
+E7165,SPARTA-032,82,1183.5719366354408,Female,Black or African American,No,40,Pfizer,True,False
+E3489,SPARTA-032,111,951.444649559502,Female,Black or African American,No,40,Pfizer,True,False
+Y5291,SPARTA-032,139,180.9556370905031,Female,Black or African American,No,40,Pfizer,True,False
+J8224,SPARTA-032,170,160.1201597422937,Female,Black or African American,No,40,Pfizer,True,False
+J9110,SPARTA-032,195,202.81526985883303,Female,Black or African American,No,40,Pfizer,True,False
+B3789,SPARTA-032,216,244.10111971837955,Female,Black or African American,No,40,Pfizer,True,False
+D3376,SPARTA-032,250,8164.961731187757,Female,Black or African American,No,40,Pfizer,True,False
+Q4601,SPARTA-032,306,26560.88200045648,Female,Black or African American,No,40,Pfizer,True,False
+B7678,SPARTA-032,360,10215.130393760384,Female,Black or African American,No,40,Pfizer,True,False
+B0473,SPARTA-032,419,7337.134277628506,Female,Black or African American,No,40,Pfizer,True,False
+O1835,SPARTA-032,475,9547.31053308335,Female,Black or African American,No,40,Pfizer,True,False
+G8470,SPARTA-032,503,15207.008524177616,Female,Black or African American,No,40,Pfizer,True,False
+G1837,SPARTA-032,529,7100.031433056764,Female,Black or African American,No,40,Pfizer,True,False
+U8451,SPARTA-032,562,16232.71815762001,Female,Black or African American,No,40,Pfizer,True,False
+Q4271,SPARTA-032,622,14995.788502756435,Female,Black or African American,No,40,Pfizer,True,False
+P7851,SPARTA-032,640,12981.061940556949,Female,Black or African American,No,40,Pfizer,True,False
+C2179,SPARTA-032,698,9591.365045634537,Female,Black or African American,No,40,Pfizer,True,False
+E5246,SPARTA-043,8,73.72952944261326,Female,White,No,61,Moderna,True,False
+F7255,SPARTA-043,33,3045.7740920192746,Female,White,No,61,Moderna,True,False
+Y3701,SPARTA-043,61,2176.692937423209,Female,White,No,61,Moderna,True,False
+W6404,SPARTA-043,92,698.6887412569097,Female,White,No,61,Moderna,True,False
+S8993,SPARTA-043,120,545.9442409291188,Female,White,No,61,Moderna,True,False
+E7680,SPARTA-043,176,189.7616797530024,Female,White,No,61,Moderna,True,False
+I4495,SPARTA-043,197,291.1147434405595,Female,White,No,61,Moderna,True,False
+V7559,SPARTA-043,259,1999.571662917897,Female,White,No,61,Moderna,True,False
+R2743,SPARTA-043,285,24517.404295431574,Female,White,No,61,Moderna,True,False
+I9226,SPARTA-043,337,9380.407980722695,Female,White,No,61,Moderna,True,False
+I9411,SPARTA-043,374,12858.910633786563,Female,White,No,61,Moderna,True,False
+S9437,SPARTA-043,399,13494.019876807772,Female,White,No,61,Moderna,True,False
+K0240,SPARTA-043,432,3123.39998607042,Female,White,No,61,Moderna,True,False
+T9791,SPARTA-043,477,2848.493889913323,Female,White,No,61,Moderna,True,False
+V1601,SPARTA-043,510,5544.349721192607,Female,White,No,61,Moderna,True,False
+T7326,SPARTA-043,570,2569.579391575634,Female,White,No,61,Moderna,True,False
+H4760,SPARTA-043,652,2244.6642557132204,Female,White,No,61,Moderna,True,False
+B9705,SPARTA-043,680,4023.366663934206,Female,White,No,61,Moderna,True,False
+T4430,SPARTA-044,-199,5.0,Female,Black or African American,No,45,Pfizer,False,True
+U9784,SPARTA-044,-173,5.0,Female,Black or African American,No,45,Pfizer,False,True
+Q4524,SPARTA-044,-143,5.0,Female,Black or African American,No,45,Pfizer,False,True
+V4505,SPARTA-044,-116,5.0,Female,Black or African American,No,45,Pfizer,False,True
+L3410,SPARTA-044,-88,5.0,Female,Black or African American,No,45,Pfizer,False,True
+B6980,SPARTA-044,-62,5.0,Female,Black or African American,No,45,Pfizer,False,True
+T0591,SPARTA-044,-31,5.0,Female,Black or African American,No,45,Pfizer,False,True
+B0998,SPARTA-044,-6,5.0,Female,Black or African American,No,45,Pfizer,False,True
+P6384,SPARTA-044,25,4175.363045250183,Female,Black or African American,No,45,Pfizer,False,True
+K2925,SPARTA-044,83,726.4986302312072,Female,Black or African American,No,45,Pfizer,False,True
+Q4320,SPARTA-044,109,576.4073665160859,Female,Black or African American,No,45,Pfizer,False,True
+Z4789,SPARTA-044,161,306.64838153375774,Female,Black or African American,No,45,Pfizer,False,True
+Z9790,SPARTA-044,194,186.55932008614184,Female,Black or African American,No,45,Pfizer,False,True
+Q4292,SPARTA-044,249,119.42586422983749,Female,Black or African American,No,45,Pfizer,False,True
+M2488,SPARTA-044,270,57.89086219300251,Female,Black or African American,No,45,Pfizer,False,True
+I5891,SPARTA-044,306,88.3826075618015,Female,Black or African American,No,45,Pfizer,False,True
+E5313,SPARTA-044,333,68.50371722314009,Female,Black or African American,No,45,Pfizer,False,True
+L7616,SPARTA-044,385,9567.259630908262,Female,Black or African American,No,45,Pfizer,False,True
+Y0242,SPARTA-044,417,5065.759440639916,Female,Black or African American,No,45,Pfizer,False,True
+V0805,SPARTA-044,472,4941.02975973025,Female,Black or African American,No,45,Pfizer,False,True
+X8810,SPARTA-044,503,2380.055940658353,Female,Black or African American,No,45,Pfizer,False,True
+Z4941,SPARTA-044,530,6366.586480011615,Female,Black or African American,No,45,Pfizer,False,True
+N1560,SPARTA-044,588,4206.359307290049,Female,Black or African American,No,45,Pfizer,False,True
+J2223,SPARTA-055,-20,5.0,Female,White,No,47,Pfizer,True,False
+M8775,SPARTA-055,15,4770.929907728225,Female,White,No,47,Pfizer,True,False
+R9097,SPARTA-055,63,426.91995661677146,Female,White,No,47,Pfizer,True,False
+K2722,SPARTA-055,127,128.1713884611042,Female,White,No,47,Pfizer,True,False
+J8073,SPARTA-055,206,55.57606386190184,Female,White,No,47,Pfizer,True,False
+U8527,SPARTA-055,341,13090.034356495924,Female,White,No,47,Pfizer,True,False
+F7747,SPARTA-055,399,8067.501425934727,Female,White,No,47,Pfizer,True,False
+O7949,SPARTA-055,427,14699.061820989287,Female,White,No,47,Pfizer,True,False
+S2161,SPARTA-055,453,8446.270043170576,Female,White,No,47,Pfizer,True,False
+A8993,SPARTA-055,514,7256.128147607493,Female,White,No,47,Pfizer,True,False
+B0658,SPARTA-055,566,9394.979478579236,Female,White,No,47,Pfizer,True,False
+F5945,SPARTA-055,594,7443.41938731191,Female,White,No,47,Pfizer,True,False
+Q7096,SPARTA-055,624,16382.834296155002,Female,White,No,47,Pfizer,True,False
+H2589,SPARTA-055,652,36598.839655450254,Female,White,No,47,Pfizer,True,False
+Y1851,SPARTA-055,708,3619.367833827212,Female,White,No,47,Pfizer,True,False
+L4522,SPARTA-056,5,96.14973926725968,Female,White,No,39,Moderna,True,False
+O8021,SPARTA-056,30,7762.5637238636755,Female,White,No,39,Moderna,True,False
+V9065,SPARTA-056,62,3347.986580534292,Female,White,No,39,Moderna,True,False
+Q8170,SPARTA-056,86,1370.595506641158,Female,White,No,39,Moderna,True,False
+D9989,SPARTA-056,117,1106.8493075393574,Female,White,No,39,Moderna,True,False
+D2730,SPARTA-056,180,138.48227613316092,Female,White,No,39,Moderna,True,False
+M0247,SPARTA-056,231,54.80248625704491,Female,White,No,39,Moderna,True,False
+G6761,SPARTA-056,261,13785.028405413595,Female,White,No,39,Moderna,True,False
+V3273,SPARTA-056,289,12569.687182709136,Female,White,No,39,Moderna,True,False
+Q8293,SPARTA-056,320,6885.241285668487,Female,White,No,39,Moderna,True,False
+I1504,SPARTA-056,340,11361.019822335846,Female,White,No,39,Moderna,True,False
+F9582,SPARTA-056,450,5772.907344850416,Female,White,No,39,Moderna,True,False
+E0481,SPARTA-056,480,7166.18626429348,Female,White,No,39,Moderna,True,False
+F3902,SPARTA-056,512,4068.7799324395214,Female,White,No,39,Moderna,True,False
+Q2006,SPARTA-056,566,2772.895168084251,Female,White,No,39,Moderna,True,False
+L0084,SPARTA-056,619,3017.186029606945,Female,White,No,39,Moderna,True,False
+H8045,SPARTA-056,642,2430.124316247419,Female,White,No,39,Moderna,True,False
+X6914,SPARTA-056,670,4293.202222448319,Female,White,No,39,Moderna,True,False
+T2225,SPARTA-057,-228,5.0,Female,White,No,37,Pfizer,False,True
+J1752,SPARTA-057,-202,5.0,Female,White,No,37,Pfizer,False,True
+J9253,SPARTA-057,-171,5.0,Female,White,No,37,Pfizer,False,True
+V8160,SPARTA-057,-144,5.0,Female,White,No,37,Pfizer,False,True
+E9986,SPARTA-057,-115,5.0,Female,White,No,37,Pfizer,False,True
+P3794,SPARTA-057,-85,5.0,Female,White,No,37,Pfizer,False,True
+Z2381,SPARTA-057,-56,5.0,Female,White,No,37,Pfizer,False,True
+Q4887,SPARTA-057,-32,5.0,Female,White,No,37,Pfizer,False,True
+J0422,SPARTA-057,-5,5.0,Female,White,No,37,Pfizer,False,True
+A0368,SPARTA-057,22,1780.0432533977453,Female,White,No,37,Pfizer,False,True
+A6033,SPARTA-057,109,734.3253193049289,Female,White,No,37,Pfizer,False,True
+A5343,SPARTA-057,166,157.85984169172832,Female,White,No,37,Pfizer,False,True
+J7382,SPARTA-057,195,135.92379020436215,Female,White,No,37,Pfizer,False,True
+A2847,SPARTA-057,248,70.11098754864344,Female,White,No,37,Pfizer,False,True
+A5219,SPARTA-057,283,112.7921049947204,Female,White,No,37,Pfizer,False,True
+T4907,SPARTA-057,331,106.57071874603172,Female,White,No,37,Pfizer,False,True
+R4255,SPARTA-057,353,5962.397239913352,Female,White,No,37,Pfizer,False,True
+V8176,SPARTA-057,387,2609.639386808054,Female,White,No,37,Pfizer,False,True
+W4901,SPARTA-057,419,2002.1947613804823,Female,White,No,37,Pfizer,False,True
+U2447,SPARTA-057,500,3362.6597434701107,Female,White,No,37,Pfizer,False,True
+P1013,SPARTA-057,530,2819.0246779335616,Female,White,No,37,Pfizer,False,True
+W9711,SPARTA-057,633,3614.854368138614,Female,White,No,37,Pfizer,False,True
+Z8567,SPARTA-057,668,2942.811844706842,Female,White,No,37,Pfizer,False,True
+F0886,SPARTA-057,696,4497.354415078826,Female,White,No,37,Pfizer,False,True
+Q2486,SPARTA-064,-19,5.0,Male,White,No,45,Pfizer,True,False
+Q1853,SPARTA-064,39,4049.478854738007,Male,White,No,45,Pfizer,True,False
+B6261,SPARTA-064,58,2062.884533203991,Male,White,No,45,Pfizer,True,False
+T1303,SPARTA-064,177,99.23120561517528,Male,White,No,45,Pfizer,True,False
+E7960,SPARTA-064,205,107.14781507409316,Male,White,No,45,Pfizer,True,False
+O0914,SPARTA-064,258,74.88270881892052,Male,White,No,45,Pfizer,True,False
+Z9271,SPARTA-064,282,9083.276338727996,Male,White,No,45,Pfizer,True,False
+V3518,SPARTA-064,345,10069.438618294093,Male,White,No,45,Pfizer,True,False
+G9375,SPARTA-064,374,15029.863912550829,Male,White,No,45,Pfizer,True,False
+A9782,SPARTA-064,404,10253.229514875084,Male,White,No,45,Pfizer,True,False
+Q5615,SPARTA-064,453,4729.318432753794,Male,White,No,45,Pfizer,True,False
+M8964,SPARTA-064,513,2597.4514012055965,Male,White,No,45,Pfizer,True,False
+P8789,SPARTA-064,567,2545.763433222084,Male,White,No,45,Pfizer,True,False
+J0335,SPARTA-064,625,3553.2880754173143,Male,White,No,45,Pfizer,True,False
+J9760,SPARTA-064,688,3092.7040181845628,Male,White,No,45,Pfizer,True,False
+A3236,SPARTA-064,708,1665.5147200432052,Male,White,No,45,Pfizer,True,False
+P1568,SPARTA-072,-20,5.0,Female,Black or African American,No,46,Pfizer,True,False
+S4587,SPARTA-072,5,26.084065021447344,Female,Black or African American,No,46,Pfizer,True,False
+I6048,SPARTA-072,36,2621.9922034026927,Female,Black or African American,No,46,Pfizer,True,False
+Z3259,SPARTA-072,66,1469.4352670226106,Female,Black or African American,No,46,Pfizer,True,False
+D2762,SPARTA-072,120,408.09266099016367,Female,Black or African American,No,46,Pfizer,True,False
+N3151,SPARTA-072,173,87.08196443304129,Female,Black or African American,No,46,Pfizer,True,False
+A7173,SPARTA-072,229,39.916885596473385,Female,Black or African American,No,46,Pfizer,True,False
+V8024,SPARTA-072,260,26395.171024265816,Female,Black or African American,No,46,Pfizer,True,False
+L3120,SPARTA-072,285,32433.30114908715,Female,Black or African American,No,46,Pfizer,True,False
+I2759,SPARTA-072,323,26650.53251001954,Female,Black or African American,No,46,Pfizer,True,False
+A3989,SPARTA-072,347,16656.202240828836,Female,Black or African American,No,46,Pfizer,True,False
+S1608,SPARTA-072,375,11627.985203692706,Female,Black or African American,No,46,Pfizer,True,False
+E5498,SPARTA-072,484,12027.93891635772,Female,Black or African American,No,46,Pfizer,True,False
+P2228,SPARTA-072,508,14514.613219384471,Female,Black or African American,No,46,Pfizer,True,False
+G5918,SPARTA-072,539,8722.052072883356,Female,Black or African American,No,46,Pfizer,True,False
+X1988,SPARTA-072,570,11281.161083174526,Female,Black or African American,No,46,Pfizer,True,False
+N5699,SPARTA-072,596,18941.54719199106,Female,Black or African American,No,46,Pfizer,True,False
+W3311,SPARTA-072,624,6828.675138346102,Female,Black or African American,No,46,Pfizer,True,False
+A6584,SPARTA-072,654,7824.184574956554,Female,Black or African American,No,46,Pfizer,True,False
+V0076,SPARTA-072,708,14001.095689301945,Female,Black or African American,No,46,Pfizer,True,False
+J9318,SPARTA-083,-14,5.0,Female,White,No,40,Pfizer,True,False
+P9887,SPARTA-083,13,2299.0216835842616,Female,White,No,40,Pfizer,True,False
+D4591,SPARTA-083,66,1241.1989840055207,Female,White,No,40,Pfizer,True,False
+O7366,SPARTA-083,97,547.1115715308201,Female,White,No,40,Pfizer,True,False
+I9506,SPARTA-083,124,403.3457734607526,Female,White,No,40,Pfizer,True,False
+C9493,SPARTA-083,182,161.70650770679885,Female,White,No,40,Pfizer,True,False
+S2726,SPARTA-083,323,10257.537228529603,Female,White,No,40,Pfizer,True,False
+Q0639,SPARTA-083,347,6473.792500565136,Female,White,No,40,Pfizer,True,False
+G7987,SPARTA-083,407,9550.036600431727,Female,White,No,40,Pfizer,True,False
+D9963,SPARTA-083,434,4875.624989028637,Female,White,No,40,Pfizer,True,False
+H2113,SPARTA-083,489,5151.521900741503,Female,White,No,40,Pfizer,True,False
+Y7309,SPARTA-083,518,3286.1645508250854,Female,White,No,40,Pfizer,True,False
+Z8273,SPARTA-083,548,1796.915486732625,Female,White,No,40,Pfizer,True,False
+Y6530,SPARTA-083,603,2938.599560923022,Female,White,No,40,Pfizer,True,False
+E4655,SPARTA-083,627,3443.049954033744,Female,White,No,40,Pfizer,True,False
+E0028,SPARTA-083,716,1728.5770874752975,Female,White,No,40,Pfizer,True,False
+O4846,SPARTA-094,-235,5.0,Female,White,No,50,Pfizer,False,True
+Y9962,SPARTA-094,-206,5.0,Female,White,No,50,Pfizer,False,True
+K5987,SPARTA-094,-176,5.0,Female,White,No,50,Pfizer,False,True
+G5566,SPARTA-094,-151,5.0,Female,White,No,50,Pfizer,False,True
+N3968,SPARTA-094,-123,5.0,Female,White,No,50,Pfizer,False,True
+U4691,SPARTA-094,-93,5.0,Female,White,No,50,Pfizer,False,True
+O1718,SPARTA-094,-69,5.0,Female,White,No,50,Pfizer,False,True
+L7197,SPARTA-094,-42,5.0,Female,White,No,50,Pfizer,False,True
+L3831,SPARTA-094,-9,5.0,Female,White,No,50,Pfizer,False,True
+N2516,SPARTA-094,52,1933.6280341004197,Female,White,No,50,Pfizer,False,True
+K9093,SPARTA-094,73,1922.337477878016,Female,White,No,50,Pfizer,False,True
+G0460,SPARTA-094,129,484.4956635560959,Female,White,No,50,Pfizer,False,True
+W5258,SPARTA-094,157,120.8519786087414,Female,White,No,50,Pfizer,False,True
+G9328,SPARTA-094,212,127.56750200885556,Female,White,No,50,Pfizer,False,True
+M5762,SPARTA-094,270,53.27136004276928,Female,White,No,50,Pfizer,False,True
+M7635,SPARTA-094,296,126.33056059183872,Female,White,No,50,Pfizer,False,True
+Z2875,SPARTA-094,357,5590.831341573252,Female,White,No,50,Pfizer,False,True
+G2466,SPARTA-094,382,5170.197885686066,Female,White,No,50,Pfizer,False,True
+S7501,SPARTA-094,409,2437.775566864944,Female,White,No,50,Pfizer,False,True
+I7317,SPARTA-094,518,3706.441150257716,Female,White,No,50,Pfizer,False,True
+W2482,SPARTA-094,598,1722.4115212841295,Female,White,No,50,Pfizer,False,True
+P9637,SPARTA-094,659,2295.90180391716,Female,White,No,50,Pfizer,False,True
+W8507,SPARTA-094,690,2393.1608335792444,Female,White,No,50,Pfizer,False,True
+K9492,SPARTA-098,-200,5.0,Female,White,No,42,Pfizer,False,True
+K6008,SPARTA-098,-174,5.0,Female,White,No,42,Pfizer,False,True
+K5225,SPARTA-098,-115,5.0,Female,White,No,42,Pfizer,False,True
+C2093,SPARTA-098,-88,5.0,Female,White,No,42,Pfizer,False,True
+K2685,SPARTA-098,-64,5.0,Female,White,No,42,Pfizer,False,True
+I3584,SPARTA-098,-7,5.0,Female,White,No,42,Pfizer,False,True
+M9279,SPARTA-098,17,2950.1947407734037,Female,White,No,42,Pfizer,False,True
+T7910,SPARTA-098,50,1040.273502396603,Female,White,No,42,Pfizer,False,True
+B2089,SPARTA-098,109,204.5720991867291,Female,White,No,42,Pfizer,False,True
+G2221,SPARTA-098,164,219.64084897613455,Female,White,No,42,Pfizer,False,True
+P9216,SPARTA-098,192,64.37781876937015,Female,White,No,42,Pfizer,False,True
+Y5782,SPARTA-098,216,30.4765084825288,Female,White,No,42,Pfizer,False,True
+L0152,SPARTA-098,275,24.328244155766548,Female,White,No,42,Pfizer,False,True
+B9548,SPARTA-098,409,6953.455395423192,Female,White,No,42,Pfizer,False,True
+G0459,SPARTA-098,476,2995.722135593309,Female,White,No,42,Pfizer,False,True
+K4892,SPARTA-098,531,1814.5794675210925,Female,White,No,42,Pfizer,False,True
+X5716,SPARTA-098,612,1075.674663629348,Female,White,No,42,Pfizer,False,True
+O5253,SPARTA-098,669,1248.989976516778,Female,White,No,42,Pfizer,False,True
+D1267,SPARTA-101,-219,5.0,Female,White,No,36,Moderna,False,True
+Q1031,SPARTA-101,-188,5.0,Female,White,No,36,Moderna,False,True
+T4042,SPARTA-101,-163,5.0,Female,White,No,36,Moderna,False,True
+D0002,SPARTA-101,-134,5.0,Female,White,No,36,Moderna,False,True
+I9663,SPARTA-101,-52,5.0,Female,White,No,36,Moderna,False,True
+M6435,SPARTA-101,-19,5.0,Female,White,No,36,Moderna,False,True
+F8461,SPARTA-101,-2,5.0,Female,White,No,36,Moderna,False,True
+B8511,SPARTA-101,40,942.0794550651322,Female,White,No,36,Moderna,False,True
+S1148,SPARTA-101,60,530.8090974810709,Female,White,No,36,Moderna,False,True
+S9153,SPARTA-101,144,37.440060996193246,Female,White,No,36,Moderna,False,True
+A6802,SPARTA-101,201,36.83700708860723,Female,White,No,36,Moderna,False,True
+J4484,SPARTA-101,227,23.78426981992266,Female,White,No,36,Moderna,False,True
+K0690,SPARTA-101,256,33.7693459271377,Female,White,No,36,Moderna,False,True
+Y2441,SPARTA-101,284,11.04151998119438,Female,White,No,36,Moderna,False,True
+J5579,SPARTA-101,306,5.0,Female,White,No,36,Moderna,False,True
+J1124,SPARTA-101,343,13.902939630779512,Female,White,No,36,Moderna,False,True
+I3653,SPARTA-101,372,8805.839786256776,Female,White,No,36,Moderna,False,True
+F8990,SPARTA-101,423,7219.9743642353105,Female,White,No,36,Moderna,False,True
+S8066,SPARTA-101,482,5723.588753820769,Female,White,No,36,Moderna,False,True
+Q0504,SPARTA-101,536,1418.121708600495,Female,White,No,36,Moderna,False,True
+Q7684,SPARTA-101,568,1349.919143980887,Female,White,No,36,Moderna,False,True
+B9985,SPARTA-101,596,1757.882533013819,Female,White,No,36,Moderna,False,True
+T3141,SPARTA-101,642,1455.765954128325,Female,White,No,36,Moderna,False,True
+N3805,SPARTA-101,678,1347.683978310681,Female,White,No,36,Moderna,False,True
+A9314,SPARTA-101,701,1002.168537136998,Female,White,No,36,Moderna,False,True
+Y3709,SPARTA-110,-20,5.0,Male,White,No,40,Pfizer,True,False
+O6873,SPARTA-110,35,7745.287489762341,Male,White,No,40,Pfizer,True,False
+T2736,SPARTA-110,68,1765.7745564436016,Male,White,No,40,Pfizer,True,False
+H7951,SPARTA-110,90,1482.3837281587755,Male,White,No,40,Pfizer,True,False
+B8434,SPARTA-110,207,114.3343852077456,Male,White,No,40,Pfizer,True,False
+V3747,SPARTA-110,260,87.13864010043334,Male,White,No,40,Pfizer,True,False
+W1614,SPARTA-110,291,27.89804451877259,Male,White,No,40,Pfizer,True,False
+X1181,SPARTA-110,374,9526.411333882928,Male,White,No,40,Pfizer,True,False
+M0055,SPARTA-110,400,10298.116423535375,Male,White,No,40,Pfizer,True,False
+F4358,SPARTA-110,428,10497.407119770036,Male,White,No,40,Pfizer,True,False
+H6925,SPARTA-110,513,7677.985585894347,Male,White,No,40,Pfizer,True,False
+F7946,SPARTA-110,540,10693.98036671143,Male,White,No,40,Pfizer,True,False
+D3766,SPARTA-110,603,6447.444744944819,Male,White,No,40,Pfizer,True,False
+J3446,SPARTA-110,709,9835.396977938814,Male,White,No,40,Pfizer,True,False
+I6346,SPARTA-127,-218,5.0,Male,Black or African American,No,48,Pfizer,False,True
+H6946,SPARTA-127,-191,5.0,Male,Black or African American,No,48,Pfizer,False,True
+W8337,SPARTA-127,-163,5.0,Male,Black or African American,No,48,Pfizer,False,True
+M4694,SPARTA-127,-110,5.0,Male,Black or African American,No,48,Pfizer,False,True
+F2529,SPARTA-127,-50,5.0,Male,Black or African American,No,48,Pfizer,False,True
+W2454,SPARTA-127,-15,5.0,Male,Black or African American,No,48,Pfizer,False,True
+M4007,SPARTA-127,65,505.4459598727037,Male,Black or African American,No,48,Pfizer,False,True
+Y2573,SPARTA-127,90,437.8412067757644,Male,Black or African American,No,48,Pfizer,False,True
+J4666,SPARTA-127,118,145.0521792652024,Male,Black or African American,No,48,Pfizer,False,True
+D6173,SPARTA-127,147,130.66711354112482,Male,Black or African American,No,48,Pfizer,False,True
+E2430,SPARTA-127,174,91.33605957890713,Male,Black or African American,No,48,Pfizer,False,True
+J4677,SPARTA-127,195,57.72147936505869,Male,Black or African American,No,48,Pfizer,False,True
+Q2720,SPARTA-127,310,37.11500248701491,Male,Black or African American,No,48,Pfizer,False,True
+O4168,SPARTA-127,370,9647.409171828229,Male,Black or African American,No,48,Pfizer,False,True
+V8309,SPARTA-127,400,1697.6082724415414,Male,Black or African American,No,48,Pfizer,False,True
+A9482,SPARTA-127,428,586.0780218657122,Male,Black or African American,No,48,Pfizer,False,True
+W6515,SPARTA-127,450,1270.666625731392,Male,Black or African American,No,48,Pfizer,False,True
+W4010,SPARTA-127,503,489.6582534549892,Male,Black or African American,No,48,Pfizer,False,True
+S0162,SPARTA-127,540,290.86532989245256,Male,Black or African American,No,48,Pfizer,False,True
+M0444,SPARTA-127,568,355.44298379779354,Male,Black or African American,No,48,Pfizer,False,True
+G3861,SPARTA-127,601,519.1834413476795,Male,Black or African American,No,48,Pfizer,False,True
+L4754,SPARTA-127,652,318.5113775557219,Male,Black or African American,No,48,Pfizer,False,True
+W7612,SPARTA-127,676,809.439337974218,Male,Black or African American,No,48,Pfizer,False,True
+H9393,SPARTA-133,-12,5.0,Female,Asian,No,41,Moderna,True,False
+O4238,SPARTA-133,156,178.67360271856495,Female,Asian,No,41,Moderna,True,False
+Y0638,SPARTA-133,243,5853.272462407582,Female,Asian,No,41,Moderna,True,False
+H2291,SPARTA-133,322,8437.31748251933,Female,Asian,No,41,Moderna,True,False
+J4089,SPARTA-133,349,3156.6263338285785,Female,Asian,No,41,Moderna,True,False
+S6739,SPARTA-133,381,2231.698325237396,Female,Asian,No,41,Moderna,True,False
+K6459,SPARTA-133,492,4051.13797289257,Female,Asian,No,41,Moderna,True,False
+E5595,SPARTA-133,548,2413.3640766256817,Female,Asian,No,41,Moderna,True,False
+N8128,SPARTA-133,577,5759.344655665684,Female,Asian,No,41,Moderna,True,False
+G2836,SPARTA-133,604,2098.4216351968234,Female,Asian,No,41,Moderna,True,False
+Z1773,SPARTA-133,657,1592.3591169450085,Female,Asian,No,41,Moderna,True,False
+B2183,SPARTA-133,690,3186.125066105129,Female,Asian,No,41,Moderna,True,False
+S6756,SPARTA-168,0,5.0,Female,Hispanic or Latino,No,46,Pfizer,True,False
+L6729,SPARTA-168,29,3758.762729314945,Female,Hispanic or Latino,No,46,Pfizer,True,False
+C9203,SPARTA-168,197,64.56164141469033,Female,Hispanic or Latino,No,46,Pfizer,True,False
+W4695,SPARTA-168,252,10762.265173279136,Female,Hispanic or Latino,No,46,Pfizer,True,False
+J6734,SPARTA-168,281,24760.364263046,Female,Hispanic or Latino,No,46,Pfizer,True,False
+P5559,SPARTA-168,360,7637.310297110595,Female,Hispanic or Latino,No,46,Pfizer,True,False
+J4876,SPARTA-168,497,3765.291883473881,Female,Hispanic or Latino,No,46,Pfizer,True,False
+Q2165,SPARTA-168,595,2758.653395854991,Female,Hispanic or Latino,No,46,Pfizer,True,False
+K4465,SPARTA-172,-252,5.0,Female,Asian,No,55,Moderna,False,True
+N1922,SPARTA-172,-224,5.0,Female,Asian,No,55,Moderna,False,True
+L9722,SPARTA-172,-195,5.0,Female,Asian,No,55,Moderna,False,True
+M8697,SPARTA-172,-140,5.0,Female,Asian,No,55,Moderna,False,True
+H1101,SPARTA-172,-87,5.0,Female,Asian,No,55,Moderna,False,True
+S8847,SPARTA-172,-3,5.0,Female,Asian,No,55,Moderna,False,True
+X9353,SPARTA-172,27,2321.66486206448,Female,Asian,No,55,Moderna,False,True
+W6505,SPARTA-172,83,1913.39940901924,Female,Asian,No,55,Moderna,False,True
+W4293,SPARTA-172,108,1078.4850827084344,Female,Asian,No,55,Moderna,False,True
+E5563,SPARTA-172,168,203.68760859707865,Female,Asian,No,55,Moderna,False,True
+G6433,SPARTA-172,203,151.4204145167006,Female,Asian,No,55,Moderna,False,True
+A4163,SPARTA-172,281,4930.331712011902,Female,Asian,No,55,Moderna,False,True
+V9651,SPARTA-172,333,2077.009228809484,Female,Asian,No,55,Moderna,False,True
+D6100,SPARTA-172,451,2080.535809038871,Female,Asian,No,55,Moderna,False,True
+M1115,SPARTA-172,557,2371.6387415168765,Female,Asian,No,55,Moderna,False,True
+A9587,SPARTA-172,641,955.0635577013948,Female,Asian,No,55,Moderna,False,True
+C1011,SPARTA-174,-235,5.0,Female,White,No,39,Pfizer,False,True
+T7052,SPARTA-174,-206,5.0,Female,White,No,39,Pfizer,False,True
+V1465,SPARTA-174,-181,5.0,Female,White,No,39,Pfizer,False,True
+V5298,SPARTA-174,-154,5.0,Female,White,No,39,Pfizer,False,True
+U0196,SPARTA-174,-124,5.0,Female,White,No,39,Pfizer,False,True
+B4100,SPARTA-174,-98,5.0,Female,White,No,39,Pfizer,False,True
+D5443,SPARTA-174,19,7386.216716465307,Female,White,No,39,Pfizer,False,True
+A5076,SPARTA-174,45,3377.1125544642077,Female,White,No,39,Pfizer,False,True
+K4468,SPARTA-174,155,119.14187480915604,Female,White,No,39,Pfizer,False,True
+I9783,SPARTA-174,185,59.85962235506434,Female,White,No,39,Pfizer,False,True
+O5967,SPARTA-174,213,40.25071122709171,Female,White,No,39,Pfizer,False,True
+O0927,SPARTA-174,357,692.9794829787529,Female,White,No,39,Pfizer,False,True
+Q8584,SPARTA-174,384,24827.268287491373,Female,White,No,39,Pfizer,False,True
+Y3454,SPARTA-174,438,3097.8574025308926,Female,White,No,39,Pfizer,False,True
+E0809,SPARTA-174,497,1590.218745719872,Female,White,No,39,Pfizer,False,True
+Y5281,SPARTA-174,523,865.5588599765737,Female,White,No,39,Pfizer,False,True
+M9412,SPARTA-174,633,704.276288680008,Female,White,No,39,Pfizer,False,True
+J9102,SPARTA-176,-205,5.0,Female,White,No,39,Pfizer,False,True
+L7155,SPARTA-176,-177,5.0,Female,White,No,39,Pfizer,False,True
+L7688,SPARTA-176,-114,5.0,Female,White,No,39,Pfizer,False,True
+D1632,SPARTA-176,-94,5.0,Female,White,No,39,Pfizer,False,True
+L7846,SPARTA-176,-9,5.0,Female,White,No,39,Pfizer,False,True
+D7508,SPARTA-176,54,2787.641038911313,Female,White,No,39,Pfizer,False,True
+K0279,SPARTA-176,72,765.6515152731879,Female,White,No,39,Pfizer,False,True
+T9412,SPARTA-176,103,321.6979112133574,Female,White,No,39,Pfizer,False,True
+A1323,SPARTA-176,131,52.9411235140278,Female,White,No,39,Pfizer,False,True
+B2348,SPARTA-176,157,94.92552610763956,Female,White,No,39,Pfizer,False,True
+M8943,SPARTA-176,213,71.78450335854332,Female,White,No,39,Pfizer,False,True
+B6800,SPARTA-176,271,40.311075074465904,Female,White,No,39,Pfizer,False,True
+F8571,SPARTA-176,302,42.5868872337546,Female,White,No,39,Pfizer,False,True
+B3174,SPARTA-176,325,29.0860485922504,Female,White,No,39,Pfizer,False,True
+A9991,SPARTA-176,352,1523.263025584128,Female,White,No,39,Pfizer,False,True
+L4579,SPARTA-176,381,4469.333403700179,Female,White,No,39,Pfizer,False,True
+K8986,SPARTA-176,468,1811.187851673303,Female,White,No,39,Pfizer,False,True
+Z6526,SPARTA-176,555,1262.1491033127222,Female,White,No,39,Pfizer,False,True
+K8885,SPARTA-176,582,1897.6117678972944,Female,White,No,39,Pfizer,False,True
+C0977,SPARTA-176,661,1127.9145815677812,Female,White,No,39,Pfizer,False,True
+B9136,SPARTA-178,-221,5.0,Male,Hispanic or Latino,No,41,Pfizer,False,True
+Y6348,SPARTA-178,-169,5.0,Male,Hispanic or Latino,No,41,Pfizer,False,True
+D7468,SPARTA-178,-135,5.0,Male,Hispanic or Latino,No,41,Pfizer,False,True
+Y2443,SPARTA-178,-109,5.0,Male,Hispanic or Latino,No,41,Pfizer,False,True
+U9107,SPARTA-178,-50,5.0,Male,Hispanic or Latino,No,41,Pfizer,False,True
+Z5465,SPARTA-178,-25,5.0,Male,Hispanic or Latino,No,41,Pfizer,False,True
+Y3004,SPARTA-178,3,21.92966429354643,Male,Hispanic or Latino,No,41,Pfizer,False,True
+T3386,SPARTA-178,59,1899.249713446012,Male,Hispanic or Latino,No,41,Pfizer,False,True
+A4577,SPARTA-178,171,35.199699964082264,Male,Hispanic or Latino,No,41,Pfizer,False,True
+Y9494,SPARTA-178,199,44.56216831126373,Male,Hispanic or Latino,No,41,Pfizer,False,True
+N1030,SPARTA-178,311,24.07397031130944,Male,Hispanic or Latino,No,41,Pfizer,False,True
+B3721,SPARTA-178,336,3429.63151583222,Male,Hispanic or Latino,No,41,Pfizer,False,True
+T2482,SPARTA-178,368,8718.138492160497,Male,Hispanic or Latino,No,41,Pfizer,False,True
+V5876,SPARTA-178,454,3039.0686521572525,Male,Hispanic or Latino,No,41,Pfizer,False,True
+P6904,SPARTA-178,506,4073.497750540166,Male,Hispanic or Latino,No,41,Pfizer,False,True
+X5541,SPARTA-178,561,1471.5642830573115,Male,Hispanic or Latino,No,41,Pfizer,False,True
+Q2381,SPARTA-178,590,2674.1830447334696,Male,Hispanic or Latino,No,41,Pfizer,False,True
+A5776,SPARTA-178,619,2926.1467225910515,Male,Hispanic or Latino,No,41,Pfizer,False,True
+A9949,SPARTA-178,647,1314.0886582919327,Male,Hispanic or Latino,No,41,Pfizer,False,True
+P3611,SPARTA-184,-205,5.0,Male,Asian,No,39,Moderna,False,True
+J9952,SPARTA-184,-176,5.0,Male,Asian,No,39,Moderna,False,True
+D4277,SPARTA-184,-149,5.0,Male,Asian,No,39,Moderna,False,True
+V0342,SPARTA-184,-120,5.0,Male,Asian,No,39,Moderna,False,True
+K3231,SPARTA-184,-64,5.0,Male,Asian,No,39,Moderna,False,True
+W1993,SPARTA-184,-2,5.0,Male,Asian,No,39,Moderna,False,True
+X7326,SPARTA-184,100,574.5872682472246,Male,Asian,No,39,Moderna,False,True
+W9606,SPARTA-184,159,205.74901342892463,Male,Asian,No,39,Moderna,False,True
+L7293,SPARTA-184,358,8096.054892832177,Male,Asian,No,39,Moderna,False,True
+D5764,SPARTA-184,495,8471.836178312284,Male,Asian,No,39,Moderna,False,True
+S0323,SPARTA-184,558,4064.992302111366,Male,Asian,No,39,Moderna,False,True
+B5071,SPARTA-185,-225,5.0,Female,White,No,51,Moderna,False,True
+M9848,SPARTA-185,-197,5.0,Female,White,No,51,Moderna,False,True
+R0081,SPARTA-185,-171,5.0,Female,White,No,51,Moderna,False,True
+B4053,SPARTA-185,-137,5.0,Female,White,No,51,Moderna,False,True
+F5574,SPARTA-185,-113,5.0,Female,White,No,51,Moderna,False,True
+G1332,SPARTA-185,-54,5.0,Female,White,No,51,Moderna,False,True
+E7737,SPARTA-185,30,1936.71688073149,Female,White,No,51,Moderna,False,True
+D3388,SPARTA-185,84,399.0872963940464,Female,White,No,51,Moderna,False,True
+U7935,SPARTA-185,109,491.99554291142624,Female,White,No,51,Moderna,False,True
+X3300,SPARTA-185,141,182.18173277701405,Female,White,No,51,Moderna,False,True
+P9889,SPARTA-185,167,57.19138814218031,Female,White,No,51,Moderna,False,True
+E9696,SPARTA-185,195,111.402001027056,Female,White,No,51,Moderna,False,True
+M2813,SPARTA-185,307,3119.307167508882,Female,White,No,51,Moderna,False,True
+K8355,SPARTA-185,362,3976.216547431822,Female,White,No,51,Moderna,False,True
+S1937,SPARTA-185,419,2026.7088627524136,Female,White,No,51,Moderna,False,True
+P1154,SPARTA-185,556,497.6167016392145,Female,White,No,51,Moderna,False,True
+D3636,SPARTA-185,580,756.7452082461468,Female,White,No,51,Moderna,False,True
+H3354,SPARTA-185,615,726.3256748092244,Female,White,No,51,Moderna,False,True
+I9956,SPARTA-185,678,1136.0470234105912,Female,White,No,51,Moderna,False,True
+H6599,SPARTA-185,699,603.3258948090095,Female,White,No,51,Moderna,False,True
+H3484,SPARTA-201,-217,5.0,Female,White,No,65,Pfizer,False,True
+Q8736,SPARTA-201,-189,5.0,Female,White,No,65,Pfizer,False,True
+I4050,SPARTA-201,-160,5.0,Female,White,No,65,Pfizer,False,True
+T3956,SPARTA-201,-140,5.0,Female,White,No,65,Pfizer,False,True
+Y0474,SPARTA-201,-112,5.0,Female,White,No,65,Pfizer,False,True
+J8898,SPARTA-201,-80,5.0,Female,White,No,65,Pfizer,False,True
+Z6105,SPARTA-201,-46,5.0,Female,White,No,65,Pfizer,False,True
+B3694,SPARTA-201,-20,5.0,Female,White,No,65,Pfizer,False,True
+Z7935,SPARTA-201,65,461.8770670658876,Female,White,No,65,Pfizer,False,True
+R8752,SPARTA-201,140,211.86136506918507,Female,White,No,65,Pfizer,False,True
+O5419,SPARTA-201,168,146.6976149344362,Female,White,No,65,Pfizer,False,True
+P8166,SPARTA-201,228,47.53149103020699,Female,White,No,65,Pfizer,False,True
+D0961,SPARTA-201,259,15.010903293009743,Female,White,No,65,Pfizer,False,True
+A2374,SPARTA-201,285,43.47216411287642,Female,White,No,65,Pfizer,False,True
+F4323,SPARTA-201,451,1531.99700388084,Female,White,No,65,Pfizer,False,True
+L9225,SPARTA-201,571,1832.285860994173,Female,White,No,65,Pfizer,False,True
+L7502,SPARTA-201,595,509.3454315506044,Female,White,No,65,Pfizer,False,True
+F7199,SPARTA-201,647,1108.6517917888325,Female,White,No,65,Pfizer,False,True
+C4364,SPARTA-201,678,1278.4052701283233,Female,White,No,65,Pfizer,False,True
+F3477,SPARTA-201,707,1157.9054396401905,Female,White,No,65,Pfizer,False,True
+X3589,SPARTA-205,-4,5.0,Female,Asian,No,44,Pfizer,True,False
+H7714,SPARTA-205,80,1333.123232174984,Female,Asian,No,44,Pfizer,True,False
+S4853,SPARTA-205,111,314.48071950171385,Female,Asian,No,44,Pfizer,True,False
+E2622,SPARTA-205,136,267.75283305139254,Female,Asian,No,44,Pfizer,True,False
+X8731,SPARTA-205,220,237.11690265206727,Female,Asian,No,44,Pfizer,True,False
+K2794,SPARTA-205,415,10291.05418559518,Female,Asian,No,44,Pfizer,True,False
+K3896,SPARTA-205,472,8599.971930252563,Female,Asian,No,44,Pfizer,True,False
+X2031,SPARTA-205,525,7865.040654132945,Female,Asian,No,44,Pfizer,True,False
+K5301,SPARTA-205,584,6023.882625291485,Female,Asian,No,44,Pfizer,True,False
+S8091,SPARTA-205,698,5150.236914258015,Female,Asian,No,44,Pfizer,True,False
+Z7718,SPARTA-205,723,3838.64718757689,Female,Asian,No,44,Pfizer,True,False
+O5661,SPARTA-207,-12,5.0,Male,White,No,47,Pfizer,True,False
+T4529,SPARTA-207,46,1716.3930995889018,Male,White,No,47,Pfizer,True,False
+H3597,SPARTA-207,69,1064.016697103684,Male,White,No,47,Pfizer,True,False
+R7834,SPARTA-207,182,115.4348630828285,Male,White,No,47,Pfizer,True,False
+L4543,SPARTA-207,297,16725.306910296593,Male,White,No,47,Pfizer,True,False
+O9195,SPARTA-207,323,7904.598737311561,Male,White,No,47,Pfizer,True,False
+C2868,SPARTA-207,380,20721.330488730197,Male,White,No,47,Pfizer,True,False
+K4034,SPARTA-207,407,12862.160475482317,Male,White,No,47,Pfizer,True,False
+Y1294,SPARTA-207,433,7708.358847400647,Male,White,No,47,Pfizer,True,False
+S3670,SPARTA-207,518,24992.74897985181,Male,White,No,47,Pfizer,True,False
+D5710,SPARTA-207,576,18332.85700880445,Male,White,No,47,Pfizer,True,False
+T2254,SPARTA-207,659,18834.10137994109,Male,White,No,47,Pfizer,True,False
+B2772,SPARTA-207,686,6130.830584221455,Male,White,No,47,Pfizer,True,False
+Y0057,SPARTA-211,-37,5.0,Female,Hispanic or Latino,No,35,Pfizer,True,False
+Z3884,SPARTA-211,-9,5.0,Female,Hispanic or Latino,No,35,Pfizer,True,False
+N6710,SPARTA-211,21,4927.659087982878,Female,Hispanic or Latino,No,35,Pfizer,True,False
+S6296,SPARTA-211,47,3151.6868928644835,Female,Hispanic or Latino,No,35,Pfizer,True,False
+X5070,SPARTA-211,78,1221.4720755615629,Female,Hispanic or Latino,No,35,Pfizer,True,False
+I0956,SPARTA-211,103,877.3108275361187,Female,Hispanic or Latino,No,35,Pfizer,True,False
+H1706,SPARTA-211,131,424.4480120621558,Female,Hispanic or Latino,No,35,Pfizer,True,False
+N0801,SPARTA-211,190,101.35754290741876,Female,Hispanic or Latino,No,35,Pfizer,True,False
+E2553,SPARTA-211,243,69.5727638625115,Female,Hispanic or Latino,No,35,Pfizer,True,False
+B5458,SPARTA-211,278,45906.9762343779,Female,Hispanic or Latino,No,35,Pfizer,True,False
+E1843,SPARTA-211,300,35163.91348196571,Female,Hispanic or Latino,No,35,Pfizer,True,False
+Q8081,SPARTA-211,411,26711.02279307009,Female,Hispanic or Latino,No,35,Pfizer,True,False
+Y4471,SPARTA-211,469,42686.76520073816,Female,Hispanic or Latino,No,35,Pfizer,True,False
+M2409,SPARTA-211,523,19413.54078578658,Female,Hispanic or Latino,No,35,Pfizer,True,False
+A7904,SPARTA-211,550,43511.76711633072,Female,Hispanic or Latino,No,35,Pfizer,True,False
+F1616,SPARTA-211,663,24079.258650055923,Female,Hispanic or Latino,No,35,Pfizer,True,False
+B3129,SPARTA-217,-222,5.0,Male,White,No,38,Pfizer,False,True
+H3809,SPARTA-217,-187,5.0,Male,White,No,38,Pfizer,False,True
+R2546,SPARTA-217,-135,5.0,Male,White,No,38,Pfizer,False,True
+Q2954,SPARTA-217,-113,5.0,Male,White,No,38,Pfizer,False,True
+U9312,SPARTA-217,-82,5.0,Male,White,No,38,Pfizer,False,True
+W4377,SPARTA-217,-55,5.0,Male,White,No,38,Pfizer,False,True
+P2985,SPARTA-217,-27,5.0,Male,White,No,38,Pfizer,False,True
+Z5092,SPARTA-217,2,42.39139814840742,Male,White,No,38,Pfizer,False,True
+R8192,SPARTA-217,30,1002.015388851681,Male,White,No,38,Pfizer,False,True
+H8460,SPARTA-217,58,2301.7080080650394,Male,White,No,38,Pfizer,False,True
+F2613,SPARTA-217,113,283.4218305412095,Male,White,No,38,Pfizer,False,True
+N4524,SPARTA-217,140,221.70549983546348,Male,White,No,38,Pfizer,False,True
+J3635,SPARTA-217,172,134.72917752002408,Male,White,No,38,Pfizer,False,True
+J9904,SPARTA-217,278,75.34023652603902,Male,White,No,38,Pfizer,False,True
+L3576,SPARTA-217,313,26.120794279001387,Male,White,No,38,Pfizer,False,True
+J7209,SPARTA-217,363,6490.116743396109,Male,White,No,38,Pfizer,False,True
+F3363,SPARTA-217,471,5006.51616008793,Male,White,No,38,Pfizer,False,True
+U3580,SPARTA-217,508,1145.6294785014063,Male,White,No,38,Pfizer,False,True
+U6959,SPARTA-217,558,1355.9565516129524,Male,White,No,38,Pfizer,False,True
+J9730,SPARTA-217,590,862.2168715530462,Male,White,No,38,Pfizer,False,True
+F4198,SPARTA-217,649,526.6243210296199,Male,White,No,38,Pfizer,False,True
+C3938,SPARTA-223,-204,5.0,Female,Black or African American,No,54,Pfizer,False,True
+X1982,SPARTA-223,-152,5.0,Female,Black or African American,No,54,Pfizer,False,True
+B0661,SPARTA-223,-120,5.0,Female,Black or African American,No,54,Pfizer,False,True
+D2862,SPARTA-223,-85,5.0,Female,Black or African American,No,54,Pfizer,False,True
+K8184,SPARTA-223,-71,5.0,Female,Black or African American,No,54,Pfizer,False,True
+Y1172,SPARTA-223,-37,5.0,Female,Black or African American,No,54,Pfizer,False,True
+U3773,SPARTA-223,16,3650.774494671618,Female,Black or African American,No,54,Pfizer,False,True
+V6054,SPARTA-223,107,213.1756966907122,Female,Black or African American,No,54,Pfizer,False,True
+Y9744,SPARTA-223,133,572.1397671899921,Female,Black or African American,No,54,Pfizer,False,True
+E5443,SPARTA-223,160,100.2314085803454,Female,Black or African American,No,54,Pfizer,False,True
+R1970,SPARTA-223,187,107.15025379795246,Female,Black or African American,No,54,Pfizer,False,True
+O2843,SPARTA-223,213,52.48443315623294,Female,Black or African American,No,54,Pfizer,False,True
+Z4683,SPARTA-223,246,67.70600795206019,Female,Black or African American,No,54,Pfizer,False,True
+J6465,SPARTA-223,271,40.74284480453893,Female,Black or African American,No,54,Pfizer,False,True
+G7530,SPARTA-223,300,50.2123970438637,Female,Black or African American,No,54,Pfizer,False,True
+O3066,SPARTA-223,381,14212.390925879288,Female,Black or African American,No,54,Pfizer,False,True
+P3193,SPARTA-223,436,3843.0116372947073,Female,Black or African American,No,54,Pfizer,False,True
+E8370,SPARTA-223,466,1108.332145206903,Female,Black or African American,No,54,Pfizer,False,True
+N9545,SPARTA-223,495,1369.3804809369071,Female,Black or African American,No,54,Pfizer,False,True
+L5263,SPARTA-223,524,1096.132267688947,Female,Black or African American,No,54,Pfizer,False,True
+G6221,SPARTA-223,552,1991.886697179877,Female,Black or African American,No,54,Pfizer,False,True
+X4735,SPARTA-223,636,1098.0299952903836,Female,Black or African American,No,54,Pfizer,False,True
+U9478,SPARTA-223,664,1852.1443917524796,Female,Black or African American,No,54,Pfizer,False,True
+B9504,SPARTA-232,-240,5.0,Female,Black or African American,No,53,Moderna,False,True
+I4164,SPARTA-232,-213,5.0,Female,Black or African American,No,53,Moderna,False,True
+N1028,SPARTA-232,-184,5.0,Female,Black or African American,No,53,Moderna,False,True
+Y7266,SPARTA-232,-163,5.0,Female,Black or African American,No,53,Moderna,False,True
+J6786,SPARTA-232,-102,5.0,Female,Black or African American,No,53,Moderna,False,True
+F2055,SPARTA-232,-68,5.0,Female,Black or African American,No,53,Moderna,False,True
+T9794,SPARTA-232,-13,5.0,Female,Black or African American,No,53,Moderna,False,True
+U8198,SPARTA-232,40,1439.8950615376573,Female,Black or African American,No,53,Moderna,False,True
+U7581,SPARTA-232,67,665.8886970883724,Female,Black or African American,No,53,Moderna,False,True
+D7092,SPARTA-232,98,503.8711898512572,Female,Black or African American,No,53,Moderna,False,True
+S8388,SPARTA-232,125,329.94773930343115,Female,Black or African American,No,53,Moderna,False,True
+U5982,SPARTA-232,155,128.43600343736145,Female,Black or African American,No,53,Moderna,False,True
+M9845,SPARTA-232,209,28.5221648162656,Female,Black or African American,No,53,Moderna,False,True
+L1530,SPARTA-232,233,41.92023236792921,Female,Black or African American,No,53,Moderna,False,True
+P1337,SPARTA-232,261,18.38693370796164,Female,Black or African American,No,53,Moderna,False,True
+K1533,SPARTA-232,291,18.298580868964716,Female,Black or African American,No,53,Moderna,False,True
+P0850,SPARTA-232,348,5862.809764619553,Female,Black or African American,No,53,Moderna,False,True
+R1239,SPARTA-232,401,977.447478994824,Female,Black or African American,No,53,Moderna,False,True
+X3515,SPARTA-232,432,2353.61276917796,Female,Black or African American,No,53,Moderna,False,True
+I2673,SPARTA-232,516,945.9276102865862,Female,Black or African American,No,53,Moderna,False,True
+X9092,SPARTA-232,541,589.2875952025427,Female,Black or African American,No,53,Moderna,False,True
+V5220,SPARTA-232,599,723.4513504171025,Female,Black or African American,No,53,Moderna,False,True
+R2261,SPARTA-232,625,1287.018679829202,Female,Black or African American,No,53,Moderna,False,True
+S8685,SPARTA-232,656,931.8365294979158,Female,Black or African American,No,53,Moderna,False,True
+V9922,SPARTA-232,684,1004.1209074100392,Female,Black or African American,No,53,Moderna,False,True
+V0652,SPARTA-233,-36,5.0,Female,Asian,No,40,Moderna,True,False
+M5798,SPARTA-233,46,5763.763048203884,Female,Asian,No,40,Moderna,True,False
+G0690,SPARTA-233,83,2100.0467141315025,Female,Asian,No,40,Moderna,True,False
+C4086,SPARTA-233,134,618.7003093975098,Female,Asian,No,40,Moderna,True,False
+W3641,SPARTA-233,187,114.51234798609306,Female,Asian,No,40,Moderna,True,False
+Z4783,SPARTA-233,216,134.94368486020943,Female,Asian,No,40,Moderna,True,False
+Q0692,SPARTA-233,240,2170.51641080161,Female,Asian,No,40,Moderna,True,False
+X0396,SPARTA-233,301,6867.652198016957,Female,Asian,No,40,Moderna,True,False
+Q6844,SPARTA-233,330,8789.876393899973,Female,Asian,No,40,Moderna,True,False
+H6788,SPARTA-233,440,9306.668138363511,Female,Asian,No,40,Moderna,True,False
+B3921,SPARTA-233,494,5163.536557530261,Female,Asian,No,40,Moderna,True,False
+C1104,SPARTA-233,609,3332.760233145301,Female,Asian,No,40,Moderna,True,False
+Q2253,SPARTA-233,699,5904.757511567674,Female,Asian,No,40,Moderna,True,False
+H6473,SPARTA-243,-220,5.0,Male,Asian,No,38,Pfizer,False,True
+O6150,SPARTA-243,-165,5.0,Male,Asian,No,38,Pfizer,False,True
+Z7100,SPARTA-243,-137,5.0,Male,Asian,No,38,Pfizer,False,True
+M7040,SPARTA-243,-111,5.0,Male,Asian,No,38,Pfizer,False,True
+G1671,SPARTA-243,-78,5.0,Male,Asian,No,38,Pfizer,False,True
+B1956,SPARTA-243,-49,5.0,Male,Asian,No,38,Pfizer,False,True
+L0604,SPARTA-243,-26,5.0,Male,Asian,No,38,Pfizer,False,True
+S0307,SPARTA-243,31,2159.0011965525377,Male,Asian,No,38,Pfizer,False,True
+E5172,SPARTA-243,60,603.6259975123029,Male,Asian,No,38,Pfizer,False,True
+S6767,SPARTA-243,116,273.2586726381776,Male,Asian,No,38,Pfizer,False,True
+M1554,SPARTA-243,144,55.96304218303465,Male,Asian,No,38,Pfizer,False,True
+L7087,SPARTA-243,200,80.47462408263304,Male,Asian,No,38,Pfizer,False,True
+U3965,SPARTA-243,257,34.74255711004453,Male,Asian,No,38,Pfizer,False,True
+V6385,SPARTA-243,367,4280.328396630663,Male,Asian,No,38,Pfizer,False,True
+G9271,SPARTA-243,395,1882.7785229112403,Male,Asian,No,38,Pfizer,False,True
+W3324,SPARTA-243,423,4459.850762951793,Male,Asian,No,38,Pfizer,False,True
+L3506,SPARTA-243,449,3960.1923998130974,Male,Asian,No,38,Pfizer,False,True
+O0415,SPARTA-243,561,606.6657923476364,Male,Asian,No,38,Pfizer,False,True
+G4389,SPARTA-243,622,1696.578587626645,Male,Asian,No,38,Pfizer,False,True
+E9412,SPARTA-243,647,490.9949677765256,Male,Asian,No,38,Pfizer,False,True
+B2293,SPARTA-243,704,1067.691570741967,Male,Asian,No,38,Pfizer,False,True
+A8421,SPARTA-252,-233,5.0,Female,Asian,No,37,Pfizer,False,True
+V0847,SPARTA-252,-205,5.0,Female,Asian,No,37,Pfizer,False,True
+I7512,SPARTA-252,-176,5.0,Female,Asian,No,37,Pfizer,False,True
+D2784,SPARTA-252,-121,5.0,Female,Asian,No,37,Pfizer,False,True
+F4609,SPARTA-252,-95,5.0,Female,Asian,No,37,Pfizer,False,True
+M8982,SPARTA-252,-33,5.0,Female,Asian,No,37,Pfizer,False,True
+Q1227,SPARTA-252,-11,5.0,Female,Asian,No,37,Pfizer,False,True
+O0437,SPARTA-252,19,2347.422696620757,Female,Asian,No,37,Pfizer,False,True
+T8811,SPARTA-252,47,1198.8797279496146,Female,Asian,No,37,Pfizer,False,True
+P4880,SPARTA-252,77,538.1451112456884,Female,Asian,No,37,Pfizer,False,True
+W8495,SPARTA-252,103,293.23984582965426,Female,Asian,No,37,Pfizer,False,True
+X1975,SPARTA-252,128,282.4593047637419,Female,Asian,No,37,Pfizer,False,True
+T3045,SPARTA-252,163,93.7513105044151,Female,Asian,No,37,Pfizer,False,True
+M0764,SPARTA-252,219,52.623892197682906,Female,Asian,No,37,Pfizer,False,True
+O4274,SPARTA-252,242,84.13850138074761,Female,Asian,No,37,Pfizer,False,True
+B8037,SPARTA-252,299,51.5105288718438,Female,Asian,No,37,Pfizer,False,True
+E0607,SPARTA-252,410,9547.228521810752,Female,Asian,No,37,Pfizer,False,True
+G4219,SPARTA-252,441,9603.5882679445,Female,Asian,No,37,Pfizer,False,True
+E6170,SPARTA-252,469,18466.44838307415,Female,Asian,No,37,Pfizer,False,True
+M8940,SPARTA-252,636,8140.026423823326,Female,Asian,No,37,Pfizer,False,True
+F5828,SPARTA-252,692,11575.455066427685,Female,Asian,No,37,Pfizer,False,True
+Z1546,SPARTA-259,-214,5.0,Male,Black or African American,No,61,Pfizer,False,True
+J2177,SPARTA-259,-130,5.0,Male,Black or African American,No,61,Pfizer,False,True
+K1850,SPARTA-259,-100,5.0,Male,Black or African American,No,61,Pfizer,False,True
+P6560,SPARTA-259,-73,5.0,Male,Black or African American,No,61,Pfizer,False,True
+B4148,SPARTA-259,-42,5.0,Male,Black or African American,No,61,Pfizer,False,True
+U0501,SPARTA-259,-16,5.0,Male,Black or African American,No,61,Pfizer,False,True
+R3385,SPARTA-259,8,68.85395013795005,Male,Black or African American,No,61,Pfizer,False,True
+N0770,SPARTA-259,35,1042.2205339746863,Male,Black or African American,No,61,Pfizer,False,True
+C7660,SPARTA-259,122,258.5041326105971,Male,Black or African American,No,61,Pfizer,False,True
+K1140,SPARTA-259,150,50.25253682640699,Male,Black or African American,No,61,Pfizer,False,True
+E9760,SPARTA-259,262,10.916802680964908,Male,Black or African American,No,61,Pfizer,False,True
+Y5108,SPARTA-259,290,5.0,Male,Black or African American,No,61,Pfizer,False,True
+H2693,SPARTA-259,316,840.2525647610072,Male,Black or African American,No,61,Pfizer,False,True
+I3799,SPARTA-259,376,3929.082278541552,Male,Black or African American,No,61,Pfizer,False,True
+B0316,SPARTA-259,401,793.1762288993472,Male,Black or African American,No,61,Pfizer,False,True
+R2596,SPARTA-259,455,2909.982425124648,Male,Black or African American,No,61,Pfizer,False,True
+D0701,SPARTA-259,542,738.7414117558573,Male,Black or African American,No,61,Pfizer,False,True
+N2614,SPARTA-259,570,941.8025600229928,Male,Black or African American,No,61,Pfizer,False,True
+L7313,SPARTA-259,623,679.2176040344411,Male,Black or African American,No,61,Pfizer,False,True
+Q9929,SPARTA-259,656,642.9328521899455,Male,Black or African American,No,61,Pfizer,False,True
+N9078,SPARTA-259,681,585.0181926761413,Male,Black or African American,No,61,Pfizer,False,True
+I5217,SPARTA-259,710,1000.5374054560444,Male,Black or African American,No,61,Pfizer,False,True
+C1052,SPARTA-269,-36,5.0,Female,White,No,43,Pfizer,True,False
+O1536,SPARTA-269,-10,5.0,Female,White,No,43,Pfizer,True,False
+Y0059,SPARTA-269,20,2111.9625660175884,Female,White,No,43,Pfizer,True,False
+T3985,SPARTA-269,48,1547.9438303196855,Female,White,No,43,Pfizer,True,False
+H1365,SPARTA-269,76,1054.3931215659295,Female,White,No,43,Pfizer,True,False
+F4921,SPARTA-269,111,660.632207506714,Female,White,No,43,Pfizer,True,False
+G5369,SPARTA-269,132,191.22296073806083,Female,White,No,43,Pfizer,True,False
+E7572,SPARTA-269,161,116.7138979222028,Female,White,No,43,Pfizer,True,False
+X3690,SPARTA-269,244,17076.597776990842,Female,White,No,43,Pfizer,True,False
+A9512,SPARTA-269,293,19534.640648805827,Female,White,No,43,Pfizer,True,False
+O6942,SPARTA-269,328,18696.97837438311,Female,White,No,43,Pfizer,True,False
+E3124,SPARTA-269,356,19256.324585394945,Female,White,No,43,Pfizer,True,False
+N1035,SPARTA-269,385,15117.224576534454,Female,White,No,43,Pfizer,True,False
+M7269,SPARTA-269,412,13473.839676603142,Female,White,No,43,Pfizer,True,False
+Z9747,SPARTA-269,470,10630.916924947176,Female,White,No,43,Pfizer,True,False
+I3832,SPARTA-269,497,6140.149218071836,Female,White,No,43,Pfizer,True,False
+V0928,SPARTA-269,524,10605.60326801343,Female,White,No,43,Pfizer,True,False
+A3867,SPARTA-269,553,12757.09538855863,Female,White,No,43,Pfizer,True,False
+O5712,SPARTA-269,580,9082.988514420796,Female,White,No,43,Pfizer,True,False
+F5710,SPARTA-269,607,5701.023700901892,Female,White,No,43,Pfizer,True,False
+O3498,SPARTA-269,688,10502.269146520644,Female,White,No,43,Pfizer,True,False
+W0657,SPARTA-270,-222,5.0,Female,White,No,40,Pfizer,False,True
+H6570,SPARTA-270,-194,5.0,Female,White,No,40,Pfizer,False,True
+E7087,SPARTA-270,-141,5.0,Female,White,No,40,Pfizer,False,True
+P8060,SPARTA-270,-110,5.0,Female,White,No,40,Pfizer,False,True
+J5393,SPARTA-270,2,48.875335276136745,Female,White,No,40,Pfizer,False,True
+N8690,SPARTA-270,113,637.2733552526975,Female,White,No,40,Pfizer,False,True
+G1615,SPARTA-270,146,215.81645643751963,Female,White,No,40,Pfizer,False,True
+R1516,SPARTA-270,226,95.1923966182342,Female,White,No,40,Pfizer,False,True
+D5642,SPARTA-270,366,13453.476592885903,Female,White,No,40,Pfizer,False,True
+X8244,SPARTA-270,452,2697.5557439155086,Female,White,No,40,Pfizer,False,True
+F1629,SPARTA-270,534,1141.4396407962345,Female,White,No,40,Pfizer,False,True
+R4115,SPARTA-270,562,1388.155285777985,Female,White,No,40,Pfizer,False,True
+X4334,SPARTA-270,587,856.8826375125013,Female,White,No,40,Pfizer,False,True
+I4072,SPARTA-273,-47,5.0,Female,Black or African American,No,52,Pfizer,True,False
+I2870,SPARTA-273,9,396.8301994378373,Female,Black or African American,No,52,Pfizer,True,False
+T1912,SPARTA-273,62,2069.41717701679,Female,Black or African American,No,52,Pfizer,True,False
+I4724,SPARTA-273,150,310.05771370191513,Female,Black or African American,No,52,Pfizer,True,False
+Q1570,SPARTA-273,198,49.40156826762336,Female,Black or African American,No,52,Pfizer,True,False
+H8484,SPARTA-273,233,2614.4254748116664,Female,Black or African American,No,52,Pfizer,True,False
+C4587,SPARTA-273,262,7566.184685377711,Female,Black or African American,No,52,Pfizer,True,False
+J1398,SPARTA-273,288,10593.078594659572,Female,Black or African American,No,52,Pfizer,True,False
+K0643,SPARTA-273,316,6712.133271447757,Female,Black or African American,No,52,Pfizer,True,False
+I2038,SPARTA-273,348,4383.333420767246,Female,Black or African American,No,52,Pfizer,True,False
+L5541,SPARTA-273,371,2964.0725428350484,Female,Black or African American,No,52,Pfizer,True,False
+I7412,SPARTA-273,428,5071.027782920143,Female,Black or African American,No,52,Pfizer,True,False
+E0541,SPARTA-273,454,1902.987184294944,Female,Black or African American,No,52,Pfizer,True,False
+J8679,SPARTA-273,515,3253.6073151803453,Female,Black or African American,No,52,Pfizer,True,False
+U2291,SPARTA-273,540,6977.485925654897,Female,Black or African American,No,52,Pfizer,True,False
+C8492,SPARTA-273,567,8044.964590770888,Female,Black or African American,No,52,Pfizer,True,False
+J4221,SPARTA-273,597,4311.131007063769,Female,Black or African American,No,52,Pfizer,True,False
+D2889,SPARTA-294,-8,5.0,Female,White,No,41,Pfizer,True,False
+G6394,SPARTA-294,13,3834.974626568509,Female,White,No,41,Pfizer,True,False
+F6415,SPARTA-294,76,1694.4455688440914,Female,White,No,41,Pfizer,True,False
+H0383,SPARTA-294,163,310.6610875454951,Female,White,No,41,Pfizer,True,False
+J8994,SPARTA-294,188,138.63934574031518,Female,White,No,41,Pfizer,True,False
+X0119,SPARTA-294,245,5792.146754523468,Female,White,No,41,Pfizer,True,False
+W8024,SPARTA-294,268,15866.696198247788,Female,White,No,41,Pfizer,True,False
+H0467,SPARTA-294,328,5940.085098611557,Female,White,No,41,Pfizer,True,False
+O9200,SPARTA-294,357,6065.58276022996,Female,White,No,41,Pfizer,True,False
+Q6023,SPARTA-294,405,5610.867400528478,Female,White,No,41,Pfizer,True,False
+J9735,SPARTA-294,468,7033.820301784158,Female,White,No,41,Pfizer,True,False
+R6342,SPARTA-294,499,11149.036620760626,Female,White,No,41,Pfizer,True,False
+W6605,SPARTA-294,522,4422.171173663031,Female,White,No,41,Pfizer,True,False
+O6860,SPARTA-294,578,4389.018356085458,Female,White,No,41,Pfizer,True,False
+Q6911,SPARTA-294,633,11416.609064643591,Female,White,No,41,Pfizer,True,False
+F0535,SPARTA-294,699,5919.822500668457,Female,White,No,41,Pfizer,True,False
+J7698,SPARTA-296,-183,5.0,Female,White,No,49,Pfizer,False,True
+G9728,SPARTA-296,-155,5.0,Female,White,No,49,Pfizer,False,True
+Y9241,SPARTA-296,-106,5.0,Female,White,No,49,Pfizer,False,True
+Z2557,SPARTA-296,-74,5.0,Female,White,No,49,Pfizer,False,True
+X5055,SPARTA-296,-43,5.0,Female,White,No,49,Pfizer,False,True
+E0171,SPARTA-296,-15,5.0,Female,White,No,49,Pfizer,False,True
+K8066,SPARTA-296,10,179.922071069543,Female,White,No,49,Pfizer,False,True
+V5118,SPARTA-296,97,566.2478049276997,Female,White,No,49,Pfizer,False,True
+O4820,SPARTA-296,126,169.58413904267977,Female,White,No,49,Pfizer,False,True
+C5808,SPARTA-296,156,93.1707235086906,Female,White,No,49,Pfizer,False,True
+B4967,SPARTA-296,181,190.271508245804,Female,White,No,49,Pfizer,False,True
+L0472,SPARTA-296,209,52.56234399866939,Female,White,No,49,Pfizer,False,True
+O8168,SPARTA-296,265,14748.313890548414,Female,White,No,49,Pfizer,False,True
+K3814,SPARTA-296,320,2335.3401537927625,Female,White,No,49,Pfizer,False,True
+Z8506,SPARTA-296,435,3852.104295389189,Female,White,No,49,Pfizer,False,True
+L4115,SPARTA-296,489,1766.6563081510428,Female,White,No,49,Pfizer,False,True
+M4042,SPARTA-296,570,900.8966475509054,Female,White,No,49,Pfizer,False,True
+W1414,SPARTA-296,629,639.9973844143814,Female,White,No,49,Pfizer,False,True
+J1576,SPARTA-296,682,1147.9875849291957,Female,White,No,49,Pfizer,False,True
+Q0152,SPARTA-300,-7,5.0,Female,White,No,42,Moderna,True,False
+F5157,SPARTA-300,21,10419.686380364688,Female,White,No,42,Moderna,True,False
+W7046,SPARTA-300,75,3205.099338023041,Female,White,No,42,Moderna,True,False
+E7936,SPARTA-300,246,90.98153139751992,Female,White,No,42,Moderna,True,False
+N5694,SPARTA-300,273,75.43564106731394,Female,White,No,42,Moderna,True,False
+V8255,SPARTA-300,359,25344.48802247364,Female,White,No,42,Moderna,True,False
+O8926,SPARTA-300,412,2421.0829045618552,Female,White,No,42,Moderna,True,False
+M4443,SPARTA-300,438,1756.9094827035922,Female,White,No,42,Moderna,True,False
+B2932,SPARTA-300,468,3741.513926636608,Female,White,No,42,Moderna,True,False
+L8371,SPARTA-300,550,3921.305955731685,Female,White,No,42,Moderna,True,False
+G6320,SPARTA-300,580,3493.139577638528,Female,White,No,42,Moderna,True,False
+M6597,SPARTA-300,696,2846.8369385511523,Female,White,No,42,Moderna,True,False
+I1582,SPARTA-304,-233,5.0,Female,White,No,47,Moderna,True,False
+E7934,SPARTA-304,-40,5.0,Female,White,No,47,Moderna,True,False
+T1695,SPARTA-304,-16,5.0,Female,White,No,47,Moderna,True,False
+I3752,SPARTA-304,21,12745.036586909971,Female,White,No,47,Moderna,True,False
+F3053,SPARTA-304,50,5002.641932505785,Female,White,No,47,Moderna,True,False
+O9291,SPARTA-304,107,1086.5039250755742,Female,White,No,47,Moderna,True,False
+A0823,SPARTA-304,135,955.8008129952508,Female,White,No,47,Moderna,True,False
+K5984,SPARTA-304,187,206.87635139729665,Female,White,No,47,Moderna,True,False
+I1270,SPARTA-304,242,46089.63062619886,Female,White,No,47,Moderna,True,False
+X8422,SPARTA-304,303,74967.8330053974,Female,White,No,47,Moderna,True,False
+E6966,SPARTA-304,358,26112.66096271662,Female,White,No,47,Moderna,True,False
+B1886,SPARTA-304,383,34300.522763629124,Female,White,No,47,Moderna,True,False
+M7191,SPARTA-304,526,35858.55414183389,Female,White,No,47,Moderna,True,False
+N6021,SPARTA-304,548,37331.64628305725,Female,White,No,47,Moderna,True,False
+N0200,SPARTA-304,603,47829.26184237963,Female,White,No,47,Moderna,True,False
+N0282,SPARTA-304,638,24445.626297720846,Female,White,No,47,Moderna,True,False
+W4808,SPARTA-324,-43,5.0,Female,Asian,No,64,Pfizer,True,False
+Y9721,SPARTA-324,41,1503.1245310195604,Female,Asian,No,64,Pfizer,True,False
+K8294,SPARTA-324,68,496.1599692473166,Female,Asian,No,64,Pfizer,True,False
+L7853,SPARTA-324,124,236.41055060975808,Female,Asian,No,64,Pfizer,True,False
+R9559,SPARTA-324,150,88.87138967195904,Female,Asian,No,64,Pfizer,True,False
+V9116,SPARTA-324,208,118.66607881943926,Female,Asian,No,64,Pfizer,True,False
+F1088,SPARTA-324,238,75.58007710411759,Female,Asian,No,64,Pfizer,True,False
+G3518,SPARTA-324,264,5733.177949448828,Female,Asian,No,64,Pfizer,True,False
+T8589,SPARTA-324,293,5630.747943209801,Female,Asian,No,64,Pfizer,True,False
+V8039,SPARTA-324,324,19125.39853962535,Female,Asian,No,64,Pfizer,True,False
+F8886,SPARTA-324,350,10457.236686802691,Female,Asian,No,64,Pfizer,True,False
+A4809,SPARTA-324,407,6946.144277053808,Female,Asian,No,64,Pfizer,True,False
+P8998,SPARTA-324,436,5717.720545392755,Female,Asian,No,64,Pfizer,True,False
+P8368,SPARTA-324,464,6490.148360290437,Female,Asian,No,64,Pfizer,True,False
+M5378,SPARTA-324,487,3277.835181674587,Female,Asian,No,64,Pfizer,True,False
+E5669,SPARTA-324,510,4375.3334516577615,Female,Asian,No,64,Pfizer,True,False
+U0563,SPARTA-324,549,2843.761562268075,Female,Asian,No,64,Pfizer,True,False
+U5224,SPARTA-324,574,2306.6789905188148,Female,Asian,No,64,Pfizer,True,False
+A8684,SPARTA-324,605,3424.3673644834385,Female,Asian,No,64,Pfizer,True,False
+Z0736,SPARTA-324,629,3329.165741124061,Female,Asian,No,64,Pfizer,True,False
+A2894,SPARTA-324,659,3696.825819180009,Female,Asian,No,64,Pfizer,True,False
+B6266,SPARTA-324,685,3899.798462144229,Female,Asian,No,64,Pfizer,True,False
+T2878,SPARTA-338,-211,5.0,Female,Asian,No,40,Pfizer,False,True
+Y9066,SPARTA-338,-184,5.0,Female,Asian,No,40,Pfizer,False,True
+C4169,SPARTA-338,-155,5.0,Female,Asian,No,40,Pfizer,False,True
+S4469,SPARTA-338,-74,5.0,Female,Asian,No,40,Pfizer,False,True
+E8873,SPARTA-338,-45,5.0,Female,Asian,No,40,Pfizer,False,True
+F8210,SPARTA-338,-15,5.0,Female,Asian,No,40,Pfizer,False,True
+U0694,SPARTA-338,13,1289.7561178920912,Female,Asian,No,40,Pfizer,False,True
+R5147,SPARTA-338,209,35.08094502923606,Female,Asian,No,40,Pfizer,False,True
+Z0931,SPARTA-338,349,2009.3367661376385,Female,Asian,No,40,Pfizer,False,True
+P7023,SPARTA-338,379,2156.7244461677046,Female,Asian,No,40,Pfizer,False,True
+T4255,SPARTA-338,433,3333.095877006302,Female,Asian,No,40,Pfizer,False,True
+K3011,SPARTA-338,566,791.8429008944852,Female,Asian,No,40,Pfizer,False,True
+Q5364,SPARTA-338,599,1080.7027409466898,Female,Asian,No,40,Pfizer,False,True
+T5616,SPARTA-338,622,931.4594895831544,Female,Asian,No,40,Pfizer,False,True
+V9588,SPARTA-338,657,1323.8999041853235,Female,Asian,No,40,Pfizer,False,True
+X9412,SPARTA-338,678,941.6531150837758,Female,Asian,No,40,Pfizer,False,True
+H6262,SPARTA-343,-202,5.0,Female,Hispanic or Latino,No,57,Pfizer,False,True
+U3127,SPARTA-343,-177,5.0,Female,Hispanic or Latino,No,57,Pfizer,False,True
+J8896,SPARTA-343,-147,5.0,Female,Hispanic or Latino,No,57,Pfizer,False,True
+V1629,SPARTA-343,-111,5.0,Female,Hispanic or Latino,No,57,Pfizer,False,True
+V1883,SPARTA-343,-62,5.0,Female,Hispanic or Latino,No,57,Pfizer,False,True
+H1639,SPARTA-343,-31,5.0,Female,Hispanic or Latino,No,57,Pfizer,False,True
+D8640,SPARTA-343,-6,5.0,Female,Hispanic or Latino,No,57,Pfizer,False,True
+L5093,SPARTA-343,25,1091.4543066053195,Female,Hispanic or Latino,No,57,Pfizer,False,True
+I4481,SPARTA-343,49,1393.8653325354558,Female,Hispanic or Latino,No,57,Pfizer,False,True
+Y7595,SPARTA-343,158,43.74709076956241,Female,Hispanic or Latino,No,57,Pfizer,False,True
+A1599,SPARTA-343,187,79.0104356592303,Female,Hispanic or Latino,No,57,Pfizer,False,True
+U0169,SPARTA-343,218,33.70340991535941,Female,Hispanic or Latino,No,57,Pfizer,False,True
+Y7413,SPARTA-343,301,6074.42339382313,Female,Hispanic or Latino,No,57,Pfizer,False,True
+Z6163,SPARTA-343,329,2677.875308754236,Female,Hispanic or Latino,No,57,Pfizer,False,True
+I8254,SPARTA-343,442,1382.263706866137,Female,Hispanic or Latino,No,57,Pfizer,False,True
+Z7105,SPARTA-343,469,923.6585121947096,Female,Hispanic or Latino,No,57,Pfizer,False,True
+N8766,SPARTA-343,519,418.4485530472293,Female,Hispanic or Latino,No,57,Pfizer,False,True
+S4324,SPARTA-343,554,368.5991266958805,Female,Hispanic or Latino,No,57,Pfizer,False,True
+K3059,SPARTA-343,582,350.1783120167767,Female,Hispanic or Latino,No,57,Pfizer,False,True
+C7540,SPARTA-343,608,211.99140693014385,Female,Hispanic or Latino,No,57,Pfizer,False,True
+F0544,SPARTA-343,631,266.86910226543324,Female,Hispanic or Latino,No,57,Pfizer,False,True
+G8079,SPARTA-352,-233,5.0,Female,Asian,No,41,Pfizer,False,True
+H7193,SPARTA-352,-145,5.0,Female,Asian,No,41,Pfizer,False,True
+Q9645,SPARTA-352,-114,5.0,Female,Asian,No,41,Pfizer,False,True
+G1785,SPARTA-352,-65,5.0,Female,Asian,No,41,Pfizer,False,True
+E2263,SPARTA-352,-35,5.0,Female,Asian,No,41,Pfizer,False,True
+X1661,SPARTA-352,15,2999.5702786642514,Female,Asian,No,41,Pfizer,False,True
+G0102,SPARTA-352,43,859.6408277705542,Female,Asian,No,41,Pfizer,False,True
+U4014,SPARTA-352,105,477.0039072484615,Female,Asian,No,41,Pfizer,False,True
+O9229,SPARTA-352,131,504.07964152259,Female,Asian,No,41,Pfizer,False,True
+L9021,SPARTA-352,166,100.64365887089711,Female,Asian,No,41,Pfizer,False,True
+A1714,SPARTA-352,184,180.02078843335875,Female,Asian,No,41,Pfizer,False,True
+N9738,SPARTA-352,218,55.43089717574873,Female,Asian,No,41,Pfizer,False,True
+A3259,SPARTA-352,242,32.21978979744998,Female,Asian,No,41,Pfizer,False,True
+W6999,SPARTA-352,270,2458.4608092869785,Female,Asian,No,41,Pfizer,False,True
+V2866,SPARTA-352,326,6067.715336545953,Female,Asian,No,41,Pfizer,False,True
+C7844,SPARTA-352,410,1439.5505885005782,Female,Asian,No,41,Pfizer,False,True
+T7527,SPARTA-352,441,1088.9841734142717,Female,Asian,No,41,Pfizer,False,True
+Q4992,SPARTA-352,549,971.4104341117348,Female,Asian,No,41,Pfizer,False,True
+H7868,SPARTA-352,578,815.9331303625935,Female,Asian,No,41,Pfizer,False,True
+D6987,SPARTA-362,-17,5.0,Female,White,No,42,Moderna,True,False
+B3127,SPARTA-362,32,1842.2591053141305,Female,White,No,42,Moderna,True,False
+D0766,SPARTA-362,66,2202.0384611501386,Female,White,No,42,Moderna,True,False
+F0904,SPARTA-362,95,967.26996366694,Female,White,No,42,Moderna,True,False
+H8730,SPARTA-362,123,503.5902292400677,Female,White,No,42,Moderna,True,False
+Q7538,SPARTA-362,179,105.11964232661788,Female,White,No,42,Moderna,True,False
+U5770,SPARTA-362,237,121.8240866389497,Female,White,No,42,Moderna,True,False
+Y5437,SPARTA-362,266,93.9672816110178,Female,White,No,42,Moderna,True,False
+R7973,SPARTA-362,377,7381.3075880377955,Female,White,No,42,Moderna,True,False
+Q0472,SPARTA-362,429,6428.647916514658,Female,White,No,42,Moderna,True,False
+F8389,SPARTA-362,459,8800.984444116904,Female,White,No,42,Moderna,True,False
+L3675,SPARTA-362,487,4594.689095726105,Female,White,No,42,Moderna,True,False
+M3886,SPARTA-362,543,9623.514470448788,Female,White,No,42,Moderna,True,False
+Y9045,SPARTA-362,572,7957.036956006455,Female,White,No,42,Moderna,True,False
+W9926,SPARTA-362,601,6361.477028633714,Female,White,No,42,Moderna,True,False
+J6129,SPARTA-362,686,5822.100342287601,Female,White,No,42,Moderna,True,False
+A1863,SPARTA-363,-14,5.0,Female,White,No,43,Pfizer,True,False
+J9443,SPARTA-363,70,3036.6922937536424,Female,White,No,43,Pfizer,True,False
+C3056,SPARTA-363,97,1342.4216360924547,Female,White,No,43,Pfizer,True,False
+J8810,SPARTA-363,123,718.5459795623805,Female,White,No,43,Pfizer,True,False
+Q0802,SPARTA-363,157,334.4814348845585,Female,White,No,43,Pfizer,True,False
+F4717,SPARTA-363,211,156.8574948291835,Female,White,No,43,Pfizer,True,False
+M3713,SPARTA-363,268,57.14012822489753,Female,White,No,43,Pfizer,True,False
+T1215,SPARTA-363,323,22941.407340232832,Female,White,No,43,Pfizer,True,False
+E6643,SPARTA-363,409,8855.012737258534,Female,White,No,43,Pfizer,True,False
+P6820,SPARTA-363,461,11170.126374879475,Female,White,No,43,Pfizer,True,False
+D8406,SPARTA-363,492,2916.516640663157,Female,White,No,43,Pfizer,True,False
+L8815,SPARTA-363,518,5567.764763269188,Female,White,No,43,Pfizer,True,False
+D8784,SPARTA-363,548,10030.016542922927,Female,White,No,43,Pfizer,True,False
+J5130,SPARTA-363,602,4487.020045495611,Female,White,No,43,Pfizer,True,False
+Q1858,SPARTA-363,626,6444.524086079885,Female,White,No,43,Pfizer,True,False
+Y0742,SPARTA-363,659,6980.827292932065,Female,White,No,43,Pfizer,True,False
+K1730,SPARTA-363,689,3223.7771326800944,Female,White,No,43,Pfizer,True,False
+N9802,SPARTA-363,721,5086.087083852892,Female,White,No,43,Pfizer,True,False
+N7502,SPARTA-364,-219,5.0,Female,White,No,54,Pfizer,False,True
+M4849,SPARTA-364,-191,5.0,Female,White,No,54,Pfizer,False,True
+M7845,SPARTA-364,-107,5.0,Female,White,No,54,Pfizer,False,True
+Z4733,SPARTA-364,-86,5.0,Female,White,No,54,Pfizer,False,True
+F6991,SPARTA-364,-22,5.0,Female,White,No,54,Pfizer,False,True
+R1384,SPARTA-364,5,36.559073575170935,Female,White,No,54,Pfizer,False,True
+I7120,SPARTA-364,90,793.807459489566,Female,White,No,54,Pfizer,False,True
+M5215,SPARTA-364,117,415.5010235289817,Female,White,No,54,Pfizer,False,True
+A4833,SPARTA-364,313,1733.5629505907489,Female,White,No,54,Pfizer,False,True
+Q2287,SPARTA-364,344,3759.830352353985,Female,White,No,54,Pfizer,False,True
+C5616,SPARTA-364,401,4346.840018630612,Female,White,No,54,Pfizer,False,True
+L6179,SPARTA-364,426,2083.0305092821604,Female,White,No,54,Pfizer,False,True
+S1110,SPARTA-364,506,979.7134463174502,Female,White,No,54,Pfizer,False,True
+K4455,SPARTA-364,538,1057.3124754902926,Female,White,No,54,Pfizer,False,True
+S6467,SPARTA-364,621,429.9873952925155,Female,White,No,54,Pfizer,False,True
+C8129,SPARTA-376,-6,5.0,Male,Asian,No,48,Moderna,True,False
+D6178,SPARTA-376,24,5964.236901044305,Male,Asian,No,48,Moderna,True,False
+S2695,SPARTA-376,51,4502.390073361493,Male,Asian,No,48,Moderna,True,False
+F9417,SPARTA-376,74,1620.1635213258396,Male,Asian,No,48,Moderna,True,False
+Z2680,SPARTA-376,162,286.5018471865919,Male,Asian,No,48,Moderna,True,False
+Z6538,SPARTA-376,183,67.60332516015173,Male,Asian,No,48,Moderna,True,False
+O0559,SPARTA-376,219,78.0553266125446,Male,Asian,No,48,Moderna,True,False
+J5991,SPARTA-376,273,71.90978256487871,Male,Asian,No,48,Moderna,True,False
+C3732,SPARTA-376,299,56.31604012912083,Male,Asian,No,48,Moderna,True,False
+U8523,SPARTA-376,330,7874.055033388694,Male,Asian,No,48,Moderna,True,False
+R9972,SPARTA-376,358,18075.340810614,Male,Asian,No,48,Moderna,True,False
+C4153,SPARTA-376,386,11140.31055977716,Male,Asian,No,48,Moderna,True,False
+Y2078,SPARTA-376,415,7552.103383499924,Male,Asian,No,48,Moderna,True,False
+R8454,SPARTA-376,444,8437.196037540825,Male,Asian,No,48,Moderna,True,False
+F8231,SPARTA-376,477,3747.28340656682,Male,Asian,No,48,Moderna,True,False
+M8041,SPARTA-376,501,7997.794424938569,Male,Asian,No,48,Moderna,True,False
+Q2781,SPARTA-376,528,5385.694005532441,Male,Asian,No,48,Moderna,True,False
+U3014,SPARTA-376,554,3307.1481318412434,Male,Asian,No,48,Moderna,True,False
+A6891,SPARTA-376,585,3881.0097126837695,Male,Asian,No,48,Moderna,True,False
+D3411,SPARTA-376,613,6881.295528227216,Male,Asian,No,48,Moderna,True,False
+M1258,SPARTA-376,638,4502.516076138085,Male,Asian,No,48,Moderna,True,False
+B7739,SPARTA-376,698,7162.299395905767,Male,Asian,No,48,Moderna,True,False
+B9171,SPARTA-378,-222,5.0,Male,White,No,39,Pfizer,False,True
+H8376,SPARTA-378,-165,5.0,Male,White,No,39,Pfizer,False,True
+S2211,SPARTA-378,-26,5.0,Male,White,No,39,Pfizer,False,True
+W8969,SPARTA-378,2,17.266100261376252,Male,White,No,39,Pfizer,False,True
+I9540,SPARTA-378,90,1462.68752854719,Male,White,No,39,Pfizer,False,True
+O5356,SPARTA-378,228,32.286629779162354,Male,White,No,39,Pfizer,False,True
+I2825,SPARTA-378,254,36.02418163761387,Male,White,No,39,Pfizer,False,True
+W3985,SPARTA-378,281,4584.667390069571,Male,White,No,39,Pfizer,False,True
+Q0693,SPARTA-378,338,5165.807925808933,Male,White,No,39,Pfizer,False,True
+A0680,SPARTA-378,647,632.9364442869439,Male,White,No,39,Pfizer,False,True
+K9403,SPARTA-378,672,401.1859410757129,Male,White,No,39,Pfizer,False,True
+Z3405,SPARTA-378,699,439.05253353122816,Male,White,No,39,Pfizer,False,True
+O8527,SPARTA-388,-30,5.0,Male,White,No,48,Pfizer,True,False
+A0648,SPARTA-388,57,3677.504207563517,Male,White,No,48,Pfizer,True,False
+H2799,SPARTA-388,82,2873.0883775717903,Male,White,No,48,Pfizer,True,False
+Y7325,SPARTA-388,117,615.9841667115703,Male,White,No,48,Pfizer,True,False
+A6394,SPARTA-388,194,279.690156640123,Male,White,No,48,Pfizer,True,False
+D8412,SPARTA-388,222,129.04215305131095,Male,White,No,48,Pfizer,True,False
+V0401,SPARTA-388,275,5293.80001919975,Male,White,No,48,Pfizer,True,False
+A2492,SPARTA-388,303,15456.130495514692,Male,White,No,48,Pfizer,True,False
+V2537,SPARTA-388,363,10467.10640108548,Male,White,No,48,Pfizer,True,False
+Z7566,SPARTA-388,418,4779.824058551208,Male,White,No,48,Pfizer,True,False
+C5945,SPARTA-388,446,7396.678475509971,Male,White,No,48,Pfizer,True,False
+S7933,SPARTA-388,471,5383.5513833401965,Male,White,No,48,Pfizer,True,False
+N0119,SPARTA-388,533,2942.2396400715647,Male,White,No,48,Pfizer,True,False
+J5906,SPARTA-388,557,4083.135509735386,Male,White,No,48,Pfizer,True,False
+U8801,SPARTA-388,642,3477.31103925616,Male,White,No,48,Pfizer,True,False
+S1030,SPARTA-388,669,3388.8806905196225,Male,White,No,48,Pfizer,True,False
+Q5526,SPARTA-400,-214,5.0,Female,Asian,No,54,Pfizer,False,True
+I7396,SPARTA-400,-185,5.0,Female,Asian,No,54,Pfizer,False,True
+F4890,SPARTA-400,-158,5.0,Female,Asian,No,54,Pfizer,False,True
+I1144,SPARTA-400,-128,5.0,Female,Asian,No,54,Pfizer,False,True
+V4375,SPARTA-400,-102,5.0,Female,Asian,No,54,Pfizer,False,True
+Y3434,SPARTA-400,-73,5.0,Female,Asian,No,54,Pfizer,False,True
+E5629,SPARTA-400,-46,5.0,Female,Asian,No,54,Pfizer,False,True
+D5964,SPARTA-400,-15,5.0,Female,Asian,No,54,Pfizer,False,True
+R3225,SPARTA-400,62,972.7864177422116,Female,Asian,No,54,Pfizer,False,True
+Y0032,SPARTA-400,94,418.49798955041376,Female,Asian,No,54,Pfizer,False,True
+R3669,SPARTA-400,208,53.9321516339504,Female,Asian,No,54,Pfizer,False,True
+B5597,SPARTA-400,234,13.776984274190994,Female,Asian,No,54,Pfizer,False,True
+U8911,SPARTA-400,258,11023.959510630237,Female,Asian,No,54,Pfizer,False,True
+I5945,SPARTA-400,316,6134.279298569222,Female,Asian,No,54,Pfizer,False,True
+A1436,SPARTA-400,374,2254.865614692961,Female,Asian,No,54,Pfizer,False,True
+L0123,SPARTA-400,427,1084.1092492612684,Female,Asian,No,54,Pfizer,False,True
+U4019,SPARTA-400,459,1893.8482441703989,Female,Asian,No,54,Pfizer,False,True
+W3941,SPARTA-400,489,969.8191066269608,Female,Asian,No,54,Pfizer,False,True
+S4140,SPARTA-400,601,587.9013405558085,Female,Asian,No,54,Pfizer,False,True
+I6603,SPARTA-400,658,1840.7895923145416,Female,Asian,No,54,Pfizer,False,True
+Z8897,SPARTA-407,-196,5.0,Female,White,No,41,Pfizer,False,True
+G1290,SPARTA-407,-175,5.0,Female,White,No,41,Pfizer,False,True
+A4955,SPARTA-407,-140,5.0,Female,White,No,41,Pfizer,False,True
+M6275,SPARTA-407,-113,5.0,Female,White,No,41,Pfizer,False,True
+P4485,SPARTA-407,-55,5.0,Female,White,No,41,Pfizer,False,True
+D6204,SPARTA-407,-26,5.0,Female,White,No,41,Pfizer,False,True
+B2564,SPARTA-407,-3,5.0,Female,White,No,41,Pfizer,False,True
+J0777,SPARTA-407,85,574.1985069752237,Female,White,No,41,Pfizer,False,True
+Z5561,SPARTA-407,112,268.4624255424915,Female,White,No,41,Pfizer,False,True
+Z3059,SPARTA-407,140,229.7349787283722,Female,White,No,41,Pfizer,False,True
+C8612,SPARTA-407,168,86.73714941142461,Female,White,No,41,Pfizer,False,True
+Z4263,SPARTA-407,252,54.85883969914588,Female,White,No,41,Pfizer,False,True
+I2863,SPARTA-407,311,26.572316299443017,Female,White,No,41,Pfizer,False,True
+B8877,SPARTA-407,357,8681.04355814547,Female,White,No,41,Pfizer,False,True
+O9000,SPARTA-407,483,1278.7703056724713,Female,White,No,41,Pfizer,False,True
+D2443,SPARTA-407,531,886.5381439350008,Female,White,No,41,Pfizer,False,True
+F7572,SPARTA-407,560,1016.392062284236,Female,White,No,41,Pfizer,False,True
+S9831,SPARTA-407,643,317.0581710854941,Female,White,No,41,Pfizer,False,True
+N6130,SPARTA-407,700,437.6377000740473,Female,White,No,41,Pfizer,False,True
+N3632,SPARTA-450,0,5.0,Female,White,No,40,Pfizer,True,False
+T3293,SPARTA-450,54,2109.601643246476,Female,White,No,40,Pfizer,True,False
+D6179,SPARTA-450,140,157.73926721301797,Female,White,No,40,Pfizer,True,False
+Z5864,SPARTA-450,337,10006.988431656366,Female,White,No,40,Pfizer,True,False
+D1660,SPARTA-450,391,5141.23557426717,Female,White,No,40,Pfizer,True,False
+Y1864,SPARTA-450,422,9701.994103286104,Female,White,No,40,Pfizer,True,False
+P4950,SPARTA-450,450,6895.646222009406,Female,White,No,40,Pfizer,True,False
+U7502,SPARTA-450,504,7069.676223432633,Female,White,No,40,Pfizer,True,False
+V9656,SPARTA-450,591,9754.040900809732,Female,White,No,40,Pfizer,True,False
+A3889,SPARTA-450,617,8397.442233404616,Female,White,No,40,Pfizer,True,False
+F1066,SPARTA-450,673,7645.153872533543,Female,White,No,40,Pfizer,True,False
+G2224,SPARTA-450,700,4776.920465699369,Female,White,No,40,Pfizer,True,False
+F1694,SPARTA-452,-14,5.0,Female,Asian,No,37,Pfizer,True,False
+B9154,SPARTA-452,98,1358.5134191630962,Female,Asian,No,37,Pfizer,True,False
+C7623,SPARTA-452,154,126.2850343279988,Female,Asian,No,37,Pfizer,True,False
+F5104,SPARTA-452,175,179.57746117971325,Female,Asian,No,37,Pfizer,True,False
+N9455,SPARTA-452,301,3943.214223460586,Female,Asian,No,37,Pfizer,True,False
+E4682,SPARTA-452,322,19275.75419756523,Female,Asian,No,37,Pfizer,True,False
+C8408,SPARTA-452,382,11171.45203358388,Female,Asian,No,37,Pfizer,True,False
+Q1181,SPARTA-452,403,10076.80424068195,Female,Asian,No,37,Pfizer,True,False
+E9809,SPARTA-452,436,6528.063418192352,Female,Asian,No,37,Pfizer,True,False
+N8824,SPARTA-452,603,8389.127465020905,Female,Asian,No,37,Pfizer,True,False
+P9281,SPARTA-452,629,10561.340979414805,Female,Asian,No,37,Pfizer,True,False
+M9671,SPARTA-452,657,16364.601769213845,Female,Asian,No,37,Pfizer,True,False
+D0195,SPARTA-452,686,6453.837388635039,Female,Asian,No,37,Pfizer,True,False
+Z1722,SPARTA-464,-199,5.0,Female,White,No,57,Moderna,False,True
+V9526,SPARTA-464,-170,5.0,Female,White,No,57,Moderna,False,True
+S1494,SPARTA-464,-145,5.0,Female,White,No,57,Moderna,False,True
+L5608,SPARTA-464,-115,5.0,Female,White,No,57,Moderna,False,True
+R8616,SPARTA-464,-86,5.0,Female,White,No,57,Moderna,False,True
+C8629,SPARTA-464,-57,5.0,Female,White,No,57,Moderna,False,True
+U3909,SPARTA-464,-34,5.0,Female,White,No,57,Moderna,False,True
+Y0268,SPARTA-464,26,1758.7178754806123,Female,White,No,57,Moderna,False,True
+Y2025,SPARTA-464,46,1814.9181639902763,Female,White,No,57,Moderna,False,True
+M5596,SPARTA-464,109,574.9440266194111,Female,White,No,57,Moderna,False,True
+X6865,SPARTA-464,192,132.52844229959632,Female,White,No,57,Moderna,False,True
+N7064,SPARTA-464,222,38.810121847989606,Female,White,No,57,Moderna,False,True
+A5109,SPARTA-464,249,73.87209106383817,Female,White,No,57,Moderna,False,True
+Q1400,SPARTA-464,275,27.55183973019163,Female,White,No,57,Moderna,False,True
+R6551,SPARTA-464,332,6111.812444044272,Female,White,No,57,Moderna,False,True
+Y4866,SPARTA-464,417,9755.529789339353,Female,White,No,57,Moderna,False,True
+Y5433,SPARTA-464,444,4390.521632312416,Female,White,No,57,Moderna,False,True
+Z7417,SPARTA-464,557,2197.5240031853773,Female,White,No,57,Moderna,False,True
+R5559,SPARTA-464,582,1408.7403913182193,Female,White,No,57,Moderna,False,True
+Q6558,SPARTA-464,620,1340.6205272570328,Female,White,No,57,Moderna,False,True
+G1593,SPARTA-464,642,1439.579308551364,Female,White,No,57,Moderna,False,True
+P9319,SPARTA-464,697,2850.8198583258345,Female,White,No,57,Moderna,False,True
+S9025,SPARTA-472,-227,5.0,Female,Black or African American,No,40,Pfizer,False,True
+R5129,SPARTA-472,-195,5.0,Female,Black or African American,No,40,Pfizer,False,True
+O0628,SPARTA-472,-143,5.0,Female,Black or African American,No,40,Pfizer,False,True
+W1387,SPARTA-472,-87,5.0,Female,Black or African American,No,40,Pfizer,False,True
+C1979,SPARTA-472,-56,5.0,Female,Black or African American,No,40,Pfizer,False,True
+E1555,SPARTA-472,53,1874.8804448374085,Female,Black or African American,No,40,Pfizer,False,True
+T2394,SPARTA-472,80,1269.3171735706785,Female,Black or African American,No,40,Pfizer,False,True
+U3656,SPARTA-472,137,268.40166921016845,Female,Black or African American,No,40,Pfizer,False,True
+C0453,SPARTA-472,164,192.0047169982044,Female,Black or African American,No,40,Pfizer,False,True
+C4481,SPARTA-472,192,75.18859380241611,Female,Black or African American,No,40,Pfizer,False,True
+D3633,SPARTA-472,253,40.8187342882663,Female,Black or African American,No,40,Pfizer,False,True
+G6097,SPARTA-472,274,46.69132744817828,Female,Black or African American,No,40,Pfizer,False,True
+F2181,SPARTA-472,333,22.036523426555338,Female,Black or African American,No,40,Pfizer,False,True
+K7407,SPARTA-472,361,2330.146024665843,Female,Black or African American,No,40,Pfizer,False,True
+X5976,SPARTA-472,472,4266.608083509132,Female,Black or African American,No,40,Pfizer,False,True
+O2114,SPARTA-486,-23,5.0,Male,Hispanic or Latino,No,44,Pfizer,True,False
+W6683,SPARTA-486,61,2839.2033689520968,Male,Hispanic or Latino,No,44,Pfizer,True,False
+U6713,SPARTA-486,82,1200.5105100953156,Male,Hispanic or Latino,No,44,Pfizer,True,False
+H2181,SPARTA-486,286,21618.649497607425,Male,Hispanic or Latino,No,44,Pfizer,True,False
+G1362,SPARTA-486,341,7264.49343023835,Male,Hispanic or Latino,No,44,Pfizer,True,False
+T5515,SPARTA-486,481,4570.439748762406,Male,Hispanic or Latino,No,44,Pfizer,True,False
+Z1944,SPARTA-486,537,5217.316654331868,Male,Hispanic or Latino,No,44,Pfizer,True,False
+G4188,SPARTA-486,565,14514.73633328996,Male,Hispanic or Latino,No,44,Pfizer,True,False
+W9954,SPARTA-486,705,12530.24316694816,Male,Hispanic or Latino,No,44,Pfizer,True,False
+G0030,SPARTA-491,-30,5.0,Female,Black or African American,No,50,Pfizer,True,False
+K9827,SPARTA-491,55,2204.5272584888835,Female,Black or African American,No,50,Pfizer,True,False
+S7704,SPARTA-491,75,1717.234475573794,Female,Black or African American,No,50,Pfizer,True,False
+I2488,SPARTA-491,113,465.51793279780776,Female,Black or African American,No,50,Pfizer,True,False
+W4382,SPARTA-491,139,422.3809127494397,Female,Black or African American,No,50,Pfizer,True,False
+V8665,SPARTA-491,187,188.4865241914445,Female,Black or African American,No,50,Pfizer,True,False
+J5740,SPARTA-491,219,93.29154511685884,Female,Black or African American,No,50,Pfizer,True,False
+M8959,SPARTA-491,419,6839.093758002447,Female,Black or African American,No,50,Pfizer,True,False
+B3145,SPARTA-491,443,10080.407132264285,Female,Black or African American,No,50,Pfizer,True,False
+L4158,SPARTA-491,481,4310.937886448419,Female,Black or African American,No,50,Pfizer,True,False
+F8057,SPARTA-491,502,3067.125786334384,Female,Black or African American,No,50,Pfizer,True,False
+O1940,SPARTA-491,527,7075.206819402619,Female,Black or African American,No,50,Pfizer,True,False
+J8771,SPARTA-491,559,1980.196721604351,Female,Black or African American,No,50,Pfizer,True,False
+Q1491,SPARTA-491,589,3492.8995992104715,Female,Black or African American,No,50,Pfizer,True,False
+C4559,SPARTA-491,612,3324.9951245358666,Female,Black or African American,No,50,Pfizer,True,False
+E1232,SPARTA-491,677,3903.0295746991,Female,Black or African American,No,50,Pfizer,True,False
