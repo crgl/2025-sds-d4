@@ -1,0 +1,501 @@
+Participant ID,Name,Email,Sex,Race,Infection Pre-Vaccine,Age,Vaccine Type,Dose 1 Date,Dose 2 Date,Infection 1 Date,Infection 2 Date,Dose 3 Date,Baseline Date
+SPARTA-001,Hajra Odom,hajra.odom@gch.org,Female,Asian,No,42,Pfizer,2021-01-15,2021-02-07,2022-02-03,,2021-10-04,2020-12-21
+SPARTA-002,Keelan Garrison,keelan.garrison@gch.org,Male,Asian,Yes,46,Pfizer,2021-02-04,2021-02-25,2020-05-04,2022-02-25,2021-12-20,2020-06-01
+SPARTA-003,Harry Boyer,harry.boyer@gch.org,Male,White,Yes,43,Pfizer,2021-01-30,2021-02-19,2020-04-13,,2021-10-15,2020-06-09
+SPARTA-004,Meghan Roman,meghan.roman@gch.org,Female,White,No,47,Pfizer,2021-01-13,2021-02-03,2022-01-30,,2021-09-21,2021-01-06
+SPARTA-005,Jerry Sloan,jerry.sloan@gch.org,Female,White,No,36,Moderna,2021-01-11,2021-02-09,2022-01-06,,2021-09-18,2020-06-12
+SPARTA-006,Erica Hurst,erica.hurst@gch.org,Female,White,No,37,Pfizer,2021-01-17,2021-02-09,2022-02-07,,2021-10-15,2021-01-02
+SPARTA-007,Arron Rodriguez,arron.rodriguez@gch.org,Male,White,Yes,42,Pfizer,2021-01-18,2021-02-06,2020-04-04,,2021-10-11,2020-06-15
+SPARTA-008,Freya Keller,freya.keller@gch.org,Female,White,No,50,Pfizer,2021-01-23,2021-02-14,2022-02-23,,2021-12-09,2020-06-13
+SPARTA-009,Whitney Brown,whitney.brown@gch.org,Female,White,No,38,Pfizer,2021-01-23,2021-02-11,2022-01-23,,2021-10-02,2020-06-11
+SPARTA-010,Tamsin Gould,tamsin.gould@gch.org,Female,White,Yes,57,Moderna,2021-01-20,2021-02-17,2020-04-25,2022-02-08,2021-12-23,2020-06-20
+SPARTA-011,Leena Higgins,leena.higgins@gch.org,Female,Hispanic or Latino,Yes,46,Pfizer,2021-01-13,2021-02-01,2020-04-03,,2021-10-10,2020-06-18
+SPARTA-012,Wesley Fox,wesley.fox@gch.org,Male,White,No,44,Pfizer,2021-01-18,2021-02-09,2022-02-12,,2021-12-20,2020-06-20
+SPARTA-013,Maisie Welsh,maisie.welsh@gch.org,Female,White,Yes,53,Moderna,2021-02-09,2021-03-08,2020-04-26,,2021-12-12,2020-06-21
+SPARTA-014,Lily Gutierrez,lily.gutierrez@gch.org,Female,White,Yes,46,Pfizer,2021-01-13,2021-02-05,2020-04-17,2022-03-02,2021-10-27,2020-07-17
+SPARTA-015,Honey Cordova,honey.cordova@gch.org,Female,White,Yes,45,Pfizer,2021-02-01,2021-02-23,2020-03-29,,2021-12-11,2020-12-25
+SPARTA-016,Kacie Erickson,kacie.erickson@gch.org,Female,White,Yes,46,Pfizer,2021-01-25,2021-02-16,2020-04-12,,2021-12-11,2020-06-22
+SPARTA-017,Bailey Lewis,bailey.lewis@gch.org,Female,White,No,36,Pfizer,2021-01-16,2021-02-04,2022-02-03,,2021-10-30,2020-06-07
+SPARTA-018,Martina Wade,martina.wade@gch.org,Female,Asian,No,33,Moderna,2021-01-16,2021-02-14,2022-02-17,,2021-09-13,2020-06-19
+SPARTA-019,Sufyaan Bright,sufyaan.bright@gch.org,Male,White,No,45,Pfizer,2021-01-29,2021-02-18,2022-01-18,,2021-09-22,2020-06-25
+SPARTA-020,Sumayyah Rivera,sumayyah.rivera@gch.org,Female,Black or African American,No,38,Pfizer,2021-02-04,2021-02-23,2022-01-17,,2021-10-10,2020-06-20
+SPARTA-021,Hasnain White,hasnain.white@gch.org,Male,White,No,40,Pfizer,2021-01-28,2021-02-20,2022-02-27,,2021-09-25,2020-06-05
+SPARTA-022,Alys Park,alys.park@gch.org,Female,White,Yes,58,Pfizer,2021-01-07,2021-01-27,2020-04-15,,2021-10-06,2021-01-26
+SPARTA-023,Aidan Beltran,aidan.beltran@gch.org,Female,White,No,49,Moderna,2021-01-21,2021-02-19,2022-03-10,,2021-09-12,2021-01-09
+SPARTA-024,Rosie Ware,rosie.ware@gch.org,Female,White,No,66,Pfizer,2021-01-08,2021-01-29,2022-01-21,,2021-09-03,2020-05-31
+SPARTA-025,Aliza Serrano,aliza.serrano@gch.org,Female,Asian,Yes,70,Pfizer,2021-01-09,2021-02-01,2020-04-13,2022-01-21,2021-09-17,2020-12-22
+SPARTA-026,Bella Tyler,bella.tyler@gch.org,Female,White,Yes,46,Moderna,2021-01-23,2021-02-20,2020-04-29,2022-02-13,2021-10-30,2020-06-23
+SPARTA-027,Monty Short,monty.short@gch.org,Male,Hispanic or Latino,No,38,Pfizer,2021-01-05,2021-01-27,,,2021-12-08,2020-07-08
+SPARTA-028,Elysia Mccall,elysia.mccall@gch.org,Female,White,No,45,Pfizer,2021-01-04,2021-01-25,2022-02-15,,2021-10-12,2020-06-30
+SPARTA-029,Neha Potter,neha.potter@gch.org,Female,Black or African American,Yes,41,Pfizer,2021-02-07,2021-02-28,2020-04-20,2022-02-04,2021-09-24,2020-12-14
+SPARTA-030,Marley Nelson,marley.nelson@gch.org,Female,Hispanic or Latino,Yes,46,Pfizer,2021-01-31,2021-02-19,2020-04-20,,2021-10-12,2021-01-06
+SPARTA-031,Casey House,casey.house@gch.org,Female,Asian,No,43,Pfizer,2021-01-28,2021-02-17,2022-02-22,,2021-10-17,2020-07-04
+SPARTA-032,Courtney Norton,courtney.norton@gch.org,Female,Black or African American,No,40,Pfizer,2021-01-03,2021-01-25,2022-02-01,,2021-09-09,2021-01-02
+SPARTA-033,Kyra Boyer,kyra.boyer@gch.org,Female,White,No,52,Moderna,2021-01-08,2021-02-04,2022-01-25,,2021-12-18,2020-06-20
+SPARTA-034,Evelyn Garcia,evelyn.garcia@gch.org,Female,Hispanic or Latino,No,39,Pfizer,2021-01-23,2021-02-12,2022-03-01,,2021-10-22,2020-06-23
+SPARTA-035,Neha Everett,neha.everett@gch.org,Female,Hispanic or Latino,Yes,43,Moderna,2021-01-19,2021-02-16,2020-05-04,,2021-12-16,2020-06-06
+SPARTA-036,Caitlin Wilkinson,caitlin.wilkinson@gch.org,Female,Hispanic or Latino,No,54,Pfizer,2021-01-27,2021-02-19,,,2021-10-11,2020-06-16
+SPARTA-037,Bridie Perry,bridie.perry@gch.org,Female,White,Yes,36,Pfizer,2021-01-13,2021-02-05,2020-04-06,,2021-09-09,2021-01-14
+SPARTA-038,Gail Olsen,gail.olsen@gch.org,Female,White,No,46,Pfizer,2021-01-23,2021-02-15,2022-01-20,,2021-12-30,2020-06-21
+SPARTA-039,Felix Olson,felix.olson@gch.org,Male,Asian,Yes,46,Pfizer,2021-01-10,2021-01-30,2020-04-22,2022-02-11,2021-12-01,2021-01-14
+SPARTA-040,Moshe Fleming,moshe.fleming@gch.org,Male,White,No,37,Pfizer,2021-01-12,2021-02-01,2022-03-03,,2021-09-04,2020-12-29
+SPARTA-041,Bruno Durham,bruno.durham@gch.org,Male,White,Yes,39,Pfizer,2021-01-16,2021-02-06,2020-04-17,2022-01-29,2021-09-21,2020-07-04
+SPARTA-042,Judy Harvey,judy.harvey@gch.org,Female,Hispanic or Latino,Yes,41,Moderna,2021-01-06,2021-02-01,2020-04-20,,2021-08-25,2020-12-30
+SPARTA-043,Elle Benson,elle.benson@gch.org,Female,White,No,61,Moderna,2021-01-06,2021-02-02,,,2021-09-17,2021-01-14
+SPARTA-044,Lyndon Armstrong,lyndon.armstrong@gch.org,Female,Black or African American,No,45,Pfizer,2021-01-10,2021-02-02,2022-01-17,,2021-12-12,2020-06-25
+SPARTA-045,Aliya Gardner,aliya.gardner@gch.org,Female,White,No,40,Pfizer,2021-01-18,2021-02-08,2022-01-24,,2021-10-19,2020-06-18
+SPARTA-046,Ayesha Mcguire,ayesha.mcguire@gch.org,Female,White,Yes,47,Pfizer,2021-02-10,2021-03-03,2020-04-16,,2021-09-10,2020-12-23
+SPARTA-047,Ada Riley,ada.riley@gch.org,Male,White,No,38,Pfizer,2021-01-19,2021-02-10,2022-02-26,,2021-09-02,2020-06-07
+SPARTA-048,Will Nielsen,will.nielsen@gch.org,Male,White,No,50,Pfizer,2021-01-02,2021-01-23,2022-01-18,,2021-10-21,2021-01-17
+SPARTA-049,Mina Taylor,mina.taylor@gch.org,Male,Asian,No,46,Pfizer,2021-01-26,2021-02-14,,,2021-09-24,2020-05-30
+SPARTA-050,Nelson Hanson,nelson.hanson@gch.org,Male,White,Yes,45,Pfizer,2021-01-12,2021-02-01,2020-03-31,,2021-10-20,2020-06-10
+SPARTA-051,Rex Velazquez,rex.velazquez@gch.org,Male,White,No,43,Pfizer,2021-01-06,2021-01-26,2022-01-25,,2021-10-20,2021-01-13
+SPARTA-052,Hayley Mcclain,hayley.mcclain@gch.org,Female,White,Yes,43,Pfizer,2021-01-06,2021-01-26,2020-04-24,,2021-10-21,2020-06-10
+SPARTA-053,Umair Pennington,umair.pennington@gch.org,Male,Asian,Yes,53,Moderna,2021-01-08,2021-02-05,2020-04-21,2022-01-29,2021-10-01,2020-06-28
+SPARTA-054,Ray Bean,ray.bean@gch.org,Female,White,No,44,Pfizer,2021-01-13,2021-02-02,2022-01-09,,2021-09-05,2020-05-31
+SPARTA-055,Heidi Stephens,heidi.stephens@gch.org,Female,White,No,47,Pfizer,2021-01-19,2021-02-08,,,2021-09-05,2020-12-30
+SPARTA-056,Lily-Mae Ramirez,lily-mae.ramirez@gch.org,Female,White,No,39,Moderna,2021-01-15,2021-02-12,2022-02-13,,2021-09-08,2021-01-20
+SPARTA-057,Oliwia Berger,oliwia.berger@gch.org,Female,White,No,37,Pfizer,2021-01-27,2021-02-19,2022-02-08,,2021-12-24,2020-06-13
+SPARTA-058,Celia Buckley,celia.buckley@gch.org,Female,Black or African American,Yes,41,Pfizer,2021-01-08,2021-01-31,2020-04-11,,2021-12-08,2020-06-18
+SPARTA-059,Caroline Cooke,caroline.cooke@gch.org,Female,Asian,No,42,Pfizer,2021-01-02,2021-01-22,2022-02-03,,2021-10-13,2020-06-06
+SPARTA-060,Rose Burnett,rose.burnett@gch.org,Female,Black or African American,Yes,48,Pfizer,2021-02-02,2021-02-22,2020-04-30,,2021-12-11,2020-05-28
+SPARTA-061,Sasha Dunn,sasha.dunn@gch.org,Female,Hispanic or Latino,Yes,37,Pfizer,2021-01-25,2021-02-15,2020-04-12,,2021-10-19,2020-06-25
+SPARTA-062,Conner Moreno,conner.moreno@gch.org,Male,White,No,56,Pfizer,2021-01-17,2021-02-09,2022-02-18,,2021-12-25,2020-06-11
+SPARTA-063,Violet Schaefer,violet.schaefer@gch.org,Female,Hispanic or Latino,No,52,Pfizer,2021-01-10,2021-02-01,2022-02-26,,2021-09-15,2021-01-01
+SPARTA-064,Aryan Buck,aryan.buck@gch.org,Male,White,No,45,Pfizer,2021-01-02,2021-01-23,2022-02-11,,2021-09-25,2020-12-14
+SPARTA-065,Kobi Dawson,kobi.dawson@gch.org,Male,Hispanic or Latino,No,48,Pfizer,2021-01-14,2021-02-05,2022-02-07,,2021-10-11,2020-06-15
+SPARTA-066,Molly Shah,molly.shah@gch.org,Female,White,Yes,45,Pfizer,2021-01-13,2021-02-02,2020-04-26,,2021-10-02,2020-06-30
+SPARTA-067,Marnie Beard,marnie.beard@gch.org,Female,Hispanic or Latino,No,41,Pfizer,2021-01-07,2021-01-27,2022-01-12,,2021-10-12,2020-06-10
+SPARTA-068,Sienna England,sienna.england@gch.org,Female,Black or African American,No,46,Pfizer,2021-01-12,2021-01-31,2022-01-19,,2021-09-13,2020-06-12
+SPARTA-069,Tahlia Gill,tahlia.gill@gch.org,Female,White,No,46,Pfizer,2021-01-08,2021-01-29,2022-02-11,,2021-12-12,2020-12-17
+SPARTA-070,Gina Cantrell,gina.cantrell@gch.org,Female,Hispanic or Latino,No,44,Pfizer,2021-01-15,2021-02-07,2022-02-15,,2021-10-23,2020-06-16
+SPARTA-071,Anjali Burns,anjali.burns@gch.org,Female,Asian,Yes,43,Pfizer,2021-01-15,2021-02-06,2020-04-16,2022-01-31,2021-11-24,2020-06-02
+SPARTA-072,Jorja Long,jorja.long@gch.org,Female,Black or African American,No,46,Pfizer,2021-01-13,2021-02-03,2021-12-26,,2021-09-18,2020-12-24
+SPARTA-073,Teresa Blankenship,teresa.blankenship@gch.org,Female,Asian,No,35,Pfizer,2021-01-10,2021-01-30,2022-02-12,,2021-12-19,2020-06-16
+SPARTA-074,Margie Paul,margie.paul@gch.org,Female,Black or African American,Yes,46,Moderna,2021-01-15,2021-02-14,2020-04-02,2022-02-15,2021-10-08,2020-06-17
+SPARTA-075,Farrah Jackson,farrah.jackson@gch.org,Female,White,No,63,Pfizer,2021-01-09,2021-01-29,,,2021-09-09,2020-06-26
+SPARTA-076,Alisa Terry,alisa.terry@gch.org,Female,White,No,35,Pfizer,2021-01-20,2021-02-12,2022-01-14,,2021-09-29,2020-06-27
+SPARTA-077,Dale Singleton,dale.singleton@gch.org,Female,White,Yes,38,Pfizer,2021-01-05,2021-01-28,2020-04-05,,2021-10-09,2020-05-21
+SPARTA-078,Kezia Matthams,kezia.matthams@gch.org,Female,Asian,Yes,40,Pfizer,2021-01-10,2021-01-29,2020-05-17,,2021-10-18,2020-06-18
+SPARTA-079,Myrtle Dale,myrtle.dale@gch.org,Female,White,No,42,Pfizer,2021-01-16,2021-02-05,2022-01-09,,2021-09-09,2020-06-11
+SPARTA-080,Anaya Glover,anaya.glover@gch.org,Female,Asian,Yes,40,Pfizer,2021-02-03,2021-02-25,2020-04-27,2022-01-16,2021-12-08,2020-06-23
+SPARTA-081,Daniyal Morse,daniyal.morse@gch.org,Male,White,Yes,37,Pfizer,2021-01-26,2021-02-14,2020-04-12,2022-01-27,2021-12-23,2021-01-09
+SPARTA-082,Natasha Hahn,natasha.hahn@gch.org,Female,White,Yes,40,Pfizer,2021-01-13,2021-02-05,2020-05-02,,2021-12-26,2020-06-11
+SPARTA-083,Cleo Irwin,cleo.irwin@gch.org,Female,White,No,40,Pfizer,2021-01-14,2021-02-05,2022-02-07,,2021-10-12,2020-12-31
+SPARTA-084,Sydney Hayes,sydney.hayes@gch.org,Female,White,Yes,44,Pfizer,2021-01-17,2021-02-06,2020-04-18,,2021-09-15,2020-06-07
+SPARTA-085,Annabella Stephenson,annabella.stephenson@gch.org,Female,White,No,57,Pfizer,2021-01-20,2021-02-12,2022-01-22,,2021-10-09,2020-06-24
+SPARTA-086,Eddie Calderon,eddie.calderon@gch.org,Male,White,Yes,45,Pfizer,2021-01-11,2021-02-02,2020-05-01,,2021-12-09,2020-06-16
+SPARTA-087,Victoria Rivas,victoria.rivas@gch.org,Female,Black or African American,Yes,49,Pfizer,2021-01-07,2021-01-30,2020-05-08,,2021-10-21,2020-12-25
+SPARTA-088,Abbie Ponce,abbie.ponce@gch.org,Female,White,No,43,Pfizer,2021-01-07,2021-01-28,2022-02-07,,2021-10-11,2020-06-21
+SPARTA-089,Clara Fleming,clara.fleming@gch.org,Female,White,Yes,48,Pfizer,2021-01-13,2021-02-02,2020-04-26,2022-01-22,2021-11-25,2020-06-24
+SPARTA-090,Rebekah Mcgee,rebekah.mcgee@gch.org,Female,Asian,No,43,Pfizer,2021-01-29,2021-02-19,2022-01-31,,2021-09-25,2020-12-22
+SPARTA-091,Billy Larsen,billy.larsen@gch.org,Female,Asian,Yes,46,Moderna,2021-01-07,2021-02-06,2020-03-24,,2021-12-19,2021-01-05
+SPARTA-092,Ivy Cisneros,ivy.cisneros@gch.org,Female,Black or African American,No,33,Pfizer,2021-01-06,2021-01-29,2022-02-18,,2021-10-17,2020-12-24
+SPARTA-093,Tatiana Holman,tatiana.holman@gch.org,Female,White,Yes,36,Moderna,2021-01-27,2021-02-24,2020-04-13,,2021-11-06,2020-12-21
+SPARTA-094,Pamela Adkins,pamela.adkins@gch.org,Female,White,No,50,Pfizer,2021-02-02,2021-02-22,,,2021-12-22,2020-06-12
+SPARTA-095,Subhan Mccoy,subhan.mccoy@gch.org,Male,Hispanic or Latino,Yes,46,Moderna,2021-01-14,2021-02-09,2020-04-21,,2021-09-11,2020-06-18
+SPARTA-096,Oliwia Meadows,oliwia.meadows@gch.org,Female,White,No,40,Moderna,2021-01-13,2021-02-12,2022-01-27,,2021-12-21,2020-05-28
+SPARTA-097,Jemima Mccormick,jemima.mccormick@gch.org,Female,Hispanic or Latino,Yes,49,Pfizer,2021-01-15,2021-02-06,2020-03-16,2022-02-09,2021-10-18,2020-12-29
+SPARTA-098,Zoe Smith,zoe.smith@gch.org,Female,White,No,42,Pfizer,2021-01-07,2021-01-29,2022-01-25,,2021-10-19,2020-06-21
+SPARTA-099,Gareth Humphrey,gareth.humphrey@gch.org,Male,White,No,43,Pfizer,2021-01-05,2021-01-25,2022-02-03,,2021-10-12,2020-06-27
+SPARTA-100,Mackenzie Hatfield,mackenzie.hatfield@gch.org,Female,White,Yes,50,Pfizer,2021-01-17,2021-02-08,2020-05-08,2022-01-25,2021-09-17,2020-06-22
+SPARTA-101,Fern Nichols,fern.nichols@gch.org,Female,White,No,36,Moderna,2021-01-15,2021-02-12,,,2021-12-26,2020-06-10
+SPARTA-102,Juan Brennan,juan.brennan@gch.org,Male,White,No,38,Pfizer,2021-01-07,2021-01-26,2022-01-27,,2021-09-18,2020-06-08
+SPARTA-103,Cordelia Hendricks,cordelia.hendricks@gch.org,Male,White,No,36,Pfizer,2021-01-11,2021-01-31,2022-01-15,,2021-08-31,2020-06-15
+SPARTA-104,Micheal Bridges,micheal.bridges@gch.org,Male,Asian,No,35,Pfizer,2021-01-03,2021-01-25,,,2021-12-10,2020-12-05
+SPARTA-105,Saarah Morgan,saarah.morgan@gch.org,Female,Asian,Yes,49,Pfizer,2021-01-17,2021-02-05,2020-04-08,,2021-09-10,2020-06-25
+SPARTA-106,Lucie Mosley,lucie.mosley@gch.org,Female,White,Yes,47,Pfizer,2021-01-25,2021-02-14,2020-04-28,,2021-12-10,2020-06-20
+SPARTA-107,Yusra Christian,yusra.christian@gch.org,Female,White,Yes,43,Pfizer,2021-01-16,2021-02-08,2020-04-10,,2021-09-01,2021-01-06
+SPARTA-108,Montgomery Sheppard,montgomery.sheppard@gch.org,Male,Hispanic or Latino,No,49,Pfizer,2021-01-18,2021-02-09,2022-01-27,,2021-08-24,2020-05-21
+SPARTA-109,Kacie Powers,kacie.powers@gch.org,Female,White,Yes,35,Moderna,2021-01-30,2021-03-01,2020-04-26,,2021-09-20,2020-06-17
+SPARTA-110,Tomos Combs,tomos.combs@gch.org,Male,White,No,40,Pfizer,2021-01-19,2021-02-09,2022-02-20,,2022-01-05,2020-12-30
+SPARTA-111,Farhan Hanna,farhan.hanna@gch.org,Male,Asian,Yes,39,Pfizer,2021-01-15,2021-02-06,2020-05-15,,2021-12-23,2020-06-16
+SPARTA-112,Sandra Berg,sandra.berg@gch.org,Female,White,Yes,43,Pfizer,2021-01-15,2021-02-04,2020-03-27,2022-01-01,2021-09-29,2020-06-13
+SPARTA-113,Ruby Harrison,ruby.harrison@gch.org,Female,Hispanic or Latino,No,48,Pfizer,2021-01-30,2021-02-22,2022-01-28,,2021-09-20,2020-06-21
+SPARTA-114,Sam Briggs,sam.briggs@gch.org,Female,White,No,53,Moderna,2021-01-11,2021-02-06,2022-01-18,,2021-08-30,2020-06-21
+SPARTA-115,Emilie Velez,emilie.velez@gch.org,Female,Hispanic or Latino,No,43,Pfizer,2021-02-01,2021-02-22,2022-01-29,,2021-09-23,2020-06-23
+SPARTA-116,Jazmin O'Sullivan,jazmin.osullivan@gch.org,Female,Asian,Yes,38,Pfizer,2021-01-11,2021-02-03,2020-04-08,,2021-10-21,2021-01-19
+SPARTA-117,Jana Dorsey,jana.dorsey@gch.org,Female,White,Yes,36,Pfizer,2021-01-27,2021-02-16,2020-04-09,2022-01-15,2021-10-18,2020-05-31
+SPARTA-118,Cordelia Delacruz,cordelia.delacruz@gch.org,Female,White,No,38,Pfizer,2021-01-09,2021-01-28,2022-02-04,,2021-10-12,2020-06-11
+SPARTA-119,Seth Hutchinson,seth.hutchinson@gch.org,Male,White,No,43,Pfizer,2021-01-14,2021-02-02,2022-01-30,,2021-10-29,2020-06-20
+SPARTA-120,Robbie Powell,robbie.powell@gch.org,Female,White,Yes,37,Pfizer,2021-01-18,2021-02-06,2020-04-26,,2021-12-03,2020-05-29
+SPARTA-121,Flynn Rios,flynn.rios@gch.org,Male,Hispanic or Latino,Yes,45,Pfizer,2021-01-07,2021-01-26,2020-04-17,,2021-09-22,2020-06-26
+SPARTA-122,Aarav Mckenzie,aarav.mckenzie@gch.org,Male,White,Yes,45,Pfizer,2021-01-22,2021-02-10,2020-05-07,,2021-12-12,2020-07-03
+SPARTA-123,Helena O'Neill,helena.oneill@gch.org,Female,White,No,40,Pfizer,2021-01-29,2021-02-21,2021-12-30,,2021-12-20,2020-06-11
+SPARTA-124,Tyrese Moran,tyrese.moran@gch.org,Female,White,No,47,Pfizer,2021-01-17,2021-02-05,2022-02-18,,2021-12-26,2020-06-01
+SPARTA-125,Ehsan Burgess,ehsan.burgess@gch.org,Male,Asian,Yes,42,Moderna,2021-01-25,2021-02-21,2020-04-22,,2021-09-13,2020-05-30
+SPARTA-126,Cormac Walton,cormac.walton@gch.org,Male,White,No,59,Pfizer,2021-01-05,2021-01-25,2022-01-30,,2021-09-13,2020-12-19
+SPARTA-127,Erica Duke,erica.duke@gch.org,Male,Black or African American,No,48,Pfizer,2021-01-14,2021-02-02,2022-01-21,,2021-12-20,2020-06-10
+SPARTA-128,Safiya Moreno,safiya.moreno@gch.org,Female,White,Yes,45,Pfizer,2021-01-17,2021-02-05,2020-03-23,,2021-10-08,2020-05-23
+SPARTA-129,Keeley Dillon,keeley.dillon@gch.org,Female,White,No,45,Pfizer,2021-01-11,2021-02-03,,,2021-10-28,2020-06-29
+SPARTA-130,Isaiah Riley,isaiah.riley@gch.org,Male,White,Yes,49,Pfizer,2021-01-19,2021-02-11,2020-05-06,,2021-12-26,2021-01-08
+SPARTA-131,Zane Mathews,zane.mathews@gch.org,Male,White,No,46,Pfizer,2021-01-06,2021-01-28,2022-01-04,,2021-12-06,2020-06-19
+SPARTA-132,Rohan Strong,rohan.strong@gch.org,Female,Asian,No,43,Pfizer,2021-02-01,2021-02-24,2022-01-23,,2021-10-06,2020-06-20
+SPARTA-133,Karina Branch,karina.branch@gch.org,Female,Asian,No,41,Moderna,2021-01-25,2021-02-23,2022-01-21,,2021-09-12,2021-01-13
+SPARTA-134,Denise Lara,denise.lara@gch.org,Female,White,No,39,Pfizer,2021-01-19,2021-02-09,2022-01-19,,2021-12-19,2020-06-12
+SPARTA-135,Omar Brady,omar.brady@gch.org,Male,White,Yes,40,Pfizer,2021-01-15,2021-02-04,2020-04-21,,2021-09-18,2020-06-07
+SPARTA-136,Delilah Lewis,delilah.lewis@gch.org,Female,White,No,43,Pfizer,2021-01-16,2021-02-05,2022-01-04,,2021-10-29,2020-06-19
+SPARTA-137,Sion Medina,sion.medina@gch.org,Female,Asian,No,41,Pfizer,2021-02-05,2021-02-28,2022-02-02,,2021-09-11,2020-06-18
+SPARTA-138,Samantha Schmidt,samantha.schmidt@gch.org,Female,White,Yes,37,Pfizer,2021-01-14,2021-02-05,2020-04-11,2022-02-06,2021-12-22,2020-06-14
+SPARTA-139,Stuart Kirby,stuart.kirby@gch.org,Male,White,Yes,39,Pfizer,2021-01-24,2021-02-14,2020-04-14,,2021-10-20,2021-01-14
+SPARTA-140,Ava-Rose Doyle,ava-rose.doyle@gch.org,Female,Black or African American,No,48,Moderna,2021-01-20,2021-02-17,2022-02-01,,2021-12-15,2020-06-20
+SPARTA-141,Bernard Arroyo,bernard.arroyo@gch.org,Male,Hispanic or Latino,No,41,Moderna,2021-01-09,2021-02-05,2022-02-17,,2021-10-29,2021-01-02
+SPARTA-142,Mariya Olsen,mariya.olsen@gch.org,Female,White,No,37,Moderna,2021-01-05,2021-02-04,2022-01-06,,2021-12-11,2020-06-25
+SPARTA-143,Leah Rivera,leah.rivera@gch.org,Female,White,No,62,Moderna,2021-01-08,2021-02-03,2022-02-01,,2021-09-09,2020-06-12
+SPARTA-144,Keziah Oneal,keziah.oneal@gch.org,Female,Asian,Yes,40,Moderna,2021-01-04,2021-01-30,2020-04-07,,2021-12-16,2020-06-22
+SPARTA-145,Inaaya Benjamin,inaaya.benjamin@gch.org,Female,Asian,No,44,Pfizer,2021-01-27,2021-02-19,2022-01-23,,2021-09-25,2020-06-16
+SPARTA-146,Janet Mullins,janet.mullins@gch.org,Female,White,No,35,Pfizer,2021-01-25,2021-02-17,2022-02-13,,2021-09-11,2020-06-07
+SPARTA-147,Tamzin Moran,tamzin.moran@gch.org,Female,White,Yes,52,Pfizer,2021-01-18,2021-02-07,2020-05-09,,2021-10-07,2021-01-01
+SPARTA-148,Fatma Robles,fatma.robles@gch.org,Female,Hispanic or Latino,No,45,Moderna,2021-01-12,2021-02-07,2022-01-27,,2021-12-27,2020-06-15
+SPARTA-149,Tegan Norris,tegan.norris@gch.org,Male,Asian,No,42,Pfizer,2021-01-24,2021-02-12,,,2021-10-21,2020-06-11
+SPARTA-150,Rihanna Kramer,rihanna.kramer@gch.org,Female,Asian,Yes,48,Pfizer,2021-01-14,2021-02-04,2020-03-31,,2021-11-15,2021-01-08
+SPARTA-151,Aisha Mccarty,aisha.mccarty@gch.org,Female,White,No,45,Pfizer,2021-01-16,2021-02-08,2022-01-20,,2021-12-06,2021-01-09
+SPARTA-152,Freddy Webster,freddy.webster@gch.org,Male,Hispanic or Latino,Yes,53,Pfizer,2021-01-22,2021-02-11,2020-05-02,2022-01-26,2021-09-13,2021-01-19
+SPARTA-153,Hanna Lam,hanna.lam@gch.org,Female,White,No,40,Pfizer,2021-01-07,2021-01-30,2022-02-08,,2021-12-12,2020-06-23
+SPARTA-154,Angelo Huffman,angelo.huffman@gch.org,Male,White,Yes,39,Moderna,2021-01-06,2021-02-05,2020-04-20,,2021-09-03,2020-06-09
+SPARTA-155,Levi Villegas,levi.villegas@gch.org,Female,White,Yes,56,Pfizer,2021-01-23,2021-02-12,2020-05-01,,2021-10-04,2020-06-04
+SPARTA-156,Millicent Carey,millicent.carey@gch.org,Female,White,No,40,Moderna,2021-01-08,2021-02-07,2022-03-04,,2021-12-20,2020-06-12
+SPARTA-157,Maisy Pearce,maisy.pearce@gch.org,Female,Hispanic or Latino,Yes,42,Moderna,2021-01-11,2021-02-07,2020-04-12,,2021-10-17,2021-01-05
+SPARTA-158,Nadine Odling,nadine.odling@gch.org,Female,White,No,47,Pfizer,2021-01-10,2021-01-31,2022-01-30,,2021-09-26,2020-06-18
+SPARTA-159,Liana Summers,liana.summers@gch.org,Female,Black or African American,No,56,Moderna,2021-01-31,2021-02-27,2022-01-21,,2021-09-18,2021-01-04
+SPARTA-160,Donna Reynolds,donna.reynolds@gch.org,Female,White,No,48,Moderna,2021-01-09,2021-02-07,2022-01-30,,2021-10-11,2020-07-09
+SPARTA-161,Jim Mayo,jim.mayo@gch.org,Male,White,Yes,35,Pfizer,2021-01-13,2021-02-01,2020-04-01,2022-01-12,2021-12-29,2020-06-23
+SPARTA-162,Teddy O'Ryan,teddy.oryan@gch.org,Male,White,No,60,Pfizer,2021-01-15,2021-02-07,2022-02-04,,2021-10-14,2021-01-09
+SPARTA-163,Tabitha Gomez,tabitha.gomez@gch.org,Female,White,No,39,Pfizer,2021-01-26,2021-02-18,2022-01-22,,2021-12-15,2020-06-19
+SPARTA-164,Olivia Mathews,olivia.mathews@gch.org,Female,White,No,57,Moderna,2021-01-09,2021-02-07,2022-02-14,,2021-12-13,2020-06-09
+SPARTA-165,Harris Calhoun,harris.calhoun@gch.org,Female,White,Yes,43,Pfizer,2021-01-16,2021-02-05,2020-04-30,,2021-09-19,2021-01-19
+SPARTA-166,Kade Lucas,kade.lucas@gch.org,Female,White,Yes,54,Pfizer,2021-01-10,2021-02-01,2020-03-29,,2021-09-05,2021-01-23
+SPARTA-167,Casey Goodwin,casey.goodwin@gch.org,Female,White,No,52,Pfizer,2021-01-13,2021-02-01,2022-02-03,,2022-01-09,2020-06-26
+SPARTA-168,Harriett Saunders,harriett.saunders@gch.org,Female,Hispanic or Latino,No,46,Pfizer,2021-01-12,2021-02-03,2022-02-01,,2021-09-09,2021-01-12
+SPARTA-169,Scarlett Clarke,scarlett.clarke@gch.org,Female,White,Yes,53,Pfizer,2021-01-14,2021-02-06,2020-05-02,,2021-10-15,2020-06-04
+SPARTA-170,Megan Rangel,megan.rangel@gch.org,Female,Black or African American,Yes,53,Pfizer,2021-01-08,2021-01-29,2020-04-16,,2021-09-09,2020-06-09
+SPARTA-171,Constance Connolly,constance.connolly@gch.org,Female,White,Yes,36,Moderna,2021-01-11,2021-02-08,2020-04-21,,2021-10-13,2020-06-18
+SPARTA-172,Anisa Mcguire,anisa.mcguire@gch.org,Female,Asian,No,55,Moderna,2021-02-10,2021-03-12,2022-02-09,,2021-10-18,2020-06-03
+SPARTA-173,Kyan Petty,kyan.petty@gch.org,Female,Hispanic or Latino,Yes,43,Moderna,2021-01-08,2021-02-04,2020-04-16,,2021-09-10,2020-12-26
+SPARTA-174,Kyra Andrews,kyra.andrews@gch.org,Female,White,No,39,Pfizer,2021-01-31,2021-02-21,2022-01-18,,2021-10-14,2020-06-10
+SPARTA-175,Hasan Mejia,hasan.mejia@gch.org,Male,White,No,44,Pfizer,2021-01-10,2021-02-02,,,2021-09-08,2020-06-12
+SPARTA-176,Zainab English,zainab.english@gch.org,Female,White,No,39,Pfizer,2021-01-09,2021-02-01,2022-01-01,,2021-12-16,2020-06-18
+SPARTA-177,Kylie Chang,kylie.chang@gch.org,Female,Black or African American,Yes,50,Pfizer,2021-01-04,2021-01-23,2020-05-04,2022-01-15,2021-09-14,2020-06-25
+SPARTA-178,Rajan Shaw,rajan.shaw@gch.org,Male,Hispanic or Latino,No,41,Pfizer,2021-01-15,2021-02-03,2022-01-29,,2021-12-14,2020-06-08
+SPARTA-179,Louis Keller,louis.keller@gch.org,Male,White,No,39,Pfizer,2021-01-22,2021-02-12,,,2021-10-24,2020-06-24
+SPARTA-180,Iris Sherman,iris.sherman@gch.org,Female,Asian,Yes,44,Pfizer,2021-01-25,2021-02-14,2020-05-09,2022-02-16,2021-12-11,2020-06-22
+SPARTA-181,Amna Carver,amna.carver@gch.org,Female,White,No,40,Pfizer,2021-01-18,2021-02-10,2022-02-19,,2021-09-27,2020-07-03
+SPARTA-182,Lisa Conway,lisa.conway@gch.org,Female,White,Yes,44,Pfizer,2021-01-11,2021-01-31,2020-05-05,,2021-11-25,2020-06-21
+SPARTA-183,Elizabeth Richardson,elizabeth.richardson@gch.org,Female,White,No,50,Pfizer,2021-01-17,2021-02-09,2022-02-13,,2021-09-10,2020-07-11
+SPARTA-184,Marcus Hartley,marcus.hartley@gch.org,Male,Asian,No,39,Moderna,2021-01-18,2021-02-16,2022-02-19,,2021-12-06,2020-06-27
+SPARTA-185,Rachel Perez,rachel.perez@gch.org,Female,White,No,51,Moderna,2021-01-14,2021-02-13,2022-01-28,,2021-09-15,2020-06-03
+SPARTA-186,Mustafa Villanueva,mustafa.villanueva@gch.org,Male,White,No,44,Pfizer,2021-01-20,2021-02-08,2022-01-29,,2021-09-02,2021-01-09
+SPARTA-187,Amin Knowles,amin.knowles@gch.org,Male,Hispanic or Latino,Yes,44,Moderna,2021-01-23,2021-02-18,2020-04-24,,2021-10-20,2020-06-29
+SPARTA-188,Poppy Cisneros,poppy.cisneros@gch.org,Female,White,Yes,42,Moderna,2021-01-21,2021-02-16,2020-05-23,,2021-12-08,2020-12-29
+SPARTA-189,Elisabeth Keith,elisabeth.keith@gch.org,Female,Hispanic or Latino,Yes,48,Pfizer,2021-02-11,2021-03-03,2020-05-01,,2021-12-01,2020-06-17
+SPARTA-190,Junaid Ware,junaid.ware@gch.org,Male,Black or African American,Yes,50,Moderna,2021-01-18,2021-02-15,2020-04-15,,2021-09-16,2020-06-19
+SPARTA-191,Alannah West,alannah.west@gch.org,Female,Black or African American,Yes,40,Pfizer,2021-01-29,2021-02-19,2020-04-11,,2022-01-07,2020-06-17
+SPARTA-192,Esha Briggs,esha.briggs@gch.org,Female,Hispanic or Latino,Yes,55,Pfizer,2021-01-22,2021-02-12,2020-04-18,,2021-10-14,2021-01-02
+SPARTA-193,Elizabeth Lucero,elizabeth.lucero@gch.org,Female,White,No,45,Pfizer,2021-02-01,2021-02-22,2022-02-08,,2021-09-14,2020-06-13
+SPARTA-194,Krishan Kidd,krishan.kidd@gch.org,Male,Asian,Yes,55,Pfizer,2021-01-14,2021-02-05,2020-04-13,,2021-12-19,2021-01-01
+SPARTA-195,Harriett Lawrence,harriett.lawrence@gch.org,Female,White,No,47,Pfizer,2021-01-05,2021-01-26,2022-02-05,,2021-09-15,2020-06-21
+SPARTA-196,Eliot Gentry,eliot.gentry@gch.org,Female,White,No,47,Pfizer,2021-01-25,2021-02-17,2022-02-21,,2021-09-07,2020-06-26
+SPARTA-197,Rhiannon Potter,rhiannon.potter@gch.org,Female,Asian,No,45,Pfizer,2021-01-10,2021-01-30,,,2021-10-11,2021-01-14
+SPARTA-198,Yasmin Williamson,yasmin.williamson@gch.org,Female,Asian,Yes,38,Pfizer,2021-01-19,2021-02-10,2020-05-09,2022-01-15,2021-09-20,2020-06-18
+SPARTA-199,Henrietta Melendez,henrietta.melendez@gch.org,Female,White,No,38,Pfizer,2021-01-15,2021-02-07,2022-03-06,,2021-10-04,2020-06-19
+SPARTA-200,Luna Swanson,luna.swanson@gch.org,Female,Asian,Yes,47,Pfizer,2021-01-10,2021-01-29,2020-04-21,2022-02-28,2021-09-07,2020-06-18
+SPARTA-201,Liana Decker,liana.decker@gch.org,Female,White,No,65,Pfizer,2021-01-16,2021-02-07,2022-02-02,,2022-01-06,2020-06-13
+SPARTA-202,Faizan Jefferson,faizan.jefferson@gch.org,Male,White,Yes,52,Moderna,2021-02-12,2021-03-13,2020-04-19,2022-01-19,2021-09-22,2020-07-03
+SPARTA-203,Laurence Dale,laurence.dale@gch.org,Male,White,No,34,Pfizer,2021-01-18,2021-02-10,2022-02-11,,2021-10-31,2020-06-20
+SPARTA-204,Louie Deleon,louie.deleon@gch.org,Male,Asian,Yes,34,Pfizer,2021-01-26,2021-02-16,2020-04-25,,2021-10-04,2020-12-31
+SPARTA-205,Nadia Gamble,nadia.gamble@gch.org,Female,Asian,No,44,Pfizer,2021-01-07,2021-01-27,2022-01-27,,2021-12-18,2021-01-03
+SPARTA-206,Shania Silva,shania.silva@gch.org,Female,Asian,Yes,37,Pfizer,2021-01-11,2021-02-02,2020-04-06,,2021-09-24,2020-06-10
+SPARTA-207,Ayden Hilton,ayden.hilton@gch.org,Male,White,No,47,Pfizer,2021-01-21,2021-02-13,,,2021-10-14,2021-01-09
+SPARTA-208,Anastasia Gray,anastasia.gray@gch.org,Female,White,No,39,Pfizer,2021-01-19,2021-02-08,2022-01-29,,2021-12-12,2020-06-29
+SPARTA-209,Kaitlin Bishop,kaitlin.bishop@gch.org,Female,Hispanic or Latino,Yes,44,Pfizer,2021-01-25,2021-02-16,2020-04-21,,2021-10-16,2020-06-25
+SPARTA-210,Charley Mercado,charley.mercado@gch.org,Female,White,No,44,Pfizer,2021-01-22,2021-02-10,,,2021-12-01,2021-01-12
+SPARTA-211,Nancy Graham,nancy.graham@gch.org,Female,Hispanic or Latino,No,35,Pfizer,2021-02-10,2021-03-02,,,2021-10-31,2021-01-04
+SPARTA-212,Mahir Klein,mahir.klein@gch.org,Male,White,No,51,Pfizer,2021-01-24,2021-02-15,2022-01-28,,2021-10-25,2020-06-22
+SPARTA-213,Penelope Hooper,penelope.hooper@gch.org,Female,White,Yes,39,Pfizer,2021-01-16,2021-02-06,2020-05-03,,2021-09-18,2020-06-10
+SPARTA-214,Ishaq Duffy,ishaq.duffy@gch.org,Male,White,Yes,42,Pfizer,2021-01-15,2021-02-07,2020-04-21,2022-02-09,2021-12-05,2020-05-29
+SPARTA-215,Kyla Lang,kyla.lang@gch.org,Female,White,No,43,Pfizer,2021-01-16,2021-02-06,2022-02-13,,2021-09-17,2020-06-26
+SPARTA-216,Leah Hobbs,leah.hobbs@gch.org,Female,Hispanic or Latino,Yes,54,Pfizer,2021-01-27,2021-02-18,2020-04-22,,2021-12-28,2020-05-31
+SPARTA-217,Kenneth Francis,kenneth.francis@gch.org,Male,White,No,38,Pfizer,2021-01-23,2021-02-11,2022-02-28,,2021-12-25,2020-06-15
+SPARTA-218,Corey Rangel,corey.rangel@gch.org,Female,White,No,39,Pfizer,2021-01-13,2021-02-03,2022-02-17,,2021-09-16,2021-01-15
+SPARTA-219,Ayla Holloway,ayla.holloway@gch.org,Female,White,No,41,Pfizer,2021-01-12,2021-02-01,,,2021-09-28,2020-12-26
+SPARTA-220,Deacon Pugh,deacon.pugh@gch.org,Male,White,No,45,Pfizer,2021-01-08,2021-01-31,2022-01-26,,2021-09-01,2020-06-29
+SPARTA-221,Honor Barnett,honor.barnett@gch.org,Female,White,Yes,50,Moderna,2021-01-10,2021-02-09,2020-05-01,2022-01-09,2021-10-19,2020-06-27
+SPARTA-222,Iris Mcleod,iris.mcleod@gch.org,Female,Asian,Yes,40,Moderna,2021-01-13,2021-02-10,2020-04-05,,2021-11-29,2020-06-13
+SPARTA-223,Ida Gardner,ida.gardner@gch.org,Female,Black or African American,No,54,Pfizer,2021-01-15,2021-02-07,2022-02-03,,2021-12-28,2020-06-25
+SPARTA-224,Zane Le,zane.le@gch.org,Female,Asian,No,40,Pfizer,2021-01-26,2021-02-14,2022-02-03,,2021-10-17,2021-01-01
+SPARTA-225,Alysha Mccarthy,alysha.mccarthy@gch.org,Female,White,Yes,40,Pfizer,2021-01-10,2021-02-02,2020-04-23,,2021-12-11,2020-06-29
+SPARTA-226,Steven Cohen,steven.cohen@gch.org,Male,White,No,40,Pfizer,2021-01-19,2021-02-07,2022-01-31,,2021-09-01,2020-06-16
+SPARTA-227,Evan Hartman,evan.hartman@gch.org,Female,White,No,37,Pfizer,2021-01-08,2021-01-31,,,2021-10-07,2020-06-14
+SPARTA-228,John Sears,john.sears@gch.org,Male,Asian,No,47,Moderna,2021-01-13,2021-02-12,2022-01-14,,2021-09-13,2020-06-06
+SPARTA-229,Nicolas Vega,nicolas.vega@gch.org,Male,Asian,Yes,38,Pfizer,2021-01-26,2021-02-18,2020-04-16,,2021-12-15,2020-07-18
+SPARTA-230,Hiba Humphrey,hiba.humphrey@gch.org,Female,White,No,59,Moderna,2021-01-07,2021-02-04,2022-01-21,,2021-10-08,2020-06-13
+SPARTA-231,Jason Trujillo,jason.trujillo@gch.org,Male,Black or African American,No,52,Pfizer,2021-01-31,2021-02-20,,,2021-12-08,2021-01-03
+SPARTA-232,Phyllis Macias,phyllis.macias@gch.org,Female,Black or African American,No,53,Moderna,2021-02-13,2021-03-13,2021-12-30,,2021-12-18,2020-06-18
+SPARTA-233,Ollie Huffman,ollie.huffman@gch.org,Female,Asian,No,40,Moderna,2021-01-29,2021-02-25,,,2021-09-13,2020-12-24
+SPARTA-234,Alannah Roy,alannah.roy@gch.org,Female,Black or African American,No,45,Pfizer,2021-01-05,2021-01-24,2022-01-24,,2021-10-20,2020-06-21
+SPARTA-235,Ana Benson,ana.benson@gch.org,Female,White,No,53,Pfizer,2021-01-16,2021-02-04,2022-02-10,,2021-12-07,2020-06-13
+SPARTA-236,Maisha Phelps,maisha.phelps@gch.org,Female,Hispanic or Latino,Yes,46,Pfizer,2021-01-25,2021-02-17,2020-04-28,2022-01-17,2021-09-15,2020-06-14
+SPARTA-237,Neo Massey,neo.massey@gch.org,Male,White,Yes,41,Pfizer,2021-01-11,2021-01-30,2020-04-12,,2021-10-17,2020-05-31
+SPARTA-238,Samuel Nunez,samuel.nunez@gch.org,Male,Asian,No,37,Moderna,2021-01-14,2021-02-13,2022-02-10,,2021-11-02,2020-06-12
+SPARTA-239,Elisha King,elisha.king@gch.org,Male,White,Yes,38,Pfizer,2021-01-05,2021-01-25,2020-04-26,2022-02-08,2021-10-29,2020-05-26
+SPARTA-240,Mercedes Weeks,mercedes.weeks@gch.org,Female,Asian,No,46,Pfizer,2021-01-06,2021-01-27,2022-01-16,,2021-10-20,2020-06-08
+SPARTA-241,Alanna Reyes,alanna.reyes@gch.org,Female,White,Yes,40,Moderna,2021-01-27,2021-02-23,2020-05-19,2022-02-21,2021-08-31,2021-01-08
+SPARTA-242,Tasneem Garza,tasneem.garza@gch.org,Female,White,No,43,Pfizer,2021-01-22,2021-02-10,2022-01-25,,2021-12-07,2020-06-09
+SPARTA-243,Jessie Gray,jessie.gray@gch.org,Male,Asian,No,38,Pfizer,2021-01-15,2021-02-03,2022-02-03,,2021-12-22,2020-06-09
+SPARTA-244,Bryn Parrish,bryn.parrish@gch.org,Female,Black or African American,Yes,39,Moderna,2021-01-19,2021-02-15,2020-04-29,2022-02-04,2021-12-16,2021-01-18
+SPARTA-245,Julia Singh,julia.singh@gch.org,Female,White,No,45,Pfizer,2021-02-01,2021-02-21,2022-01-19,,2021-10-08,2020-06-18
+SPARTA-246,Lila Dennis,lila.dennis@gch.org,Female,White,Yes,47,Pfizer,2021-01-09,2021-01-29,2020-04-12,,2021-09-04,2020-06-06
+SPARTA-247,Kelsey Holmes,kelsey.holmes@gch.org,Male,White,No,52,Pfizer,2021-01-23,2021-02-15,2022-01-26,,2021-10-20,2020-06-11
+SPARTA-248,Giovanni Espinoza,giovanni.espinoza@gch.org,Male,White,No,46,Pfizer,2021-01-03,2021-01-22,2022-01-29,,2021-09-27,2020-06-19
+SPARTA-249,Audrey Callahan,audrey.callahan@gch.org,Female,White,No,40,Pfizer,2021-01-23,2021-02-15,,,2021-12-05,2020-06-23
+SPARTA-250,Alissa Ali,alissa.ali@gch.org,Female,White,No,46,Pfizer,2021-02-01,2021-02-20,,,2021-11-28,2020-06-05
+SPARTA-251,Mohammed Simmons,mohammed.simmons@gch.org,Male,White,No,45,Pfizer,2021-01-03,2021-01-24,2022-02-16,,2021-12-14,2020-06-15
+SPARTA-252,Veronica Wade,veronica.wade@gch.org,Female,Asian,No,37,Pfizer,2021-02-06,2021-03-01,,,2021-12-26,2020-06-18
+SPARTA-253,Jim Houston,jim.houston@gch.org,Male,White,Yes,41,Pfizer,2021-01-13,2021-02-02,2020-05-01,,2022-01-09,2020-06-30
+SPARTA-254,Tamsin Klein,tamsin.klein@gch.org,Female,Asian,No,44,Pfizer,2021-01-09,2021-01-29,2022-01-04,,2021-09-10,2020-12-27
+SPARTA-255,Keziah Oconnell,keziah.oconnell@gch.org,Female,Asian,No,60,Moderna,2021-01-19,2021-02-14,2022-02-08,,2021-12-12,2020-06-09
+SPARTA-256,Lina Houston,lina.houston@gch.org,Female,Asian,No,54,Pfizer,2021-01-15,2021-02-05,2022-02-20,,2021-10-06,2020-06-17
+SPARTA-257,Nathan Hobbs,nathan.hobbs@gch.org,Male,White,No,39,Pfizer,2021-01-09,2021-01-29,,,2021-12-20,2020-05-30
+SPARTA-258,Callan Freeman,callan.freeman@gch.org,Male,White,Yes,43,Pfizer,2021-01-25,2021-02-13,2020-05-09,,2021-12-10,2020-06-04
+SPARTA-259,Edgar Bates,edgar.bates@gch.org,Male,Black or African American,No,61,Pfizer,2021-01-11,2021-02-03,2022-02-10,,2021-11-22,2020-06-11
+SPARTA-260,Taya Ferguson,taya.ferguson@gch.org,Female,White,No,41,Moderna,2021-02-05,2021-03-05,2022-01-26,,2021-10-12,2020-12-17
+SPARTA-261,Stephen Turner,stephen.turner@gch.org,Male,White,No,60,Pfizer,2021-01-19,2021-02-10,2022-01-30,,2021-12-17,2020-06-11
+SPARTA-262,Alivia Calderon,alivia.calderon@gch.org,Female,White,No,38,Pfizer,2021-01-14,2021-02-04,,,2021-10-09,2021-01-04
+SPARTA-263,Tallulah Stewart,tallulah.stewart@gch.org,Female,White,No,41,Pfizer,2021-01-09,2021-01-30,2022-03-06,,2022-01-05,2020-05-23
+SPARTA-264,Tyrell Chase,tyrell.chase@gch.org,Female,White,Yes,42,Moderna,2021-01-10,2021-02-06,2020-04-28,,2021-10-20,2021-01-06
+SPARTA-265,Kirsten Garrison,kirsten.garrison@gch.org,Female,Asian,Yes,42,Pfizer,2021-01-25,2021-02-16,2020-04-18,,2021-12-18,2020-12-26
+SPARTA-266,Jakob Mclean,jakob.mclean@gch.org,Male,White,No,42,Pfizer,2021-02-15,2021-03-06,2022-02-05,,2021-09-14,2020-07-07
+SPARTA-267,Scott Dyer,scott.dyer@gch.org,Male,White,No,41,Pfizer,2021-01-07,2021-01-29,2022-02-27,,2021-12-04,2020-07-02
+SPARTA-268,Ellis Baker,ellis.baker@gch.org,Female,White,No,45,Moderna,2021-02-08,2021-03-10,2022-02-06,,2021-09-10,2020-06-07
+SPARTA-269,Saffron Hodges,saffron.hodges@gch.org,Female,White,No,43,Pfizer,2021-01-29,2021-02-20,2022-01-31,,2021-09-07,2020-12-24
+SPARTA-270,Kristen Sims,kristen.sims@gch.org,Female,White,No,40,Pfizer,2021-01-24,2021-02-12,2022-01-28,,2021-10-20,2020-06-16
+SPARTA-271,Sion Arroyo,sion.arroyo@gch.org,Female,White,Yes,48,Moderna,2021-02-01,2021-03-02,2020-04-27,,2021-09-27,2020-07-05
+SPARTA-272,Rachael Conway,rachael.conway@gch.org,Female,White,No,45,Moderna,2021-01-20,2021-02-19,2022-01-13,,2021-10-03,2020-06-20
+SPARTA-273,Eva King,eva.king@gch.org,Female,Black or African American,No,52,Pfizer,2021-02-05,2021-02-28,2022-02-06,,2021-09-21,2020-12-20
+SPARTA-274,Faith Porter,faith.porter@gch.org,Male,White,No,46,Pfizer,2021-01-10,2021-01-30,2022-02-14,,2021-11-23,2020-06-27
+SPARTA-275,Terry Wagner,terry.wagner@gch.org,Female,White,Yes,39,Pfizer,2021-01-14,2021-02-04,2020-04-11,,2021-09-28,2020-06-12
+SPARTA-276,Robin Guzman,robin.guzman@gch.org,Female,White,Yes,43,Pfizer,2021-01-17,2021-02-08,2020-05-11,,2021-12-17,2020-06-19
+SPARTA-277,Bridget Weiss,bridget.weiss@gch.org,Female,Asian,No,38,Pfizer,2021-01-15,2021-02-06,,,2021-12-04,2020-06-14
+SPARTA-278,Sana Lamb,sana.lamb@gch.org,Male,White,No,45,Pfizer,2021-01-26,2021-02-18,,,2021-10-15,2020-05-24
+SPARTA-279,Tessa Gould,tessa.gould@gch.org,Female,White,Yes,46,Moderna,2021-02-02,2021-03-04,2020-04-17,,2021-10-29,2020-06-19
+SPARTA-280,Malaika Byrd,malaika.byrd@gch.org,Female,White,No,49,Pfizer,2021-01-07,2021-01-26,2022-02-10,,2021-11-28,2020-06-14
+SPARTA-281,Jackson Conway,jackson.conway@gch.org,Male,White,Yes,44,Moderna,2021-02-08,2021-03-09,2020-04-01,,2021-10-19,2020-06-26
+SPARTA-282,Maximus Martinez,maximus.martinez@gch.org,Male,Asian,Yes,36,Pfizer,2021-01-23,2021-02-15,2020-05-08,2022-02-14,2021-12-02,2021-01-04
+SPARTA-283,Melissa Sharpe,melissa.sharpe@gch.org,Female,Asian,Yes,43,Pfizer,2021-01-15,2021-02-04,2020-03-29,,2021-12-20,2021-01-07
+SPARTA-284,Milan Woodard,milan.woodard@gch.org,Female,Black or African American,Yes,49,Pfizer,2021-01-15,2021-02-05,2020-04-30,2022-01-21,2021-09-01,2020-06-29
+SPARTA-285,Rahul Le,rahul.le@gch.org,Male,Asian,Yes,47,Pfizer,2021-01-23,2021-02-11,2020-04-11,,2021-09-17,2020-06-03
+SPARTA-286,Rhodri Giles,rhodri.giles@gch.org,Male,Black or African American,Yes,47,Pfizer,2021-01-16,2021-02-08,2020-04-19,,2021-10-11,2020-06-15
+SPARTA-287,Joyce Colon,joyce.colon@gch.org,Female,White,No,44,Pfizer,2021-01-10,2021-01-29,,,2021-11-05,2020-12-29
+SPARTA-288,Kiera Chan,kiera.chan@gch.org,Female,White,No,62,Moderna,2021-01-17,2021-02-12,2022-02-12,,2021-10-12,2020-06-18
+SPARTA-289,Cade Blanchard,cade.blanchard@gch.org,Female,White,Yes,54,Pfizer,2021-02-20,2021-03-11,2020-04-05,,2021-10-17,2020-06-04
+SPARTA-290,Ellis Reeves,ellis.reeves@gch.org,Female,Black or African American,No,50,Pfizer,2021-01-18,2021-02-10,2022-02-22,,2021-09-29,2020-06-01
+SPARTA-291,Roman Bernard,roman.bernard@gch.org,Male,White,No,52,Pfizer,2021-01-23,2021-02-15,2022-02-10,,2021-10-21,2020-06-24
+SPARTA-292,Niamh Hoffman,niamh.hoffman@gch.org,Female,White,No,43,Pfizer,2021-01-19,2021-02-11,,,2021-12-11,2020-06-19
+SPARTA-293,Kayla Wilson,kayla.wilson@gch.org,Female,Black or African American,No,41,Pfizer,2021-01-25,2021-02-13,2022-01-17,,2021-10-26,2020-06-12
+SPARTA-294,Alyssa Blair,alyssa.blair@gch.org,Female,White,No,41,Pfizer,2021-01-21,2021-02-11,,,2021-09-19,2021-01-13
+SPARTA-295,Lilian Dominguez,lilian.dominguez@gch.org,Female,White,Yes,49,Moderna,2021-01-11,2021-02-09,2020-03-28,2022-01-14,2021-10-10,2021-01-07
+SPARTA-296,Sadia Wells,sadia.wells@gch.org,Female,White,No,49,Pfizer,2021-01-05,2021-01-26,2022-01-31,,2021-09-06,2020-07-06
+SPARTA-297,Aysha Farmer,aysha.farmer@gch.org,Female,White,No,46,Pfizer,2021-01-29,2021-02-19,2022-01-08,,2021-10-14,2020-05-20
+SPARTA-298,Angela Brewer,angela.brewer@gch.org,Female,White,No,42,Moderna,2021-01-16,2021-02-12,2022-02-04,,2021-10-01,2020-05-26
+SPARTA-299,Arianna Maldonado,arianna.maldonado@gch.org,Female,Hispanic or Latino,Yes,45,Pfizer,2021-01-12,2021-02-04,2020-04-09,2022-02-25,2021-10-15,2020-06-23
+SPARTA-300,Eliana Shaffer,eliana.shaffer@gch.org,Female,White,No,42,Moderna,2021-01-10,2021-02-06,2022-01-15,,2021-12-20,2021-01-03
+SPARTA-301,Eileen Morgan,eileen.morgan@gch.org,Female,Asian,Yes,41,Pfizer,2021-01-21,2021-02-12,2020-04-16,,2021-10-02,2021-01-10
+SPARTA-302,Nadia Contreras,nadia.contreras@gch.org,Female,White,No,39,Pfizer,2021-01-12,2021-02-03,2022-02-10,,2021-09-21,2020-06-27
+SPARTA-303,Kacie Stokes,kacie.stokes@gch.org,Female,Asian,Yes,46,Pfizer,2021-01-22,2021-02-12,2020-04-01,,2021-10-11,2020-06-23
+SPARTA-304,Alex Finley,alex.finley@gch.org,Female,White,No,47,Moderna,2021-01-30,2021-02-28,2022-01-31,,2021-09-16,2020-06-11
+SPARTA-305,Cara Harmon,cara.harmon@gch.org,Female,White,No,52,Moderna,2021-02-02,2021-03-01,2022-02-09,,2021-12-22,2021-01-21
+SPARTA-306,Esmee Oliver,esmee.oliver@gch.org,Female,White,No,52,Pfizer,2021-01-09,2021-02-01,,,2021-09-25,2020-05-31
+SPARTA-307,Sapphire Case,sapphire.case@gch.org,Female,Asian,Yes,41,Pfizer,2021-01-17,2021-02-07,2020-04-11,,2021-10-15,2020-06-06
+SPARTA-308,Katelyn Larsen,katelyn.larsen@gch.org,Female,White,Yes,51,Moderna,2021-01-28,2021-02-27,2020-04-25,,2021-12-26,2021-01-09
+SPARTA-309,Jorge John,jorge.john@gch.org,Male,White,No,44,Pfizer,2021-01-05,2021-01-27,,,2021-11-07,2020-05-26
+SPARTA-310,Imogen Merritt,imogen.merritt@gch.org,Female,Asian,Yes,38,Pfizer,2021-01-17,2021-02-07,2020-04-03,2022-02-22,2021-10-20,2020-06-14
+SPARTA-311,Lee Osborne,lee.osborne@gch.org,Female,Hispanic or Latino,Yes,41,Pfizer,2021-01-08,2021-01-31,2020-03-12,,2021-11-01,2020-06-20
+SPARTA-312,Jennifer Baker,jennifer.baker@gch.org,Female,White,No,34,Pfizer,2021-01-10,2021-01-29,2022-01-22,,2021-10-25,2020-06-07
+SPARTA-313,Ollie Leonard,ollie.leonard@gch.org,Female,Asian,Yes,37,Moderna,2021-01-17,2021-02-13,2020-03-22,,2021-12-22,2020-06-02
+SPARTA-314,Tamara Nielsen,tamara.nielsen@gch.org,Female,Asian,No,55,Pfizer,2021-01-11,2021-02-03,2022-01-13,,2021-10-17,2020-06-20
+SPARTA-315,Iona Sosa,iona.sosa@gch.org,Female,White,No,33,Pfizer,2021-01-17,2021-02-08,2022-01-24,,2021-10-18,2020-05-29
+SPARTA-316,Tatiana Brady,tatiana.brady@gch.org,Female,Asian,Yes,47,Pfizer,2021-01-16,2021-02-04,2020-05-12,,2021-09-02,2020-06-06
+SPARTA-317,Penelope Simmons,penelope.simmons@gch.org,Female,White,No,54,Pfizer,2021-01-21,2021-02-10,,,2021-08-20,2020-06-11
+SPARTA-318,Arabella Stephens,arabella.stephens@gch.org,Female,White,No,42,Moderna,2021-01-21,2021-02-18,2022-01-21,,2021-09-30,2020-06-12
+SPARTA-319,Milo Maldonado,milo.maldonado@gch.org,Male,White,No,44,Pfizer,2021-01-16,2021-02-08,2022-02-10,,2021-09-15,2020-06-12
+SPARTA-320,Judy Cohen,judy.cohen@gch.org,Female,White,Yes,44,Pfizer,2021-01-13,2021-02-05,2020-04-27,,2021-10-15,2021-01-22
+SPARTA-321,Philip Hewitt,philip.hewitt@gch.org,Male,White,No,49,Pfizer,2021-01-19,2021-02-10,,,2021-09-05,2020-06-20
+SPARTA-322,Lydia Wiley,lydia.wiley@gch.org,Female,White,No,39,Pfizer,2021-01-12,2021-01-31,2022-02-14,,2021-10-05,2020-06-07
+SPARTA-323,Taylor Benton,taylor.benton@gch.org,Female,Black or African American,Yes,41,Pfizer,2021-01-10,2021-01-29,2020-04-15,,2021-09-03,2020-06-18
+SPARTA-324,Tessa Walsh,tessa.walsh@gch.org,Female,Asian,No,64,Pfizer,2021-02-07,2021-03-01,2022-01-29,,2021-10-13,2020-12-26
+SPARTA-325,Miya Horne,miya.horne@gch.org,Female,White,Yes,48,Pfizer,2021-01-11,2021-02-02,2020-03-24,2022-02-06,2021-10-08,2020-06-17
+SPARTA-326,Liberty Parks,liberty.parks@gch.org,Female,White,Yes,51,Pfizer,2021-01-13,2021-02-03,2020-04-28,,2021-09-04,2020-06-23
+SPARTA-327,Sulayman Salas,sulayman.salas@gch.org,Male,White,No,69,Pfizer,2021-01-14,2021-02-05,2022-02-15,,2021-11-29,2020-06-09
+SPARTA-328,Claudia Gould,claudia.gould@gch.org,Female,Asian,No,58,Moderna,2021-01-07,2021-02-02,2022-01-21,,2021-10-16,2020-06-01
+SPARTA-329,Stephanie Blake,stephanie.blake@gch.org,Female,Black or African American,Yes,39,Pfizer,2021-01-27,2021-02-19,2020-05-25,,2021-10-23,2020-06-19
+SPARTA-330,Dominic Hebert,dominic.hebert@gch.org,Male,Hispanic or Latino,No,47,Pfizer,2021-01-21,2021-02-10,2022-01-08,,2021-10-25,2021-01-17
+SPARTA-331,Ellena Holmes,ellena.holmes@gch.org,Female,White,No,37,Pfizer,2021-01-05,2021-01-27,2022-02-10,,2021-10-06,2021-01-20
+SPARTA-332,Emma Bryant,emma.bryant@gch.org,Female,Hispanic or Latino,No,53,Moderna,2021-02-05,2021-03-04,2022-02-09,,2021-10-14,2020-05-17
+SPARTA-333,Matthew Mcgowan,matthew.mcgowan@gch.org,Male,White,Yes,39,Pfizer,2021-02-18,2021-03-11,2020-05-02,,2021-08-25,2020-06-15
+SPARTA-334,Velma Conley,velma.conley@gch.org,Female,Asian,No,57,Pfizer,2021-01-13,2021-02-01,2022-02-04,,2021-11-29,2021-01-22
+SPARTA-335,Olly Zamora,olly.zamora@gch.org,Male,White,No,53,Pfizer,2021-01-11,2021-02-03,2022-02-10,,2021-12-21,2021-01-08
+SPARTA-336,Alexander Kim,alexander.kim@gch.org,Male,White,Yes,33,Pfizer,2021-01-07,2021-01-28,2020-03-24,2022-02-16,2021-10-09,2020-12-25
+SPARTA-337,Drew Wu,drew.wu@gch.org,Female,White,Yes,39,Pfizer,2021-01-05,2021-01-27,2020-04-29,2022-01-20,2021-11-04,2020-06-01
+SPARTA-338,Chanel Salas,chanel.salas@gch.org,Female,Asian,No,40,Pfizer,2021-01-16,2021-02-05,2022-01-30,,2021-09-16,2020-06-19
+SPARTA-339,Eshal Buck,eshal.buck@gch.org,Female,Asian,No,34,Pfizer,2021-01-22,2021-02-13,,,2021-12-26,2020-06-22
+SPARTA-340,Harley Franklin,harley.franklin@gch.org,Female,Asian,Yes,60,Pfizer,2021-01-08,2021-01-27,2020-04-15,,2021-09-09,2020-06-09
+SPARTA-341,Sumayyah Ramos,sumayyah.ramos@gch.org,Female,White,No,52,Moderna,2021-01-15,2021-02-12,2022-02-10,,2021-09-21,2020-06-16
+SPARTA-342,Aysha Yates,aysha.yates@gch.org,Female,White,No,58,Pfizer,2021-01-17,2021-02-06,2022-02-15,,2021-10-05,2020-06-17
+SPARTA-343,Rohan Blackwell,rohan.blackwell@gch.org,Female,Hispanic or Latino,No,57,Pfizer,2021-01-16,2021-02-05,2022-02-20,,2021-09-20,2020-06-28
+SPARTA-344,Freddie Browning,freddie.browning@gch.org,Female,White,No,45,Moderna,2021-01-29,2021-02-25,2022-01-29,,2021-12-10,2020-06-22
+SPARTA-345,Ashleigh Bonilla,ashleigh.bonilla@gch.org,Female,White,Yes,43,Pfizer,2021-02-06,2021-02-26,2020-04-01,2022-01-17,2021-12-24,2020-05-23
+SPARTA-346,Aiza Bray,aiza.bray@gch.org,Female,Asian,No,50,Pfizer,2021-01-10,2021-01-31,2022-02-08,,2021-09-17,2020-06-14
+SPARTA-347,Archibald Ortiz,archibald.ortiz@gch.org,Male,Black or African American,Yes,42,Pfizer,2021-01-19,2021-02-10,2020-03-26,,2021-09-18,2020-07-04
+SPARTA-348,Hattie Oconnor,hattie.oconnor@gch.org,Female,White,Yes,48,Pfizer,2021-01-11,2021-02-01,2020-04-03,,2021-09-09,2020-06-09
+SPARTA-349,Melisa Jarvis,melisa.jarvis@gch.org,Female,Black or African American,No,59,Pfizer,2021-01-28,2021-02-16,2022-02-14,,2021-09-26,2021-01-05
+SPARTA-350,Kurtis Wilkinson,kurtis.wilkinson@gch.org,Male,White,No,39,Pfizer,2021-01-15,2021-02-06,2022-01-21,,2021-09-29,2020-12-14
+SPARTA-351,Monty Campos,monty.campos@gch.org,Male,Asian,No,37,Pfizer,2021-01-12,2021-02-01,,,2021-09-30,2020-06-13
+SPARTA-352,Leighton Bonner,leighton.bonner@gch.org,Female,Asian,No,41,Pfizer,2021-02-07,2021-03-01,2022-02-01,,2021-10-27,2020-06-19
+SPARTA-353,Lily-Rose Craig,lily-rose.craig@gch.org,Female,White,No,48,Pfizer,2021-02-09,2021-03-04,2022-02-17,,2021-12-09,2020-06-29
+SPARTA-354,Virgil Acevedo,virgil.acevedo@gch.org,Male,Asian,Yes,42,Pfizer,2021-01-20,2021-02-09,2020-04-19,,2021-09-15,2020-06-14
+SPARTA-355,Kirsty Espinoza,kirsty.espinoza@gch.org,Female,White,Yes,38,Moderna,2021-01-29,2021-02-24,2020-04-05,,2021-09-11,2021-01-05
+SPARTA-356,Yasin Turner,yasin.turner@gch.org,Male,Black or African American,No,41,Pfizer,2021-01-26,2021-02-16,2022-01-28,,2021-10-24,2020-06-10
+SPARTA-357,Ralph Butler,ralph.butler@gch.org,Male,White,No,39,Pfizer,2021-01-22,2021-02-12,2022-01-24,,2021-12-27,2020-06-16
+SPARTA-358,Gail Navarro,gail.navarro@gch.org,Female,Asian,No,54,Moderna,2021-01-08,2021-02-04,2022-01-20,,2021-09-16,2020-06-09
+SPARTA-359,Kevin Horton,kevin.horton@gch.org,Male,White,Yes,52,Pfizer,2021-01-04,2021-01-24,2020-04-19,,2021-10-14,2020-06-24
+SPARTA-360,Zackary Cline,zackary.cline@gch.org,Male,White,No,38,Pfizer,2021-01-28,2021-02-18,2022-02-07,,2021-10-10,2020-12-15
+SPARTA-361,Francesca Holmes,francesca.holmes@gch.org,Female,White,No,56,Moderna,2021-02-12,2021-03-12,2022-02-18,,2021-09-08,2020-06-18
+SPARTA-362,Devon Rivas,devon.rivas@gch.org,Female,White,No,42,Moderna,2021-01-22,2021-02-18,2022-02-12,,2021-11-01,2021-01-05
+SPARTA-363,Juanita Osborn,juanita.osborn@gch.org,Female,White,No,43,Pfizer,2021-01-06,2021-01-25,2022-02-18,,2021-10-18,2020-12-23
+SPARTA-364,Jade Cantrell,jade.cantrell@gch.org,Female,White,No,54,Pfizer,2021-01-30,2021-02-19,2022-01-28,,2021-09-04,2020-06-25
+SPARTA-365,Crystal Kane,crystal.kane@gch.org,Female,Black or African American,Yes,35,Pfizer,2021-01-07,2021-01-30,2020-04-21,,2021-10-13,2020-06-05
+SPARTA-366,Axel Weeks,axel.weeks@gch.org,Male,Asian,No,43,Pfizer,2021-02-05,2021-02-25,2022-01-31,,2021-09-21,2020-06-30
+SPARTA-367,Chaim O'Connor,chaim.oconnor@gch.org,Male,White,Yes,37,Pfizer,2021-01-18,2021-02-07,2020-04-19,2022-01-22,2021-11-06,2020-06-19
+SPARTA-368,Aishah Morton,aishah.morton@gch.org,Female,Hispanic or Latino,No,39,Pfizer,2021-01-30,2021-02-20,2022-01-27,,2021-12-04,2020-06-05
+SPARTA-369,Barbara Vasquez,barbara.vasquez@gch.org,Female,White,No,48,Pfizer,2021-01-15,2021-02-04,,,2021-09-29,2020-05-25
+SPARTA-370,Chantelle Downs,chantelle.downs@gch.org,Female,White,No,48,Pfizer,2021-01-19,2021-02-07,2022-02-04,,2021-12-11,2020-12-27
+SPARTA-371,Miguel Pruitt,miguel.pruitt@gch.org,Male,White,No,62,Pfizer,2021-01-21,2021-02-12,2022-02-03,,2021-08-25,2020-06-10
+SPARTA-372,Rosalie O'Ryan,rosalie.oryan@gch.org,Female,White,No,54,Pfizer,2021-01-04,2021-01-25,2022-02-14,,2021-10-25,2021-01-01
+SPARTA-373,Katy Watkins,katy.watkins@gch.org,Female,White,No,37,Pfizer,2021-01-18,2021-02-10,2022-01-29,,2021-10-04,2020-12-29
+SPARTA-374,Jorja Rush,jorja.rush@gch.org,Female,Asian,Yes,51,Pfizer,2021-01-19,2021-02-08,2020-04-17,,2021-09-13,2020-06-18
+SPARTA-375,Sanaa Hodge,sanaa.hodge@gch.org,Female,White,No,44,Pfizer,2021-01-19,2021-02-07,2022-01-24,,2021-12-17,2020-06-19
+SPARTA-376,Jaydon Rios,jaydon.rios@gch.org,Male,Asian,No,48,Moderna,2021-01-12,2021-02-08,2022-03-03,,2021-11-29,2021-01-06
+SPARTA-377,Wade Whitney,wade.whitney@gch.org,Male,White,Yes,41,Pfizer,2021-01-14,2021-02-06,2020-03-24,,2021-10-25,2021-01-18
+SPARTA-378,Kade Clayton,kade.clayton@gch.org,Male,White,No,39,Pfizer,2021-01-25,2021-02-16,2022-01-13,,2021-10-19,2020-06-17
+SPARTA-379,Freddie Acevedo,freddie.acevedo@gch.org,Female,White,Yes,45,Pfizer,2021-01-22,2021-02-14,2020-04-07,2022-01-20,2021-09-20,2020-06-11
+SPARTA-380,Cai Noble,cai.noble@gch.org,Female,Hispanic or Latino,Yes,49,Moderna,2021-02-09,2021-03-07,2020-04-10,2022-02-12,2021-12-20,2020-06-10
+SPARTA-381,Bailey Benson,bailey.benson@gch.org,Female,Asian,Yes,37,Pfizer,2021-01-24,2021-02-12,2020-03-31,,2021-09-16,2020-06-28
+SPARTA-382,Aiza Mata,aiza.mata@gch.org,Female,White,Yes,40,Pfizer,2021-01-13,2021-02-01,2020-04-24,,2021-10-07,2020-06-12
+SPARTA-383,Cory Vargas,cory.vargas@gch.org,Male,Black or African American,No,38,Pfizer,2021-01-16,2021-02-05,2022-01-22,,2021-12-12,2021-01-01
+SPARTA-384,Robin Herrera,robin.herrera@gch.org,Female,White,No,32,Pfizer,2021-01-10,2021-02-02,2022-02-01,,2021-10-04,2020-06-28
+SPARTA-385,Jensen Horn,jensen.horn@gch.org,Male,White,Yes,42,Pfizer,2021-01-30,2021-02-19,2020-05-15,,2021-10-27,2020-06-02
+SPARTA-386,Haydn Gentry,haydn.gentry@gch.org,Female,White,Yes,38,Pfizer,2021-01-10,2021-02-01,2020-04-19,,2021-12-30,2020-06-20
+SPARTA-387,Elijah Lawrence,elijah.lawrence@gch.org,Female,White,No,44,Pfizer,2021-01-30,2021-02-19,2022-02-18,,2021-12-22,2021-01-09
+SPARTA-388,Dexter Chapman,dexter.chapman@gch.org,Male,White,No,48,Pfizer,2021-01-21,2021-02-10,2022-02-01,,2021-09-04,2020-12-22
+SPARTA-389,Vivian Campos,vivian.campos@gch.org,Female,Asian,Yes,55,Pfizer,2021-01-15,2021-02-06,2020-04-17,,2021-12-16,2020-06-05
+SPARTA-390,Wendy Mcbride,wendy.mcbride@gch.org,Female,White,Yes,50,Pfizer,2021-02-14,2021-03-09,2020-04-16,,2021-09-19,2020-06-04
+SPARTA-391,Josephine O'Neill,josephine.oneill@gch.org,Female,Black or African American,No,43,Pfizer,2021-02-03,2021-02-24,2022-01-31,,2021-12-06,2020-12-29
+SPARTA-392,Traci Pena,traci.pena@gch.org,Female,White,No,44,Pfizer,2021-01-19,2021-02-08,2022-02-15,,2021-11-29,2020-06-12
+SPARTA-393,Taya Powers,taya.powers@gch.org,Female,White,No,40,Moderna,2021-01-18,2021-02-15,,,2021-10-10,2020-05-23
+SPARTA-394,Anika Knapp,anika.knapp@gch.org,Female,White,Yes,37,Pfizer,2021-01-20,2021-02-08,2020-04-13,2022-01-24,2021-09-14,2020-06-15
+SPARTA-395,Fannie Morrison,fannie.morrison@gch.org,Female,Hispanic or Latino,No,50,Pfizer,2021-01-16,2021-02-07,2022-02-09,,2021-09-24,2020-06-09
+SPARTA-396,Shawn Cantrell,shawn.cantrell@gch.org,Male,White,No,42,Pfizer,2021-01-08,2021-01-30,2022-02-12,,2021-10-29,2020-06-11
+SPARTA-397,Lois Santiago,lois.santiago@gch.org,Female,Hispanic or Latino,No,47,Moderna,2021-01-30,2021-02-26,2022-02-11,,2021-09-08,2020-06-24
+SPARTA-398,Ibrahim Jensen,ibrahim.jensen@gch.org,Male,White,Yes,45,Moderna,2021-01-21,2021-02-19,2020-04-28,,2021-12-13,2020-06-20
+SPARTA-399,Callan Pena,callan.pena@gch.org,Female,Asian,Yes,48,Pfizer,2021-01-22,2021-02-13,2020-04-16,2022-01-25,2021-09-23,2020-06-25
+SPARTA-400,Mila Zuniga,mila.zuniga@gch.org,Female,Asian,No,54,Pfizer,2021-01-21,2021-02-09,,,2021-09-18,2020-06-21
+SPARTA-401,Kathryn Love,kathryn.love@gch.org,Female,Asian,No,39,Pfizer,2021-01-06,2021-01-26,2022-02-09,,2021-10-05,2020-06-18
+SPARTA-402,Darragh Bradley,darragh.bradley@gch.org,Male,White,Yes,38,Pfizer,2021-01-11,2021-01-31,2020-03-29,2022-01-25,2021-10-12,2020-06-12
+SPARTA-403,Lulu Hunt,lulu.hunt@gch.org,Female,Hispanic or Latino,Yes,44,Moderna,2021-01-18,2021-02-17,2020-04-13,2022-02-01,2021-12-14,2020-06-20
+SPARTA-404,Agnes Lowe,agnes.lowe@gch.org,Female,White,Yes,47,Pfizer,2021-01-27,2021-02-15,2020-03-27,2022-01-21,2021-12-15,2020-12-30
+SPARTA-405,Ayesha Osborn,ayesha.osborn@gch.org,Female,White,Yes,51,Pfizer,2021-02-19,2021-03-12,2020-04-25,2022-01-28,2021-10-11,2020-07-04
+SPARTA-406,Rocco Bowers,rocco.bowers@gch.org,Male,White,Yes,44,Pfizer,2021-01-13,2021-02-02,2020-05-05,,2021-12-11,2020-12-28
+SPARTA-407,Shannon Lindsey,shannon.lindsey@gch.org,Female,White,No,41,Pfizer,2021-01-13,2021-02-01,2022-02-06,,2021-12-05,2020-07-01
+SPARTA-408,Billie Willis,billie.willis@gch.org,Female,Black or African American,Yes,44,Pfizer,2021-01-22,2021-02-14,2020-04-27,2022-01-27,2021-09-26,2020-12-22
+SPARTA-409,Abbas Roy,abbas.roy@gch.org,Male,White,Yes,51,Pfizer,2021-01-11,2021-02-01,2020-05-04,,2021-09-15,2020-06-11
+SPARTA-410,Jay Valdez,jay.valdez@gch.org,Male,White,Yes,41,Pfizer,2021-01-30,2021-02-22,2020-04-22,,2021-10-28,2020-06-12
+SPARTA-411,Barney Allison,barney.allison@gch.org,Male,Asian,No,46,Moderna,2021-01-19,2021-02-16,2022-02-17,,2021-09-17,2020-06-06
+SPARTA-412,Jessie Pham,jessie.pham@gch.org,Female,Black or African American,Yes,36,Pfizer,2021-01-10,2021-01-30,2020-04-11,2022-01-10,2021-10-16,2020-06-24
+SPARTA-413,Jacqueline Palmer,jacqueline.palmer@gch.org,Female,White,Yes,47,Pfizer,2021-02-22,2021-03-14,2020-04-09,2022-02-26,2021-09-05,2020-06-23
+SPARTA-414,Byron Kirby,byron.kirby@gch.org,Male,Asian,Yes,44,Pfizer,2021-01-14,2021-02-05,2020-04-06,,2021-09-27,2020-06-21
+SPARTA-415,Sumaiya Day,sumaiya.day@gch.org,Female,White,No,45,Pfizer,2021-01-03,2021-01-25,2022-02-05,,2021-10-20,2020-12-25
+SPARTA-416,Caitlyn Hayes,caitlyn.hayes@gch.org,Female,Black or African American,No,47,Moderna,2021-01-08,2021-02-06,2022-01-29,,2021-09-10,2020-06-27
+SPARTA-417,Eliot Gill,eliot.gill@gch.org,Female,White,No,45,Pfizer,2021-01-18,2021-02-07,,,2021-10-07,2020-06-24
+SPARTA-418,Lilian Ho,lilian.ho@gch.org,Female,White,Yes,43,Pfizer,2021-01-27,2021-02-19,2020-03-27,,2021-09-12,2020-06-07
+SPARTA-419,Harrison Michael,harrison.michael@gch.org,Male,Hispanic or Latino,No,39,Moderna,2021-01-17,2021-02-14,2022-02-05,,2021-10-22,2021-01-05
+SPARTA-420,Eleanor Hood,eleanor.hood@gch.org,Female,Asian,No,35,Pfizer,2021-01-15,2021-02-04,2022-02-24,,2021-12-04,2020-06-01
+SPARTA-421,Samira Archer,samira.archer@gch.org,Female,Black or African American,Yes,50,Pfizer,2021-01-12,2021-02-04,2020-04-17,2022-02-06,2021-09-08,2020-06-20
+SPARTA-422,Thalia Gilmore,thalia.gilmore@gch.org,Female,Black or African American,Yes,46,Moderna,2021-01-11,2021-02-10,2020-04-19,,2021-10-05,2020-06-11
+SPARTA-423,Liliana Watkins,liliana.watkins@gch.org,Female,White,No,39,Pfizer,2021-01-03,2021-01-26,,,2021-12-20,2020-06-22
+SPARTA-424,Laura Carr,laura.carr@gch.org,Female,Asian,No,42,Pfizer,2021-01-05,2021-01-24,2022-02-10,,2022-01-01,2020-12-31
+SPARTA-425,Kaden Green,kaden.green@gch.org,Male,Asian,No,38,Pfizer,2021-02-18,2021-03-11,2022-03-01,,2021-09-29,2020-06-21
+SPARTA-426,Alexandros Page,alexandros.page@gch.org,Male,White,No,51,Pfizer,2021-02-09,2021-03-04,2022-02-06,,2021-12-05,2020-06-22
+SPARTA-427,Kieran Gonzales,kieran.gonzales@gch.org,Male,White,No,45,Pfizer,2021-01-30,2021-02-21,2022-02-05,,2021-09-24,2020-06-25
+SPARTA-428,Shanice Robbins,shanice.robbins@gch.org,Female,White,Yes,39,Pfizer,2021-01-17,2021-02-08,2020-04-24,2022-03-06,2021-09-22,2021-01-18
+SPARTA-429,Kylie Macdonald,kylie.macdonald@gch.org,Female,White,No,41,Moderna,2021-01-30,2021-02-28,2022-02-12,,2021-12-25,2020-06-20
+SPARTA-430,Bella Knox,bella.knox@gch.org,Female,White,No,51,Pfizer,2021-01-27,2021-02-19,2022-02-19,,2021-12-18,2020-06-23
+SPARTA-431,Axel Hicks,axel.hicks@gch.org,Male,White,No,37,Pfizer,2021-01-17,2021-02-09,2022-02-17,,2021-10-05,2020-06-05
+SPARTA-432,Robyn Archer,robyn.archer@gch.org,Female,White,Yes,53,Pfizer,2021-01-21,2021-02-13,2020-04-09,,2022-01-05,2020-06-18
+SPARTA-433,Kaya Edwards,kaya.edwards@gch.org,Male,White,Yes,48,Pfizer,2021-01-07,2021-01-26,2020-04-18,2022-01-04,2021-09-06,2020-06-17
+SPARTA-434,Brooklyn Cole,brooklyn.cole@gch.org,Female,White,Yes,39,Pfizer,2021-02-03,2021-02-26,2020-04-28,,2021-12-29,2020-06-11
+SPARTA-435,Eshal Olsen,eshal.olsen@gch.org,Female,White,No,43,Moderna,2021-02-11,2021-03-11,2022-02-11,,2021-09-13,2020-06-12
+SPARTA-436,Mary Carpenter,mary.carpenter@gch.org,Female,White,No,44,Pfizer,2021-01-10,2021-01-29,2022-01-22,,2021-12-12,2020-06-12
+SPARTA-437,Adrian Maddox,adrian.maddox@gch.org,Female,Black or African American,No,44,Pfizer,2021-01-20,2021-02-09,2022-02-07,,2021-10-01,2020-06-13
+SPARTA-438,Jordan Norton,jordan.norton@gch.org,Male,Asian,Yes,53,Pfizer,2021-02-03,2021-02-25,2020-04-17,2022-02-07,2021-09-06,2021-01-17
+SPARTA-439,Tyrese Christensen,tyrese.christensen@gch.org,Male,Hispanic or Latino,Yes,56,Pfizer,2021-01-19,2021-02-07,2020-04-15,,2021-10-20,2020-12-24
+SPARTA-440,Marissa Mcpherson,marissa.mcpherson@gch.org,Male,Hispanic or Latino,No,37,Pfizer,2021-01-28,2021-02-16,2022-01-29,,2021-09-01,2020-06-22
+SPARTA-441,Sharon Carr,sharon.carr@gch.org,Female,White,No,46,Pfizer,2021-01-06,2021-01-26,2022-02-07,,2021-09-22,2020-06-20
+SPARTA-442,Ana Gay,ana.gay@gch.org,Female,Asian,No,48,Pfizer,2021-01-06,2021-01-29,2022-02-01,,2021-10-09,2020-06-03
+SPARTA-443,Beatrix Russo,beatrix.russo@gch.org,Female,White,No,50,Pfizer,2021-01-22,2021-02-11,2022-02-06,,2021-08-28,2020-06-06
+SPARTA-444,Keaton Browning,keaton.browning@gch.org,Male,Asian,Yes,39,Pfizer,2021-01-26,2021-02-17,2020-04-12,,2021-09-08,2020-06-13
+SPARTA-445,Mahnoor Dixon,mahnoor.dixon@gch.org,Female,Asian,No,52,Pfizer,2021-01-16,2021-02-04,2022-01-28,,2021-09-29,2020-06-30
+SPARTA-446,Euan Morton,euan.morton@gch.org,Male,White,Yes,40,Pfizer,2021-01-23,2021-02-12,2020-04-24,2022-03-04,2021-10-02,2020-06-07
+SPARTA-447,Stella Stafford,stella.stafford@gch.org,Female,Black or African American,No,39,Pfizer,2021-01-24,2021-02-13,2022-02-11,,2021-10-23,2020-06-12
+SPARTA-448,Luqman Odling,luqman.odling@gch.org,Male,White,No,59,Moderna,2021-01-17,2021-02-14,2022-01-24,,2021-10-11,2021-01-06
+SPARTA-449,Chloe Harvey,chloe.harvey@gch.org,Female,White,No,53,Pfizer,2021-01-16,2021-02-06,2022-01-27,,2021-09-18,2020-06-04
+SPARTA-450,Shanice Santiago,shanice.santiago@gch.org,Female,White,No,40,Pfizer,2021-01-15,2021-02-06,2022-02-03,,2021-10-28,2021-01-15
+SPARTA-451,Jamal Castaneda,jamal.castaneda@gch.org,Male,Black or African American,Yes,46,Pfizer,2021-01-08,2021-01-29,2020-04-24,2022-01-30,2021-10-26,2020-06-19
+SPARTA-452,Myrtle Yates,myrtle.yates@gch.org,Female,Asian,No,37,Pfizer,2021-01-06,2021-01-25,2022-01-31,,2021-10-23,2020-12-23
+SPARTA-453,Savannah Mullen,savannah.mullen@gch.org,Female,White,Yes,35,Pfizer,2021-01-20,2021-02-10,2020-04-14,2022-02-03,2021-11-03,2020-05-23
+SPARTA-454,Louise Curtis,louise.curtis@gch.org,Female,White,No,49,Pfizer,2021-01-15,2021-02-05,2022-02-02,,2021-10-14,2020-06-30
+SPARTA-455,Louise Walter,louise.walter@gch.org,Female,White,No,42,Moderna,2021-02-17,2021-03-18,2022-02-12,,2021-12-03,2020-06-18
+SPARTA-456,Ciara Mcintyre,ciara.mcintyre@gch.org,Female,Asian,Yes,46,Pfizer,2021-01-17,2021-02-07,2020-04-12,,2021-12-06,2020-06-21
+SPARTA-457,Freddy Tanner,freddy.tanner@gch.org,Male,White,No,49,Pfizer,2021-01-20,2021-02-12,2022-02-15,,2021-10-17,2020-06-10
+SPARTA-458,Bryony Guerra,bryony.guerra@gch.org,Female,White,Yes,47,Moderna,2021-01-27,2021-02-24,2020-04-03,2022-02-06,2021-09-21,2021-01-02
+SPARTA-459,Jayson Russell,jayson.russell@gch.org,Male,White,Yes,49,Pfizer,2021-01-30,2021-02-19,2020-04-05,,2021-12-16,2020-06-20
+SPARTA-460,Damien Summers,damien.summers@gch.org,Male,Black or African American,No,53,Pfizer,2021-01-25,2021-02-17,2022-01-07,,2021-09-29,2020-06-15
+SPARTA-461,Terry Jimenez,terry.jimenez@gch.org,Female,White,Yes,56,Pfizer,2021-01-16,2021-02-07,2020-04-23,,2021-10-15,2020-06-10
+SPARTA-462,Rhea Bennett,rhea.bennett@gch.org,Female,White,Yes,43,Pfizer,2021-01-07,2021-01-29,2020-04-28,2022-01-29,2021-09-08,2020-12-21
+SPARTA-463,Tommy Conway,tommy.conway@gch.org,Male,Hispanic or Latino,No,53,Pfizer,2021-01-08,2021-01-29,2022-01-21,,2021-12-11,2020-06-20
+SPARTA-464,Shauna Hoover,shauna.hoover@gch.org,Female,White,No,57,Moderna,2021-01-10,2021-02-08,2022-02-03,,2021-10-29,2020-06-25
+SPARTA-465,Cruz Gallegos,cruz.gallegos@gch.org,Male,White,No,48,Pfizer,2021-01-09,2021-02-01,,,2021-10-16,2020-06-23
+SPARTA-466,Lilli Rowland,lilli.rowland@gch.org,Female,Asian,Yes,36,Pfizer,2021-01-04,2021-01-23,2020-04-12,,2021-09-16,2020-07-04
+SPARTA-467,Adele Neal,adele.neal@gch.org,Female,White,No,41,Pfizer,2021-01-03,2021-01-26,,,2021-10-10,2021-01-04
+SPARTA-468,May Bennett,may.bennett@gch.org,Female,White,Yes,56,Moderna,2021-01-11,2021-02-08,2020-03-05,2022-02-04,2021-09-06,2020-06-17
+SPARTA-469,Ray Mcdonald,ray.mcdonald@gch.org,Female,White,No,49,Moderna,2021-01-05,2021-02-04,,,2021-10-24,2020-06-09
+SPARTA-470,Gabrielle Dejesus,gabrielle.dejesus@gch.org,Female,Asian,Yes,38,Pfizer,2021-01-18,2021-02-09,2020-04-07,2022-02-20,2021-12-24,2020-12-29
+SPARTA-471,Hugo Fuller,hugo.fuller@gch.org,Male,Asian,No,35,Pfizer,2021-01-17,2021-02-07,2022-01-21,,2021-10-25,2020-06-04
+SPARTA-472,Francis Salazar,francis.salazar@gch.org,Female,Black or African American,No,40,Pfizer,2021-01-25,2021-02-14,2022-01-09,,2021-12-24,2020-06-12
+SPARTA-473,Faisal Sparks,faisal.sparks@gch.org,Male,Asian,No,41,Pfizer,2021-01-18,2021-02-09,,,2021-12-10,2020-06-12
+SPARTA-474,Azaan Gibson,azaan.gibson@gch.org,Male,White,Yes,50,Pfizer,2021-01-23,2021-02-12,2020-04-09,,2021-12-10,2020-07-04
+SPARTA-475,Sarah Huffman,sarah.huffman@gch.org,Female,Asian,No,37,Pfizer,2021-01-10,2021-01-29,2022-01-27,,2021-09-24,2020-06-22
+SPARTA-476,Bethan O'Sullivan,bethan.osullivan@gch.org,Female,White,No,52,Moderna,2021-01-03,2021-01-30,2022-02-07,,2021-11-26,2020-06-15
+SPARTA-477,Muhammed Russell,muhammed.russell@gch.org,Male,White,No,60,Pfizer,2021-01-31,2021-02-21,2022-01-17,,2021-12-21,2020-06-16
+SPARTA-478,Elouise Livingston,elouise.livingston@gch.org,Female,Hispanic or Latino,Yes,41,Pfizer,2021-01-07,2021-01-28,2020-04-27,2022-01-01,2021-09-18,2020-05-29
+SPARTA-479,Safa Crosby,safa.crosby@gch.org,Male,White,Yes,47,Pfizer,2021-01-27,2021-02-18,2020-03-29,,2021-09-10,2020-06-06
+SPARTA-480,Amelia Horn,amelia.horn@gch.org,Female,White,No,46,Pfizer,2021-01-16,2021-02-06,2022-02-13,,2021-10-13,2021-01-07
+SPARTA-481,Viola Crosby,viola.crosby@gch.org,Female,Asian,No,59,Pfizer,2021-01-09,2021-01-30,2022-02-08,,2021-10-22,2020-06-04
+SPARTA-482,Tobias Harvey,tobias.harvey@gch.org,Male,Asian,No,43,Moderna,2021-01-15,2021-02-12,2022-02-13,,2021-12-22,2020-12-26
+SPARTA-483,Todd Stewart,todd.stewart@gch.org,Male,White,No,47,Pfizer,2021-01-16,2021-02-08,2022-01-20,,2021-12-07,2020-06-18
+SPARTA-484,Antonio Walsh,antonio.walsh@gch.org,Male,Hispanic or Latino,Yes,48,Moderna,2021-01-13,2021-02-08,2020-05-21,,2021-12-08,2021-01-05
+SPARTA-485,Frankie Pineda,frankie.pineda@gch.org,Male,White,No,47,Pfizer,2021-01-12,2021-02-03,2022-01-26,,2021-11-29,2020-06-28
+SPARTA-486,Rehan Kent,rehan.kent@gch.org,Male,Hispanic or Latino,No,44,Pfizer,2021-01-18,2021-02-07,2022-01-27,,2021-10-18,2020-12-26
+SPARTA-487,Eileen Moss,eileen.moss@gch.org,Female,White,No,50,Pfizer,2021-01-11,2021-02-03,2022-01-12,,2021-10-16,2020-07-02
+SPARTA-488,Gerard Horne,gerard.horne@gch.org,Male,Asian,Yes,42,Pfizer,2021-01-13,2021-02-01,2020-04-23,,2021-09-11,2021-01-19
+SPARTA-489,Brittney Barr,brittney.barr@gch.org,Female,White,Yes,44,Pfizer,2021-01-14,2021-02-02,2020-05-06,,2021-08-12,2020-06-01
+SPARTA-490,Natasha Holder,natasha.holder@gch.org,Female,Black or African American,No,65,Pfizer,2021-01-11,2021-01-30,2022-01-05,,2021-12-09,2021-01-15
+SPARTA-491,Kyla Callahan,kyla.callahan@gch.org,Female,Black or African American,No,50,Pfizer,2021-01-26,2021-02-16,2022-02-09,,2021-12-13,2020-12-27
+SPARTA-492,Harriet Ochoa,harriet.ochoa@gch.org,Female,Black or African American,Yes,45,Moderna,2021-01-09,2021-02-08,2020-04-20,,2021-12-19,2021-01-06
+SPARTA-493,Aya Merrill,aya.merrill@gch.org,Female,White,No,52,Pfizer,2021-01-19,2021-02-07,,,2021-11-01,2020-06-27
+SPARTA-494,Dale Richmond,dale.richmond@gch.org,Male,White,No,38,Pfizer,2021-01-18,2021-02-10,2022-02-01,,2021-09-19,2020-06-05
+SPARTA-495,Saoirse Merritt,saoirse.merritt@gch.org,Female,White,No,47,Pfizer,2021-01-31,2021-02-19,2022-01-24,,2021-11-19,2020-06-13
+SPARTA-496,Jordanne Wall,jordanne.wall@gch.org,Female,Asian,Yes,39,Pfizer,2021-01-20,2021-02-09,2020-04-22,,2021-10-22,2021-01-09
+SPARTA-497,Eden Randall,eden.randall@gch.org,Male,White,Yes,42,Moderna,2021-01-11,2021-02-09,2020-04-17,2022-02-01,2021-10-16,2020-06-15
+SPARTA-498,Ty Graham,ty.graham@gch.org,Female,White,No,40,Pfizer,2021-01-14,2021-02-02,2022-02-12,,2021-10-25,2020-06-11
+SPARTA-499,Carolyn Connor,carolyn.connor@gch.org,Female,White,Yes,51,Pfizer,2021-01-19,2021-02-09,2020-04-27,2022-01-19,2021-12-27,2020-06-19
+SPARTA-500,Lexie Prince,lexie.prince@gch.org,Female,Hispanic or Latino,No,47,Pfizer,2021-01-07,2021-01-30,2022-02-05,,2021-12-03,2020-06-09
